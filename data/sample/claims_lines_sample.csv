@@ -1,0 +1,1001 @@
+claim_line_id,claim_id,line_number,cpt_code,cpt_description,icd10_code,icd10_description,line_charge_amount,allowed_amount,paid_amount,units,service_date
+a55416c1-8c1a-4178-ad90-027978c209fd,8e41a9d8-55ba-4144-b19f-b17735b50833,1,36415,"Venipuncture, routine",M25.511,Pain in right shoulder,1846.01,1148.08,1129.25,3,2024-11-14
+c231c489-3c65-4058-a1c2-087adff6746e,8e41a9d8-55ba-4144-b19f-b17735b50833,2,99214,"Office visit, established patient, moderate complexity",M25.511,Pain in right shoulder,299.64,223.6,198.05,3,2024-11-14
+2cbd983d-63d6-417c-ac85-fdb7b89f19d3,08cb2bd1-1b62-4f37-95f9-9c82f9aa2cf7,1,99395,"Preventive visit, 18-39 years",E78.5,"Hyperlipidemia, unspecified",306.06,242.22,0.0,2,2025-09-25
+bd0cd093-ab16-4191-bfb4-6ac8ceb36d17,69d1f346-ac58-45e8-80dd-2566640a3641,1,99232,"Subsequent hospital care, moderate complexity",R10.9,Unspecified abdominal pain,159.79,119.7,100.04,1,2024-07-21
+fa3e9c9b-a843-4361-a907-486920d69f71,69d1f346-ac58-45e8-80dd-2566640a3641,2,90837,"Psychotherapy, 60 minutes",R10.9,Unspecified abdominal pain,1781.82,1552.54,1334.96,3,2024-07-21
+15e7b925-283f-42a6-a56d-c2c805ff6a25,56fbfd93-dd94-4be6-9105-23d96dc307ba,1,85025,Complete blood count with differential,J06.9,"Acute upper respiratory infection, unspecified",2247.42,1607.69,1586.77,1,2025-06-12
+9fd66fd4-9f43-4b00-8238-d959fec82e05,56fbfd93-dd94-4be6-9105-23d96dc307ba,2,99281,"Emergency department visit, self-limited problem",J06.9,"Acute upper respiratory infection, unspecified",707.96,622.18,528.17,2,2025-06-12
+7371ed33-6d00-4785-bcf3-86ff8dfdfee0,e4efe1ac-2254-414a-80b1-caa813a718a1,1,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,883.08,686.63,613.44,3,2025-07-07
+9f8bdd6e-3766-455f-8655-d694ee5bc5c4,e4efe1ac-2254-414a-80b1-caa813a718a1,2,99283,"Emergency department visit, moderate severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,180.8,171.53,132.03,3,2025-07-07
+2b9e41a8-9049-42bc-92de-922f311ff144,1705d40f-d830-48c0-9702-9654d40b2cc2,1,93000,"Electrocardiogram, complete",E03.9,"Hypothyroidism, unspecified",1158.57,958.02,928.79,3,2025-03-24
+666e99d6-069a-4996-8c53-25e7202509de,1705d40f-d830-48c0-9702-9654d40b2cc2,2,99281,"Emergency department visit, self-limited problem",E03.9,"Hypothyroidism, unspecified",1978.44,1366.53,1109.04,3,2025-03-24
+15e03b65-6ac1-49cd-a2f3-20827edd2228,8c3f75bf-e7e0-4637-b3e9-20cb25e1bd47,1,99395,"Preventive visit, 18-39 years",I25.10,Atherosclerotic heart disease of native coronary artery,730.99,723.16,688.3,2,2026-01-17
+dc792338-9cc7-4e54-b1f7-41498477a8ed,81efab43-eac4-451a-9b9f-cb22ad00785e,1,99281,"Emergency department visit, self-limited problem",G47.33,Obstructive sleep apnea,532.76,470.35,423.16,3,2025-01-12
+20aad143-88b4-430c-8ac0-d67ce67a7eaa,65a43158-2198-4e94-b80d-4d3963f8a152,1,90837,"Psychotherapy, 60 minutes",M79.3,"Panniculitis, unspecified",1927.08,1886.83,1845.97,2,2025-02-20
+f0c051d0-eed3-4c5a-a8bd-50daf27ea474,65a43158-2198-4e94-b80d-4d3963f8a152,2,99213,"Office visit, established patient, low complexity",M79.3,"Panniculitis, unspecified",2426.12,1985.68,1692.24,3,2025-02-20
+dad22fdc-1837-4565-96a9-45ad9c71d618,65a43158-2198-4e94-b80d-4d3963f8a152,3,90837,"Psychotherapy, 60 minutes",M79.3,"Panniculitis, unspecified",2242.54,2215.28,2051.9,2,2025-02-20
+a1de7eee-4fb7-4e43-870e-b5c1d6c75aaa,65a43158-2198-4e94-b80d-4d3963f8a152,4,99396,"Preventive visit, 40-64 years",M79.3,"Panniculitis, unspecified",1828.15,1771.33,1419.91,1,2025-02-20
+b23e3add-4932-4565-894e-6c835fcd2904,bdd165d3-571d-4773-a0ca-7f86911e1957,1,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",2106.17,1639.42,1193.08,1,2025-08-25
+3d946136-fca3-4d3d-88a1-6739e5c89e8a,02c7bfdf-262d-49b7-be94-046eb431fdbd,1,99215,"Office visit, established patient, high complexity",E11.9,Type 2 diabetes mellitus without complications,1357.57,1056.44,952.35,1,2024-12-10
+df570260-3f9e-4b90-96b3-bd7216595861,1042a861-3c2a-4894-9915-4f778a7b7e21,1,80053,Comprehensive metabolic panel,I10,Essential hypertension,1008.96,894.33,740.77,4,2025-05-04
+8bb83867-9b64-416e-ad91-5d6f9073e893,1042a861-3c2a-4894-9915-4f778a7b7e21,2,80053,Comprehensive metabolic panel,I10,Essential hypertension,55.17,40.71,32.26,4,2025-05-04
+2e391650-41a2-4eec-a50f-8a8a7403df5d,6d0ae4f3-e408-4e59-a895-cb1cfacdf7a6,1,93000,"Electrocardiogram, complete",R10.9,Unspecified abdominal pain,739.37,681.9,675.84,4,2025-07-14
+1b1538ac-6225-4f8f-a545-13b31016ff06,6d0ae4f3-e408-4e59-a895-cb1cfacdf7a6,2,71046,"Chest X-ray, 2 views",R10.9,Unspecified abdominal pain,370.43,309.26,224.47,2,2025-07-14
+c51ee930-4b16-4beb-ac3c-245ad2f044bf,e575ba27-d45b-48f6-b9e9-dab10581a4b3,1,99215,"Office visit, established patient, high complexity",M79.3,"Panniculitis, unspecified",41.38,35.4,27.68,2,2024-06-25
+07d52838-c5e7-4374-84ec-d3058232a96a,e575ba27-d45b-48f6-b9e9-dab10581a4b3,2,99395,"Preventive visit, 18-39 years",M79.3,"Panniculitis, unspecified",1168.75,966.75,942.06,2,2024-06-25
+162205d2-6d43-4ec0-a73f-aea46f561247,4be091d7-5c16-4b52-8b7a-4e96b54d9888,1,99233,"Subsequent hospital care, high complexity",R05.9,"Cough, unspecified",1247.9,1118.05,857.94,1,2024-06-29
+fa12d54e-379b-410d-9853-74fa1222f875,0c0e9a8d-4ab2-4790-9986-68a9e76f1b81,1,90837,"Psychotherapy, 60 minutes",R10.9,Unspecified abdominal pain,2269.31,1946.87,0.0,1,2025-05-20
+776ac13e-63cf-472e-a7a8-2d81af09c9e9,0c0e9a8d-4ab2-4790-9986-68a9e76f1b81,2,99203,"Office visit, new patient, low complexity",R10.9,Unspecified abdominal pain,1917.68,1528.81,0.0,1,2025-05-20
+00b284b3-b7a6-410f-ad5f-e2513e743191,0c0e9a8d-4ab2-4790-9986-68a9e76f1b81,3,20610,"Arthrocentesis, major joint",R10.9,Unspecified abdominal pain,1870.27,1556.86,0.0,4,2025-05-20
+323de98f-2615-4adc-ae76-5ace9814663a,05fe725f-769a-4ce7-8143-cd2fe9333ad9,1,99281,"Emergency department visit, self-limited problem",F32.9,"Major depressive disorder, single episode, unspecified",1464.59,964.37,808.44,2,2026-02-07
+87c1f817-4032-4aeb-96ac-d3983e1ae6fc,05fe725f-769a-4ce7-8143-cd2fe9333ad9,2,80053,Comprehensive metabolic panel,F32.9,"Major depressive disorder, single episode, unspecified",429.19,304.32,251.32,3,2026-02-07
+5b51a2f2-bac1-433c-b28c-6880c142c296,8ccea0fb-0e99-43f9-86f2-54796585e78e,1,20610,"Arthrocentesis, major joint",M54.5,Low back pain,1887.76,1543.22,1484.17,3,2025-09-16
+9c4ae0d5-1a70-4343-baf1-6bcddcf9bc32,8ccea0fb-0e99-43f9-86f2-54796585e78e,2,99232,"Subsequent hospital care, moderate complexity",M54.5,Low back pain,1721.47,1506.87,1098.13,3,2025-09-16
+fb60ae80-9b6d-4842-8fb2-8721060638a2,80aeec24-a27d-4bcc-a3ab-155a54c618eb,1,36415,"Venipuncture, routine",R10.9,Unspecified abdominal pain,2304.25,1532.81,1173.16,2,2026-02-20
+f0fdfacf-e139-491c-8024-e039fd8898c3,80aeec24-a27d-4bcc-a3ab-155a54c618eb,2,99283,"Emergency department visit, moderate severity",R10.9,Unspecified abdominal pain,1992.89,1641.07,1488.28,1,2026-02-20
+654c9fb2-0da2-46ff-b4a6-4ba1ceb0c368,80aeec24-a27d-4bcc-a3ab-155a54c618eb,3,71046,"Chest X-ray, 2 views",R10.9,Unspecified abdominal pain,1164.72,734.43,694.52,1,2026-02-20
+18962743-4657-4603-a072-ca18171a734a,e50aa519-c6d1-4b71-9077-618e208f0a97,1,97110,Therapeutic exercises,M25.511,Pain in right shoulder,1914.88,1410.92,1288.13,1,2026-02-19
+74de0711-c31c-4934-921c-d7328ea673d5,e50aa519-c6d1-4b71-9077-618e208f0a97,2,99203,"Office visit, new patient, low complexity",M25.511,Pain in right shoulder,575.34,542.39,402.84,2,2026-02-19
+08856578-7987-407f-90d4-55b07b827491,e50aa519-c6d1-4b71-9077-618e208f0a97,3,99233,"Subsequent hospital care, high complexity",M25.511,Pain in right shoulder,335.23,218.6,158.17,1,2026-02-19
+2a3a1b77-5504-4e02-b964-f051bc0ded24,fa45251d-3202-4eb5-9dad-691febd124de,1,99396,"Preventive visit, 40-64 years",J45.909,"Unspecified asthma, uncomplicated",171.68,111.17,86.26,1,2025-08-04
+289dc2dc-f8b2-4f65-b0ca-ddcf5845beb8,22e9d5ea-8501-431c-b45a-ced4f1eb081d,1,99283,"Emergency department visit, moderate severity",R05.9,"Cough, unspecified",482.34,357.23,259.79,3,2024-09-27
+c9800e0c-d70e-417e-b501-87771e005ed0,22e9d5ea-8501-431c-b45a-ced4f1eb081d,2,99396,"Preventive visit, 40-64 years",R05.9,"Cough, unspecified",885.9,588.44,500.29,2,2024-09-27
+35ee1809-481d-42ba-ba74-5a564e3886b6,870eb7d7-d433-4445-93b2-9e25b792fa28,1,99283,"Emergency department visit, moderate severity",N39.0,"Urinary tract infection, site not specified",2411.55,1612.63,1493.63,1,2025-12-09
+b67614a4-6d2b-4c70-b101-3a71d78dcb52,acbb5423-0592-4819-9327-2eea18dfa8bf,1,99281,"Emergency department visit, self-limited problem",R05.9,"Cough, unspecified",1113.17,1094.36,825.43,3,2024-12-11
+aa8b13e4-4add-4089-9414-9f04bb4a88f8,acbb5423-0592-4819-9327-2eea18dfa8bf,2,85025,Complete blood count with differential,R05.9,"Cough, unspecified",1074.63,865.83,711.95,3,2024-12-11
+3708528f-383e-4173-b2d1-f4300a9d57fa,c52e261a-8fe0-48a5-b802-f411c7cc4173,1,99215,"Office visit, established patient, high complexity",E03.9,"Hypothyroidism, unspecified",837.09,541.0,0.0,3,2025-12-22
+7999c04a-7d34-40de-ba3f-d60f9b7ee8a4,c52e261a-8fe0-48a5-b802-f411c7cc4173,2,93000,"Electrocardiogram, complete",E03.9,"Hypothyroidism, unspecified",1510.96,1095.15,0.0,4,2025-12-22
+1f6e54b9-5a03-4445-af68-6a25cb055199,0724fc6a-9962-405b-8478-46eeb5d21570,1,80053,Comprehensive metabolic panel,K58.9,Irritable bowel syndrome without diarrhea,468.76,468.52,397.07,1,2025-04-13
+d0c2add4-7471-4a14-8dd2-65a5fb41619c,0724fc6a-9962-405b-8478-46eeb5d21570,2,85025,Complete blood count with differential,K58.9,Irritable bowel syndrome without diarrhea,1109.19,957.7,694.81,2,2025-04-13
+0e1b066a-305e-4259-b25c-62cce5cea117,0724fc6a-9962-405b-8478-46eeb5d21570,3,85025,Complete blood count with differential,K58.9,Irritable bowel syndrome without diarrhea,1016.55,850.06,620.98,2,2025-04-13
+9d4551a0-058f-4e65-9fa6-cf4c1435efa9,6bb50990-b51f-4439-b305-dfdf6a4c7f8f,1,99285,"Emergency department visit, high severity",M54.5,Low back pain,2099.32,1868.56,1464.12,3,2024-10-31
+1aa64448-2cf6-40fe-a413-edb94d2812f9,6bb50990-b51f-4439-b305-dfdf6a4c7f8f,2,85025,Complete blood count with differential,M54.5,Low back pain,906.34,785.5,773.75,4,2024-10-31
+6fafc417-8872-42a6-a3bd-7905d95bd064,6bb50990-b51f-4439-b305-dfdf6a4c7f8f,3,97110,Therapeutic exercises,M54.5,Low back pain,715.25,648.87,475.24,3,2024-10-31
+6a8ff31f-0052-4ea4-a41f-14c7174b7e3d,6bb50990-b51f-4439-b305-dfdf6a4c7f8f,4,90837,"Psychotherapy, 60 minutes",M54.5,Low back pain,1255.75,1069.08,791.53,1,2024-10-31
+d0a54fc4-ef53-4065-8137-744416f31555,0a747d84-a365-42c5-add3-f5d7d31b3395,1,36415,"Venipuncture, routine",M25.511,Pain in right shoulder,403.02,342.08,249.34,1,2025-03-22
+2a7daabc-5666-47fc-a8cb-ac4c88d6275c,5c9e1b54-9d42-4c97-a615-9f9f2932b1e4,1,90837,"Psychotherapy, 60 minutes",K58.9,Irritable bowel syndrome without diarrhea,1274.37,1041.13,981.62,1,2025-03-31
+ff385922-c637-4f29-a6d9-d8bbb658bc0a,c4e59ba5-429a-46d4-8881-6463787e8431,1,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",1162.65,712.87,618.06,3,2025-08-23
+d44ae288-a7bf-47f9-b5d4-a73029fd35bf,476d84cc-0ca9-40f5-9e23-091af4290c47,1,99203,"Office visit, new patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,1432.92,1140.92,988.19,4,2026-02-24
+f952c397-783e-4f16-9ff8-99722e62ed18,476d84cc-0ca9-40f5-9e23-091af4290c47,2,90837,"Psychotherapy, 60 minutes",K58.9,Irritable bowel syndrome without diarrhea,1416.58,938.52,672.66,3,2026-02-24
+f27dc2a7-7cf3-4281-a191-9d75312f477a,f763abc0-51c9-490d-aff1-a0d4f6b150cd,1,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,136.67,127.76,102.8,1,2025-06-26
+abec0f6e-97f1-4a37-85bf-993c210cbd88,397f4ea8-29ea-4f12-9225-06e07db790f0,1,80053,Comprehensive metabolic panel,R10.9,Unspecified abdominal pain,164.71,114.92,88.53,3,2024-11-20
+67de92e4-0a0c-4126-8059-c145b5654130,397f4ea8-29ea-4f12-9225-06e07db790f0,2,99396,"Preventive visit, 40-64 years",R10.9,Unspecified abdominal pain,235.23,205.87,197.78,1,2024-11-20
+7ecd2b10-b111-4a89-9ad1-b759ad69b4be,397f4ea8-29ea-4f12-9225-06e07db790f0,3,36415,"Venipuncture, routine",R10.9,Unspecified abdominal pain,445.2,363.0,258.17,4,2024-11-20
+95432e15-957a-4b71-8594-c824d1dd2381,397f4ea8-29ea-4f12-9225-06e07db790f0,4,99396,"Preventive visit, 40-64 years",R10.9,Unspecified abdominal pain,1299.03,998.26,704.89,4,2024-11-20
+0f29cbd3-28d2-4985-a729-0e12414d4274,bfa9204c-bd5c-4b70-83dc-8c2491965af3,1,99203,"Office visit, new patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,1734.89,1183.83,1005.09,3,2025-05-22
+51bf1528-52a2-4aa9-9c29-c9e8ffa19cc7,bfa9204c-bd5c-4b70-83dc-8c2491965af3,2,99281,"Emergency department visit, self-limited problem",K58.9,Irritable bowel syndrome without diarrhea,1546.7,1152.81,957.75,4,2025-05-22
+dd1b109e-ae17-4c89-b052-c363d3eef3ab,37cf6515-6eb9-4246-b072-97c2a9e2da0d,1,85025,Complete blood count with differential,R05.9,"Cough, unspecified",2016.39,1713.59,1691.97,1,2026-03-01
+ee2e1ab4-d367-42da-b494-c91c5d43b04d,c5dc32e2-0e02-4ba5-ada5-5fc9f159f2f9,1,80053,Comprehensive metabolic panel,N39.0,"Urinary tract infection, site not specified",1994.24,1716.27,1356.8,3,2025-02-12
+7ec6d742-9ff0-4bb5-ad77-67479388f794,c5dc32e2-0e02-4ba5-ada5-5fc9f159f2f9,2,71046,"Chest X-ray, 2 views",N39.0,"Urinary tract infection, site not specified",1667.06,1209.19,996.73,3,2025-02-12
+0c32cc43-8aee-4b5d-930b-1baa424f9750,849fe5be-eff6-43b6-a21e-fe18991bd54a,1,99396,"Preventive visit, 40-64 years",I25.10,Atherosclerotic heart disease of native coronary artery,1260.53,1089.5,1031.94,4,2025-02-19
+a383b0be-94f8-4659-8fa3-fac5c3ddb7a0,849fe5be-eff6-43b6-a21e-fe18991bd54a,2,99232,"Subsequent hospital care, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,2344.48,1906.27,1685.77,4,2025-02-19
+ab0e8df3-869a-4308-8c6e-3f8fb11381cb,8fd6a416-0a56-4122-8dd0-dcc36771cbd0,1,71046,"Chest X-ray, 2 views",J18.9,"Pneumonia, unspecified organism",1040.39,982.21,956.03,2,2025-09-23
+a1c18bbd-7ffe-4494-9d03-752190b991bf,944f2111-dc64-4faf-8570-38684a2be621,1,85025,Complete blood count with differential,K21.0,Gastro-esophageal reflux disease with esophagitis,615.25,406.06,287.62,3,2025-10-02
+7dfedc0b-7f0f-447e-aa3f-2012b7908b46,944f2111-dc64-4faf-8570-38684a2be621,2,93000,"Electrocardiogram, complete",K21.0,Gastro-esophageal reflux disease with esophagitis,1226.32,1222.05,1010.15,1,2025-10-02
+33cbc3c5-2379-4ca7-a6aa-da3c7233a3b9,dc2f08fe-0f73-4cb2-a3af-1e1913124559,1,99281,"Emergency department visit, self-limited problem",E03.9,"Hypothyroidism, unspecified",1619.63,999.14,915.95,1,2025-02-23
+2cb3ab07-94ca-401a-88b5-581b763e060e,dc2f08fe-0f73-4cb2-a3af-1e1913124559,2,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",2152.47,1363.74,1200.75,1,2025-02-23
+7b019cb6-1a09-4dec-a8dd-9382d8829a7f,dc2f08fe-0f73-4cb2-a3af-1e1913124559,3,71046,"Chest X-ray, 2 views",E03.9,"Hypothyroidism, unspecified",2244.51,1949.74,1882.89,4,2025-02-23
+0bf654cd-b8a8-4e85-84e9-6c85dddd40b0,4fdab56e-6bfa-465e-bd22-ba3c304e6e3d,1,97110,Therapeutic exercises,M54.5,Low back pain,1668.94,1388.84,1295.14,3,2025-10-01
+10776190-6c34-43a0-afae-0cfd59c1d74d,4fdab56e-6bfa-465e-bd22-ba3c304e6e3d,2,90837,"Psychotherapy, 60 minutes",M54.5,Low back pain,2214.3,1539.45,1134.09,3,2025-10-01
+73991a3f-6e19-44e6-b835-f7d4eb7a167b,ea026835-dbd2-4113-bd08-5dd91056ea9f,1,99232,"Subsequent hospital care, moderate complexity",N39.0,"Urinary tract infection, site not specified",1112.7,780.81,684.65,4,2024-05-29
+28a7b681-bf1e-4889-90f0-0811da87fc5f,28b4ac5f-fa86-4693-a85d-390873666366,1,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",923.42,818.4,774.54,1,2024-12-19
+1546c2ba-0720-43bb-af4b-1b094a186d92,28b4ac5f-fa86-4693-a85d-390873666366,2,20610,"Arthrocentesis, major joint",F32.9,"Major depressive disorder, single episode, unspecified",111.15,99.57,93.56,1,2024-12-19
+23cce7fa-3f82-402f-ba0b-04cc6b8248f0,b788262e-9298-4b52-b39a-1f32db7961e8,1,99203,"Office visit, new patient, low complexity",G47.33,Obstructive sleep apnea,1348.9,936.88,780.16,1,2026-02-20
+cd4277ae-3cd4-4447-81e0-819feb781cf9,b788262e-9298-4b52-b39a-1f32db7961e8,2,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,2320.58,2244.4,1773.67,2,2026-02-20
+5a7faee6-9651-4e3e-a477-89d0a6b09298,f3194258-3f15-479e-aea8-deeda922e895,1,99214,"Office visit, established patient, moderate complexity",R10.9,Unspecified abdominal pain,703.24,444.47,415.06,4,2026-04-29
+4b1948d0-9a37-426e-a0cb-27fae01a9820,f3194258-3f15-479e-aea8-deeda922e895,2,90837,"Psychotherapy, 60 minutes",R10.9,Unspecified abdominal pain,1848.93,1794.57,1435.33,4,2026-04-29
+8b0a5e09-16c4-4f81-9419-5bd758d38a6c,f3194258-3f15-479e-aea8-deeda922e895,3,99203,"Office visit, new patient, low complexity",R10.9,Unspecified abdominal pain,2065.39,1816.29,1547.3,3,2026-04-29
+a987c66f-a356-4fdc-9f03-096a8120b1d8,7be8b5b9-717a-4c65-a904-a712e9b8edc1,1,99204,"Office visit, new patient, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,32.61,22.18,0.0,3,2025-02-01
+27db6670-4ec5-423a-bdf4-648e0607563d,7be8b5b9-717a-4c65-a904-a712e9b8edc1,2,36415,"Venipuncture, routine",I25.10,Atherosclerotic heart disease of native coronary artery,1450.13,934.36,0.0,2,2025-02-01
+ddd78031-acea-45a5-ae92-c420eeb5fa0f,7be8b5b9-717a-4c65-a904-a712e9b8edc1,3,97110,Therapeutic exercises,I25.10,Atherosclerotic heart disease of native coronary artery,1791.07,1624.58,0.0,2,2025-02-01
+e275f6c0-a2bc-4967-a7d2-ab3c72add562,766fe1e6-f9e9-4ac1-9178-e042aaf527d3,1,99281,"Emergency department visit, self-limited problem",F32.9,"Major depressive disorder, single episode, unspecified",1726.48,1606.85,1510.21,2,2025-07-12
+0fcafb1c-06e0-4aca-8119-40def28cdf91,766fe1e6-f9e9-4ac1-9178-e042aaf527d3,2,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1050.88,706.99,680.77,2,2025-07-12
+70ad86b0-6bda-480a-adca-7b1fbc33daa2,92bb2529-4136-482a-8724-ba91f3276e2d,1,99214,"Office visit, established patient, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1017.56,785.11,610.85,1,2024-11-21
+8400ff21-2975-4cf4-a553-9c0b33b1944a,a6464482-6bbf-4952-8b92-9ba71d012294,1,99203,"Office visit, new patient, low complexity",Z00.00,Encounter for general adult medical examination,580.6,395.54,0.0,3,2025-07-09
+3ca680ef-5bc9-43b0-9c79-7c741d1dd45e,e6c8c12b-1c1e-4f2f-ad4d-63a52827ff43,1,99233,"Subsequent hospital care, high complexity",N39.0,"Urinary tract infection, site not specified",1823.6,1232.29,929.28,2,2025-06-02
+35ac4272-be8a-4fc5-986e-2c89e2bfcde3,2bb71837-694e-4cc2-8348-0bf8c1878869,1,93000,"Electrocardiogram, complete",R05.9,"Cough, unspecified",237.2,186.81,179.61,4,2025-02-20
+9b5dd998-07d1-43b8-8343-9a809068e5a6,aa24c041-ec4a-430b-8aa3-3c9fcde54ccd,1,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",153.98,149.73,125.96,3,2024-06-15
+2a6f0df1-9e8d-427a-87d9-cc17eab9bffb,8bba06df-23f2-4476-af64-64f66b7e367c,1,85025,Complete blood count with differential,J18.9,"Pneumonia, unspecified organism",1686.37,1101.02,1065.42,1,2024-05-26
+bfee8dd9-e359-4a47-8e54-92f4899dc6e7,8bba06df-23f2-4476-af64-64f66b7e367c,2,99396,"Preventive visit, 40-64 years",J18.9,"Pneumonia, unspecified organism",468.95,313.23,265.57,3,2024-05-26
+46b79e69-1265-45c2-9152-13a6f7fa4b4b,9410ef32-28a3-40ca-9f5a-8137ccd1023d,1,36415,"Venipuncture, routine",F32.9,"Major depressive disorder, single episode, unspecified",134.3,87.45,0.0,3,2026-03-26
+4a04e791-8bfb-40b2-a19a-674a3ab30d8a,63e2e921-b8f6-43cc-8fb0-b52b3db97614,1,97110,Therapeutic exercises,F32.9,"Major depressive disorder, single episode, unspecified",799.7,765.37,608.21,4,2025-12-13
+f084d07a-74c7-49c0-8e65-311ee0e1afd3,63e2e921-b8f6-43cc-8fb0-b52b3db97614,2,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1400.29,1357.08,1209.15,4,2025-12-13
+a52246a2-8669-4240-ab59-867d090a026c,63e2e921-b8f6-43cc-8fb0-b52b3db97614,3,99214,"Office visit, established patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",492.58,306.3,231.24,4,2025-12-13
+a37169b0-1926-4d14-b748-575e58f7881b,f72bdc1b-7aa8-49ba-b67f-dc74253cea40,1,93000,"Electrocardiogram, complete",I10,Essential hypertension,907.39,801.78,677.95,4,2025-06-08
+1ba0ea84-ce3f-4d50-940a-28e830fa387f,f72bdc1b-7aa8-49ba-b67f-dc74253cea40,2,99203,"Office visit, new patient, low complexity",I10,Essential hypertension,2118.45,2005.65,1478.36,1,2025-06-08
+5cc3f64f-4b60-47b0-88b3-32bc0e58d53c,f72bdc1b-7aa8-49ba-b67f-dc74253cea40,3,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,2173.73,1461.32,1096.7,3,2025-06-08
+b89ca043-c4db-437e-aa02-60937835bf14,f72bdc1b-7aa8-49ba-b67f-dc74253cea40,4,99396,"Preventive visit, 40-64 years",I10,Essential hypertension,2229.96,1860.39,1627.96,1,2025-06-08
+b0f4b518-7c33-45c1-b32f-99b1624cb85c,a158bc50-e4e4-49c9-bcf2-85263113350a,1,99203,"Office visit, new patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,2221.24,1355.81,1226.19,1,2025-12-17
+19788ac9-0ca1-4326-836b-ad7b2db70cb7,26bacdc7-eb39-4871-8252-c33ca540aaac,1,90837,"Psychotherapy, 60 minutes",Z00.00,Encounter for general adult medical examination,1148.79,1128.2,990.85,1,2025-05-12
+02976024-3a16-48f6-aa86-86e413058c78,670ac7c3-ac18-4382-a6ad-a7fbbe191124,1,99204,"Office visit, new patient, moderate complexity",R05.9,"Cough, unspecified",548.13,339.55,303.25,3,2024-06-09
+4d936294-b8b3-4c2b-9008-fd75cac2cf49,670ac7c3-ac18-4382-a6ad-a7fbbe191124,2,99214,"Office visit, established patient, moderate complexity",R05.9,"Cough, unspecified",1865.9,1527.92,1345.62,1,2024-06-09
+3d658309-9255-4856-9eb4-2eab2eaf769e,670ac7c3-ac18-4382-a6ad-a7fbbe191124,3,85025,Complete blood count with differential,R05.9,"Cough, unspecified",656.53,456.97,425.56,4,2024-06-09
+254aa1fe-8a81-4445-86e7-2a5ac829983d,670ac7c3-ac18-4382-a6ad-a7fbbe191124,4,99215,"Office visit, established patient, high complexity",R05.9,"Cough, unspecified",75.77,51.77,42.27,4,2024-06-09
+022568bc-b753-458e-8543-b253abdc70fd,938cb641-7b5b-4e69-8d1a-9385c556af97,1,20610,"Arthrocentesis, major joint",J18.9,"Pneumonia, unspecified organism",349.93,303.11,287.84,2,2025-09-07
+b0102396-eff3-4fd3-9fbf-661e2c3e0322,d7facdec-0daf-4c97-b7cf-ca5ccd05396c,1,80053,Comprehensive metabolic panel,R10.9,Unspecified abdominal pain,1544.32,1194.75,989.02,1,2025-08-10
+9588ad01-4ecb-4440-a721-f1c6a5a29a1b,b1e2a832-3d96-4347-b602-fff53f232cca,1,99233,"Subsequent hospital care, high complexity",K58.9,Irritable bowel syndrome without diarrhea,1183.84,747.8,0.0,4,2024-06-27
+98f9b740-a401-4be9-a93f-8ffc8d2d3bce,eda3394c-3ad9-49c5-9284-a3e189a4b271,1,99214,"Office visit, established patient, moderate complexity",R05.9,"Cough, unspecified",1388.71,1342.77,1146.76,4,2025-12-05
+f182b1b7-4b60-4854-b3ef-d95a03cd553f,f1a8ef6e-8dec-45cf-81c6-18ef6b2a5c13,1,99213,"Office visit, established patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",306.99,265.43,200.1,2,2024-10-09
+483f4b17-ebaf-4ec7-bf7d-291e49abd318,404f5bf6-9e39-4c7b-b045-2d399d91a318,1,93000,"Electrocardiogram, complete",R05.9,"Cough, unspecified",1899.45,1481.53,1396.12,3,2024-08-13
+aa6fb5c8-83a3-4e17-9014-a8ca3155199e,ac1280e5-687b-48dc-995f-a20a2c5fb79f,1,99395,"Preventive visit, 18-39 years",M54.5,Low back pain,69.34,52.56,0.0,1,2025-04-25
+6ea86318-a34c-44bd-a529-6f3aa43b1ceb,ac1280e5-687b-48dc-995f-a20a2c5fb79f,2,99281,"Emergency department visit, self-limited problem",M54.5,Low back pain,1648.11,1292.23,0.0,4,2025-04-25
+0d386bf2-0d34-4221-a3f5-f8e913ca094d,c1ce8d69-fee1-414e-88bc-8768304b3496,1,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,2016.49,1280.58,948.31,2,2026-01-19
+24cf6fd5-7ed5-45a0-8ce6-135333a31a95,c1ce8d69-fee1-414e-88bc-8768304b3496,2,99203,"Office visit, new patient, low complexity",G47.33,Obstructive sleep apnea,2044.52,1795.93,1358.56,1,2026-01-19
+d14fe331-2126-4fbb-b557-3d44adbef443,c1ce8d69-fee1-414e-88bc-8768304b3496,3,99283,"Emergency department visit, moderate severity",G47.33,Obstructive sleep apnea,1215.77,800.05,618.07,2,2026-01-19
+ab5f304f-6908-4483-abee-b6f540510909,c1ce8d69-fee1-414e-88bc-8768304b3496,4,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,769.77,604.55,509.15,1,2026-01-19
+1a3e5ccf-d5a0-4f0f-99f4-06657a2532c6,7ac09f3f-a375-4318-82c7-25992d8d68e6,1,99285,"Emergency department visit, high severity",R05.9,"Cough, unspecified",523.31,433.18,411.59,1,2024-09-05
+2ed3cee7-be79-4bae-93e7-8cd0b47c679a,7ac09f3f-a375-4318-82c7-25992d8d68e6,2,36415,"Venipuncture, routine",R05.9,"Cough, unspecified",44.49,37.91,34.65,4,2024-09-05
+3ff06a18-0199-4dfc-bd5d-63e707195776,7ac09f3f-a375-4318-82c7-25992d8d68e6,3,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",1849.27,1550.31,1343.02,3,2024-09-05
+60e07b8c-0ce5-4db5-b87f-c69950097efa,2ec33d37-ad24-483a-b030-7255dd02fe6b,1,99285,"Emergency department visit, high severity",K58.9,Irritable bowel syndrome without diarrhea,1792.87,1454.6,1202.37,3,2024-07-28
+3c555fc9-e974-4f27-a917-8cddcb6df766,2ec33d37-ad24-483a-b030-7255dd02fe6b,2,99395,"Preventive visit, 18-39 years",K58.9,Irritable bowel syndrome without diarrhea,182.19,174.38,143.89,4,2024-07-28
+18f770f6-107c-4c02-8530-766135f234e4,b5b1fc76-a23b-4c4d-ab1c-741ab729542b,1,90837,"Psychotherapy, 60 minutes",J18.9,"Pneumonia, unspecified organism",876.02,606.94,0.0,2,2025-09-17
+b0a04c19-ca50-4b63-9758-06844138c7ee,458948f0-8c27-4f04-9ef1-4eb9003323dc,1,71046,"Chest X-ray, 2 views",M79.3,"Panniculitis, unspecified",2086.87,1814.0,1669.56,4,2026-03-29
+eec6b4d8-537e-4561-a805-e51dd9feb129,458948f0-8c27-4f04-9ef1-4eb9003323dc,2,99281,"Emergency department visit, self-limited problem",M79.3,"Panniculitis, unspecified",1564.06,1115.15,1031.26,4,2026-03-29
+85292431-fc9a-4411-9d41-2a2d8e9494c7,addb5eec-c15c-481c-ae0b-a440c8d2b382,1,99233,"Subsequent hospital care, high complexity",K58.9,Irritable bowel syndrome without diarrhea,605.93,498.52,498.41,3,2024-07-15
+e26f782a-5c46-413c-b91b-734a9211fa9c,addb5eec-c15c-481c-ae0b-a440c8d2b382,2,99232,"Subsequent hospital care, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,908.68,602.86,571.74,1,2024-07-15
+95af5daf-efc3-4764-923c-2177a1af7f93,addb5eec-c15c-481c-ae0b-a440c8d2b382,3,99215,"Office visit, established patient, high complexity",K58.9,Irritable bowel syndrome without diarrhea,860.89,555.78,426.84,2,2024-07-15
+a878b16e-3056-40de-96ca-144a89fa971b,228097e7-584c-41bf-974d-a4476aacd40b,1,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",2137.19,2029.22,1788.32,1,2026-01-22
+7d851555-511d-4dd2-822d-01a0d8541f78,228097e7-584c-41bf-974d-a4476aacd40b,2,99214,"Office visit, established patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",2318.41,1797.07,1504.4,1,2026-01-22
+9e4aab9c-a19e-4268-8c9c-0e84ce2a19d2,228097e7-584c-41bf-974d-a4476aacd40b,3,99203,"Office visit, new patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",1959.59,1653.62,1583.37,1,2026-01-22
+8e5a2b35-e6a3-4191-a615-2e97e5594979,c7154169-bce0-4ab3-835f-35e02d4bd3b8,1,99281,"Emergency department visit, self-limited problem",G47.33,Obstructive sleep apnea,1827.66,1614.31,1499.03,4,2024-11-08
+f29a1a3c-3557-4581-9a06-7681004efec5,c7154169-bce0-4ab3-835f-35e02d4bd3b8,2,99203,"Office visit, new patient, low complexity",G47.33,Obstructive sleep apnea,406.88,303.33,286.87,1,2024-11-08
+ebf4bdd0-f651-4905-a229-212723209e3f,c7154169-bce0-4ab3-835f-35e02d4bd3b8,3,99283,"Emergency department visit, moderate severity",G47.33,Obstructive sleep apnea,1111.79,851.96,792.93,2,2024-11-08
+909d7bff-f559-4250-aa21-4c2582d4563c,2794a148-7d75-4025-8456-de4cbfb005a8,1,80053,Comprehensive metabolic panel,R10.9,Unspecified abdominal pain,1582.86,1105.12,1023.3,4,2025-12-31
+2babf8a6-81d6-4937-a6ad-3525daf15ceb,a4c09566-e4fe-4b37-abf1-34ff7232d41d,1,80053,Comprehensive metabolic panel,J45.909,"Unspecified asthma, uncomplicated",2360.76,1834.38,1707.89,1,2025-02-21
+fe1c0c1a-3dfc-49fe-9eb9-5c3c116a6d95,a4c09566-e4fe-4b37-abf1-34ff7232d41d,2,99215,"Office visit, established patient, high complexity",J45.909,"Unspecified asthma, uncomplicated",862.3,655.92,611.13,4,2025-02-21
+f63d63fc-0c2d-489e-a0aa-8ed01d7fc34b,a4c09566-e4fe-4b37-abf1-34ff7232d41d,3,99214,"Office visit, established patient, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",998.33,613.81,599.54,2,2025-02-21
+13feabe7-d784-4493-b0f2-eac5a6ca2232,4d56c8f6-2c73-43eb-b793-c88d7d077f77,1,99233,"Subsequent hospital care, high complexity",E03.9,"Hypothyroidism, unspecified",1810.84,1313.72,1055.24,3,2025-08-15
+59295fbf-799a-46a8-b824-98a674be0298,4d56c8f6-2c73-43eb-b793-c88d7d077f77,2,97110,Therapeutic exercises,E03.9,"Hypothyroidism, unspecified",1535.74,1011.66,830.76,2,2025-08-15
+f56624a3-f60f-41d7-88a5-0a20791bceac,ec9731d9-cb60-4894-8f00-47d5756c486f,1,99283,"Emergency department visit, moderate severity",M79.3,"Panniculitis, unspecified",2205.41,1397.6,1203.66,4,2025-11-15
+ee0d8159-5017-4411-b354-62a58b8eb4aa,ec9731d9-cb60-4894-8f00-47d5756c486f,2,99204,"Office visit, new patient, moderate complexity",M79.3,"Panniculitis, unspecified",1313.16,1071.95,819.1,3,2025-11-15
+3964ec67-d5d2-4190-bca0-ac86bffc935e,ec9731d9-cb60-4894-8f00-47d5756c486f,3,97110,Therapeutic exercises,M79.3,"Panniculitis, unspecified",868.25,741.72,524.42,3,2025-11-15
+a1c677a8-00f0-4909-ad33-48b503ec75c8,ea992111-ca0f-4bb2-b16d-0a352cf9707a,1,99232,"Subsequent hospital care, moderate complexity",G47.33,Obstructive sleep apnea,1576.8,1169.65,835.5,1,2025-06-08
+60277f95-e913-4fc9-90cf-1ff76ca68a99,ef3951fb-6207-4527-8dcf-2daa495e1ec4,1,99396,"Preventive visit, 40-64 years",R05.9,"Cough, unspecified",1793.75,1748.93,1573.44,2,2024-05-17
+8e371e28-4033-43e3-b3c9-5c16a1c6245c,b2d87ad2-52ac-4d11-bb2d-687b06568f3c,1,36415,"Venipuncture, routine",M54.5,Low back pain,1303.22,882.31,823.69,4,2024-12-21
+98ec921e-a1f5-448b-98c6-2d5c9efd66ef,b2d87ad2-52ac-4d11-bb2d-687b06568f3c,2,99203,"Office visit, new patient, low complexity",M54.5,Low back pain,387.72,298.65,245.97,1,2024-12-21
+05bd4e79-1d7e-4add-938b-db4b73ede54a,ebc4e341-2986-464b-a3a7-dec1b5e3422b,1,85025,Complete blood count with differential,J45.909,"Unspecified asthma, uncomplicated",1480.89,1195.93,978.79,3,2024-10-12
+ef331b52-45de-41fa-832e-a1ffd59f3249,48b101c7-267a-4de8-9168-28d23b323cf2,1,99281,"Emergency department visit, self-limited problem",R10.9,Unspecified abdominal pain,382.26,248.79,227.23,2,2024-10-25
+2d327fe5-5e59-439d-9c0c-e2e09e65fde3,48b101c7-267a-4de8-9168-28d23b323cf2,2,97110,Therapeutic exercises,R10.9,Unspecified abdominal pain,2161.6,1399.04,1068.58,4,2024-10-25
+9cddb18b-38a6-4237-86ab-b6ebf8b1ab8b,9785a287-e814-4fee-bee4-adc0fac04a7e,1,80053,Comprehensive metabolic panel,M54.5,Low back pain,1440.12,887.28,661.9,3,2024-11-15
+5c0f854e-15a1-45da-8ab0-7ca6f8a69ba5,ba828c95-f6ce-4c7e-b0af-0e57a12e1ec3,1,71046,"Chest X-ray, 2 views",R05.9,"Cough, unspecified",145.41,139.26,134.63,2,2024-08-09
+89c66f67-a400-4924-acb6-9f17fcb76b5f,32472c53-0ef4-49df-b870-ff692346014e,1,71046,"Chest X-ray, 2 views",I10,Essential hypertension,1215.91,880.17,735.57,3,2026-02-01
+c55bf10f-a62d-4284-ae67-b685d0c501c8,19caac34-8885-40ec-9be4-2ec985ead7cb,1,93000,"Electrocardiogram, complete",Z00.00,Encounter for general adult medical examination,393.73,350.87,255.01,4,2025-12-25
+eb6bf006-6c9c-4eeb-b4ad-65966795d81e,19caac34-8885-40ec-9be4-2ec985ead7cb,2,85025,Complete blood count with differential,Z00.00,Encounter for general adult medical examination,601.24,455.84,393.07,4,2025-12-25
+72622886-cedf-42fc-8fcc-67a4eb3fa8ad,7028f68d-6056-4b95-a4fe-83b82a73895a,1,99395,"Preventive visit, 18-39 years",J18.9,"Pneumonia, unspecified organism",1621.77,1390.77,1009.07,1,2025-03-03
+058562b6-f754-43d6-ba93-253894720e2c,7028f68d-6056-4b95-a4fe-83b82a73895a,2,99396,"Preventive visit, 40-64 years",J18.9,"Pneumonia, unspecified organism",1316.34,1185.0,1008.19,1,2025-03-03
+33cc1c1b-25e9-489c-a266-effa5b9f9eca,4db52a2d-3f9a-4d1c-bc28-622afe732dd9,1,93000,"Electrocardiogram, complete",R05.9,"Cough, unspecified",234.5,190.75,151.86,1,2025-10-20
+d828fa08-281a-4669-8b19-191472275486,6121cc6b-32ce-4a0a-92f6-75bd5788ad2e,1,85025,Complete blood count with differential,E78.5,"Hyperlipidemia, unspecified",661.52,427.25,311.81,2,2025-04-07
+da40ff3c-aa22-45ef-818a-c24b60951aec,6121cc6b-32ce-4a0a-92f6-75bd5788ad2e,2,99233,"Subsequent hospital care, high complexity",E78.5,"Hyperlipidemia, unspecified",381.48,267.88,194.72,3,2025-04-07
+b351445b-e880-465b-883d-107a5bdd96da,6121cc6b-32ce-4a0a-92f6-75bd5788ad2e,3,71046,"Chest X-ray, 2 views",E78.5,"Hyperlipidemia, unspecified",1704.56,1062.9,1050.5,2,2025-04-07
+627752c1-5be0-4909-a05c-60b22abfb19d,35aa807a-24a2-41a4-9425-d26ec757e6ce,1,99232,"Subsequent hospital care, moderate complexity",E78.5,"Hyperlipidemia, unspecified",954.4,888.64,654.3,2,2025-08-10
+ee06cddf-7394-4125-a589-14f6cd119c12,6bed7556-f30d-4d8c-8299-ca72c634fb1d,1,99232,"Subsequent hospital care, moderate complexity",M54.5,Low back pain,175.06,137.58,113.11,4,2025-04-07
+49c5f606-1c08-49df-a1a5-e4034de48956,6bed7556-f30d-4d8c-8299-ca72c634fb1d,2,99213,"Office visit, established patient, low complexity",M54.5,Low back pain,1033.55,716.76,692.28,3,2025-04-07
+565b62f7-d595-4bac-ba52-f9137b678dfb,62b2433a-482d-40e9-8855-dd2115ec600b,1,99396,"Preventive visit, 40-64 years",J18.9,"Pneumonia, unspecified organism",1031.7,653.65,582.23,2,2024-12-07
+e098e7a1-f362-43e9-a2e6-64ac1571e5ed,62b2433a-482d-40e9-8855-dd2115ec600b,2,99204,"Office visit, new patient, moderate complexity",J18.9,"Pneumonia, unspecified organism",948.93,943.35,881.66,4,2024-12-07
+e4b92c5d-02b0-46d5-8c88-1b50d3986c1b,62b2433a-482d-40e9-8855-dd2115ec600b,3,99395,"Preventive visit, 18-39 years",J18.9,"Pneumonia, unspecified organism",1143.06,686.29,576.07,3,2024-12-07
+372cd875-abf7-42a5-ae1d-1698c716e148,9bda5f81-903b-4a87-8d41-77a0f3052ac4,1,80053,Comprehensive metabolic panel,M79.3,"Panniculitis, unspecified",2110.04,1445.59,1376.5,3,2024-05-30
+e1fa7006-5870-4504-97ad-a329da7f6f0e,07fbe853-2df2-4650-9a70-0a8dee6b6917,1,99395,"Preventive visit, 18-39 years",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2497.08,2375.5,1813.11,3,2024-08-13
+4efc3b15-dc19-4321-8310-b0bd7e0ab579,07fbe853-2df2-4650-9a70-0a8dee6b6917,2,36415,"Venipuncture, routine",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1597.05,1584.04,1445.16,3,2024-08-13
+753499f2-7eef-46d3-8039-5fabfad6fe47,6a8ef9c4-6764-495f-a933-e8d139a9ac0d,1,99204,"Office visit, new patient, moderate complexity",E11.9,Type 2 diabetes mellitus without complications,1624.95,976.3,822.98,1,2024-06-22
+0746e069-be71-41ec-9a69-5f0feef49ddb,6a8ef9c4-6764-495f-a933-e8d139a9ac0d,2,99281,"Emergency department visit, self-limited problem",E11.9,Type 2 diabetes mellitus without complications,1047.58,1003.69,914.35,4,2024-06-22
+dda50303-94ca-4463-9d99-cdbc39696ce7,08cd6a9b-155e-4f78-8e2f-69d341032d2e,1,80053,Comprehensive metabolic panel,M54.5,Low back pain,2430.8,1824.44,1606.22,4,2024-07-19
+0e93508f-688e-4a31-90c0-b9c26f1ee2e8,62f5adb5-6d45-4d9d-89ad-ed3786b20bd5,1,99285,"Emergency department visit, high severity",E11.9,Type 2 diabetes mellitus without complications,1864.28,1684.13,1522.73,3,2025-01-13
+64dd6aab-0c91-43b4-bfe9-bee4cc91fe7d,472c5aae-e1ac-4867-82c7-97729193aa3e,1,99214,"Office visit, established patient, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,719.87,692.37,0.0,2,2025-03-27
+3926a472-8f55-4d54-a85d-a69494b99065,54a8ba45-569b-4ca3-aafe-1432f8177da8,1,99395,"Preventive visit, 18-39 years",I25.10,Atherosclerotic heart disease of native coronary artery,504.58,451.86,407.42,2,2024-06-09
+ee329f86-f31f-452f-8dac-806c2f5d42cb,54a8ba45-569b-4ca3-aafe-1432f8177da8,2,99215,"Office visit, established patient, high complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1480.71,1330.25,982.03,2,2024-06-09
+dacb9158-6259-4af4-8bae-a21142387b63,ff7ed96f-3d28-4485-a783-e0ce74210e8b,1,99395,"Preventive visit, 18-39 years",E03.9,"Hypothyroidism, unspecified",2210.68,1328.14,0.0,4,2024-07-25
+dd8abbb6-0aa6-4f03-9e29-f6755e9d05cb,ff7ed96f-3d28-4485-a783-e0ce74210e8b,2,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",2138.3,1559.25,0.0,4,2024-07-25
+23b3ae14-1125-475c-bc8d-0bc4413d7472,ff7ed96f-3d28-4485-a783-e0ce74210e8b,3,99232,"Subsequent hospital care, moderate complexity",E03.9,"Hypothyroidism, unspecified",326.25,263.39,0.0,4,2024-07-25
+c39facca-17ab-4c94-86b8-5ee0219bc2ac,ff7ed96f-3d28-4485-a783-e0ce74210e8b,4,80053,Comprehensive metabolic panel,E03.9,"Hypothyroidism, unspecified",1305.21,805.82,0.0,2,2024-07-25
+35b45bf1-06e0-43e9-99d5-736411ac3f77,1734ff10-e3a0-4287-b4ff-292ee762389b,1,99396,"Preventive visit, 40-64 years",J06.9,"Acute upper respiratory infection, unspecified",2023.99,2016.11,1547.74,4,2026-04-04
+a5dc013c-0df7-45ab-8f21-748d7ef0e8e7,9b9106b3-6e96-4003-83fc-b7a5463d5032,1,99213,"Office visit, established patient, low complexity",M54.5,Low back pain,1212.92,1119.8,982.91,3,2025-09-08
+a0139339-1500-4af6-8e57-0056a7a22f7e,c8f5c287-b4d7-4831-a070-15c307f91925,1,36415,"Venipuncture, routine",I10,Essential hypertension,1311.2,910.89,657.55,4,2025-10-23
+b0a9e52d-d78b-4f2f-93ef-e407158cdd6c,46d72085-7b13-40d0-92f2-810eeaa10b32,1,36415,"Venipuncture, routine",M79.3,"Panniculitis, unspecified",2227.96,1954.69,1827.23,1,2024-10-18
+19bc840f-4b86-4ec3-912e-c7389853bd2c,46d72085-7b13-40d0-92f2-810eeaa10b32,2,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",160.6,135.59,112.48,1,2024-10-18
+479b2d72-4797-46f0-b732-b6cd09150170,46d72085-7b13-40d0-92f2-810eeaa10b32,3,99214,"Office visit, established patient, moderate complexity",M79.3,"Panniculitis, unspecified",1409.16,1011.73,823.99,1,2024-10-18
+6ca433f7-516a-47f5-9232-48bbac2443c9,46d72085-7b13-40d0-92f2-810eeaa10b32,4,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",1886.11,1307.54,1150.47,1,2024-10-18
+5c8a8ea8-d121-49c7-8364-2bfe8f7180be,0f7188cb-a394-45eb-b8b2-8d4d90eefc93,1,93000,"Electrocardiogram, complete",E11.9,Type 2 diabetes mellitus without complications,1305.1,1089.92,798.26,1,2026-05-01
+e95c7425-08ae-4f00-905f-facaf1d5e7e4,0c1975c9-5e96-419b-893b-02cebc220000,1,71046,"Chest X-ray, 2 views",G47.33,Obstructive sleep apnea,1216.46,1031.97,779.94,2,2026-04-29
+db7effe8-5124-4613-9be3-d622e90c795d,0c1975c9-5e96-419b-893b-02cebc220000,2,99214,"Office visit, established patient, moderate complexity",G47.33,Obstructive sleep apnea,174.72,126.61,105.18,3,2026-04-29
+fe51ebab-76c8-40ad-89a3-c08f6d0f1c0b,3ed5bc2f-29ab-41d1-9ca8-f1465790832d,1,80053,Comprehensive metabolic panel,J18.9,"Pneumonia, unspecified organism",2426.42,1958.3,1757.19,2,2024-10-25
+b0e5f02d-15f6-473e-a615-95747f824915,3ed5bc2f-29ab-41d1-9ca8-f1465790832d,2,99214,"Office visit, established patient, moderate complexity",J18.9,"Pneumonia, unspecified organism",612.53,568.23,493.13,1,2024-10-25
+2503eaa9-0d9f-4f9a-b7d0-687152ab01bf,031ea702-8cc1-4a53-9196-587cfb3857e0,1,99283,"Emergency department visit, moderate severity",E78.5,"Hyperlipidemia, unspecified",1677.95,1473.09,1465.1,3,2025-01-24
+b0661f9e-9909-4f4a-ac49-4c2070db2983,031ea702-8cc1-4a53-9196-587cfb3857e0,2,99396,"Preventive visit, 40-64 years",E78.5,"Hyperlipidemia, unspecified",1426.09,1047.13,827.12,3,2025-01-24
+6bf4763b-0ef8-4cc5-9481-ab649d92b777,031ea702-8cc1-4a53-9196-587cfb3857e0,3,99281,"Emergency department visit, self-limited problem",E78.5,"Hyperlipidemia, unspecified",284.5,270.4,263.14,4,2025-01-24
+dc342bd8-cda6-4110-9d23-1682c9238dcd,26b59c7a-659e-4336-a6ef-9889b1afa648,1,85025,Complete blood count with differential,E78.5,"Hyperlipidemia, unspecified",533.16,359.19,358.1,3,2024-10-07
+38248250-ea68-437e-a7d1-958dfc773cb9,7600aad2-0782-4f29-b0dc-69361c4ff4b8,1,99396,"Preventive visit, 40-64 years",N39.0,"Urinary tract infection, site not specified",2283.95,1699.18,1686.59,2,2024-05-21
+38a4e1fb-eba4-4964-9501-00c16ce8c515,40d4548b-9f2c-4c43-ac33-5b280445c36b,1,99281,"Emergency department visit, self-limited problem",E03.9,"Hypothyroidism, unspecified",510.07,341.97,0.0,3,2026-03-06
+e8bda08c-8877-40cf-befa-b2d76b3d065b,6070aba1-6aa6-4b59-ba38-d9ed8a9859b2,1,99233,"Subsequent hospital care, high complexity",E78.5,"Hyperlipidemia, unspecified",1154.1,863.1,0.0,3,2026-05-12
+79c1878a-945e-4553-a4c8-735da3a8dedf,6070aba1-6aa6-4b59-ba38-d9ed8a9859b2,2,99281,"Emergency department visit, self-limited problem",E78.5,"Hyperlipidemia, unspecified",2354.38,2332.82,0.0,4,2026-05-12
+4a017fab-f501-4671-892b-e33838fccf4f,6070aba1-6aa6-4b59-ba38-d9ed8a9859b2,3,99215,"Office visit, established patient, high complexity",E78.5,"Hyperlipidemia, unspecified",318.27,303.34,0.0,2,2026-05-12
+866c99b2-2e0d-4867-972f-d94d5ffd1744,d69a675c-ce68-4ba0-af6e-acfb557e36a5,1,99214,"Office visit, established patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1913.63,1597.75,1527.98,3,2025-04-18
+a54f5e25-27d2-4fca-9ebc-f21c71d41e1c,d69a675c-ce68-4ba0-af6e-acfb557e36a5,2,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,836.01,519.42,487.57,2,2025-04-18
+43491dcd-4ceb-44ac-958d-259b27fa42c9,2c9d3dd2-f6b0-436f-802b-30c0a6db9a48,1,99281,"Emergency department visit, self-limited problem",M25.511,Pain in right shoulder,1283.82,1156.11,0.0,3,2024-09-22
+1bcece7e-5b2b-4958-b560-399981e6dd32,2c9d3dd2-f6b0-436f-802b-30c0a6db9a48,2,90837,"Psychotherapy, 60 minutes",M25.511,Pain in right shoulder,1309.26,879.3,0.0,3,2024-09-22
+f53e1b02-8118-4a6d-a1a7-8a850cdac80e,2c9d3dd2-f6b0-436f-802b-30c0a6db9a48,3,97110,Therapeutic exercises,M25.511,Pain in right shoulder,1743.91,1545.56,0.0,4,2024-09-22
+8e55460a-e064-49fc-992e-1ed624cf8a82,62f45169-23b2-42a0-ac9a-d872e62a31c4,1,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,568.33,387.15,371.26,4,2024-09-28
+df0abecf-526b-4b80-ae62-c377d32d9f05,62f45169-23b2-42a0-ac9a-d872e62a31c4,2,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,782.35,747.52,651.4,3,2024-09-28
+8b40e526-49af-4337-92d5-79be7e62b63f,5a729b4e-e45b-4b18-b4d9-26ff75651645,1,99285,"Emergency department visit, high severity",G47.33,Obstructive sleep apnea,1470.31,1155.81,1024.44,4,2026-02-03
+d51911fc-6f46-4400-9322-f005b21728fb,cca302b1-07b5-4714-aab0-5941f64307c2,1,99213,"Office visit, established patient, low complexity",M79.3,"Panniculitis, unspecified",469.43,325.56,290.92,3,2025-03-09
+ebf2319e-d439-4413-8c73-f1808a779122,877b1c0e-8360-424e-aac8-f9b487f48705,1,99215,"Office visit, established patient, high complexity",M54.5,Low back pain,916.59,750.15,600.22,3,2024-06-27
+252f0aba-f492-40b8-96bc-a331f1b8b797,05d7e725-99b0-46d7-9457-afa793522f23,1,99232,"Subsequent hospital care, moderate complexity",E03.9,"Hypothyroidism, unspecified",46.12,33.2,31.43,4,2025-10-31
+3760228c-b9ac-46e5-90da-b977d328dc35,3629b677-2530-4c48-84b9-78548b555652,1,99285,"Emergency department visit, high severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,586.64,527.77,0.0,4,2025-07-30
+c0f352bc-3d5b-464b-a4e2-268b80ed818a,3629b677-2530-4c48-84b9-78548b555652,2,99285,"Emergency department visit, high severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1301.67,1190.23,0.0,4,2025-07-30
+8e736443-368d-4c8f-a4bf-e2b0c03239bf,3629b677-2530-4c48-84b9-78548b555652,3,93000,"Electrocardiogram, complete",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,868.13,550.7,0.0,2,2025-07-30
+3370b1f3-eccc-4ee3-ac52-6b4f3f054d4c,3629b677-2530-4c48-84b9-78548b555652,4,71046,"Chest X-ray, 2 views",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1931.07,1697.75,0.0,2,2025-07-30
+976d68dc-b9bb-4912-b74b-ef4aeb95a866,43c6c336-4b45-437d-a4b1-02cf9530a741,1,99213,"Office visit, established patient, low complexity",J18.9,"Pneumonia, unspecified organism",1262.01,1089.8,878.81,2,2024-10-23
+8c707c13-1e83-4f69-bfb6-db14a595362a,43c6c336-4b45-437d-a4b1-02cf9530a741,2,71046,"Chest X-ray, 2 views",J18.9,"Pneumonia, unspecified organism",1078.66,971.93,902.78,3,2024-10-23
+d4666a4c-1adb-4daf-aa64-aa299c5cfc9a,43c6c336-4b45-437d-a4b1-02cf9530a741,3,36415,"Venipuncture, routine",J18.9,"Pneumonia, unspecified organism",1477.71,1222.11,867.29,2,2024-10-23
+a8276f7f-d7f3-4f28-b30f-968e4f04d2cb,be838ec7-8a14-4c78-be09-99cab228c6c3,1,85025,Complete blood count with differential,E03.9,"Hypothyroidism, unspecified",491.14,316.03,275.22,4,2024-07-15
+13ad7bb5-2f52-4a01-8d87-406de8156fdb,f41a9181-4dc8-4574-9901-80fefb865f34,1,99213,"Office visit, established patient, low complexity",M25.511,Pain in right shoulder,487.06,305.77,0.0,4,2025-03-13
+630fd08b-6a58-4c20-a809-228c31f0d7a6,8200ec02-0193-4204-a973-5f40e7e4831b,1,97110,Therapeutic exercises,G47.33,Obstructive sleep apnea,52.34,38.25,37.22,4,2025-12-14
+076bc26e-b33a-4fab-baee-99724cd9fe33,8200ec02-0193-4204-a973-5f40e7e4831b,2,99281,"Emergency department visit, self-limited problem",G47.33,Obstructive sleep apnea,2474.25,1612.36,1331.04,1,2025-12-14
+d5592a05-0fb6-45dd-a7ea-59e8ee931fd5,b44fb0ad-8043-4a5d-b178-142821b149f8,1,99281,"Emergency department visit, self-limited problem",K58.9,Irritable bowel syndrome without diarrhea,1519.18,1482.21,1298.78,4,2024-12-16
+237922ca-42ba-4c88-84f6-e8ca3cef3145,b44fb0ad-8043-4a5d-b178-142821b149f8,2,99232,"Subsequent hospital care, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,524.21,522.34,435.49,4,2024-12-16
+afb07aa9-3254-4b80-b621-91a435b51188,663f3d73-9055-4e6e-a032-b88a4915c1f8,1,99214,"Office visit, established patient, moderate complexity",R05.9,"Cough, unspecified",1849.79,1322.9,1275.67,4,2024-08-25
+47fec01d-9109-4ef9-988f-a20fd17bb92f,663f3d73-9055-4e6e-a032-b88a4915c1f8,2,80053,Comprehensive metabolic panel,R05.9,"Cough, unspecified",1758.28,1555.48,1227.64,2,2024-08-25
+80d9f75c-921d-4486-83b1-4defa296d650,6c87ca26-3890-4ecd-90b6-e967513fadd2,1,99203,"Office visit, new patient, low complexity",R05.9,"Cough, unspecified",999.04,977.34,754.42,2,2025-12-27
+414c3ca0-e314-434c-ba6a-ede104650978,6c87ca26-3890-4ecd-90b6-e967513fadd2,2,99232,"Subsequent hospital care, moderate complexity",R05.9,"Cough, unspecified",2209.33,1800.81,1620.72,1,2025-12-27
+d6c244ec-2990-42a8-ac86-ee2d7a0645fd,72c6644c-8728-47d3-bfbd-4b707e5aad47,1,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,1894.61,1519.02,1418.54,4,2025-03-12
+0c3302a8-164e-4864-92a7-7615d32165af,72c6644c-8728-47d3-bfbd-4b707e5aad47,2,93000,"Electrocardiogram, complete",G47.33,Obstructive sleep apnea,432.98,295.7,210.95,1,2025-03-12
+df54dbbc-9351-4190-a90b-06785e222499,e5782f16-053a-4ce6-bcd4-57d7f813d062,1,99213,"Office visit, established patient, low complexity",M79.3,"Panniculitis, unspecified",645.25,570.17,0.0,2,2025-03-21
+75c3a4ac-8f0c-46a4-b2f5-3f2eca5d9785,e5782f16-053a-4ce6-bcd4-57d7f813d062,2,36415,"Venipuncture, routine",M79.3,"Panniculitis, unspecified",1683.98,1323.1,0.0,4,2025-03-21
+8a4696ec-4eb9-4d18-86a5-d3787d72c170,e5782f16-053a-4ce6-bcd4-57d7f813d062,3,99215,"Office visit, established patient, high complexity",M79.3,"Panniculitis, unspecified",229.31,197.85,0.0,4,2025-03-21
+135e5ae2-fd98-4c85-ac2e-364ed0be51ba,2b86fce2-47c3-4983-8509-1d910083d831,1,99233,"Subsequent hospital care, high complexity",I25.10,Atherosclerotic heart disease of native coronary artery,332.27,297.91,223.59,1,2026-02-25
+98f56cd1-4aba-43c0-8672-c3c341191308,2b86fce2-47c3-4983-8509-1d910083d831,2,99232,"Subsequent hospital care, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,404.9,300.94,230.22,1,2026-02-25
+b8d58792-57ab-4032-bfd8-2b352b16bba6,537ee2a2-515b-4680-b666-d524d22f284b,1,85025,Complete blood count with differential,J45.909,"Unspecified asthma, uncomplicated",1733.61,1348.05,0.0,1,2026-05-13
+d62dd817-d57f-465f-bbca-9f70c858bbd7,537ee2a2-515b-4680-b666-d524d22f284b,2,99214,"Office visit, established patient, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",1936.71,1756.3,0.0,2,2026-05-13
+4f1ef02c-a13d-4f66-965c-6ba8ceffe4b6,537ee2a2-515b-4680-b666-d524d22f284b,3,80053,Comprehensive metabolic panel,J45.909,"Unspecified asthma, uncomplicated",2274.17,1546.42,0.0,1,2026-05-13
+53e32ab8-1933-4a87-b843-e2c4c719b1ba,4d407e3e-26a8-4fae-9040-292046e462e6,1,99203,"Office visit, new patient, low complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1997.39,1861.93,1397.13,2,2024-11-08
+2e212e81-5f16-4ff2-aba7-2d90e2b9a363,4d407e3e-26a8-4fae-9040-292046e462e6,2,99214,"Office visit, established patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1053.81,677.68,540.89,2,2024-11-08
+de7ecdb5-2ca5-4de9-9e93-81cd7a19fdaf,974aa7c6-d96f-4743-a78f-2c7181ef114b,1,36415,"Venipuncture, routine",G47.33,Obstructive sleep apnea,454.71,345.97,275.0,4,2024-11-11
+2639a3d1-7fda-4059-b2c2-3dd39749e9c1,7f9265cd-17b2-4be1-8860-47c7abd9a803,1,99214,"Office visit, established patient, moderate complexity",G47.33,Obstructive sleep apnea,191.64,131.74,104.14,4,2024-08-14
+a3b9d7d2-9e9b-4315-9fc4-9ac07f249016,7f9265cd-17b2-4be1-8860-47c7abd9a803,2,99203,"Office visit, new patient, low complexity",G47.33,Obstructive sleep apnea,1788.51,1639.18,1600.93,2,2024-08-14
+7fb61273-5e97-477e-8c69-b4e8a19016eb,fc7e8c23-0645-4db1-8d22-24588dbf0cdf,1,99281,"Emergency department visit, self-limited problem",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1597.5,1523.35,0.0,3,2025-03-06
+715d38ed-b813-4bf2-a4ae-e5e2f40cfb79,fc7e8c23-0645-4db1-8d22-24588dbf0cdf,2,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,192.1,116.62,0.0,4,2025-03-06
+ad9b871f-078a-4901-961e-2909fb5d5f44,250720c2-6ea5-4fc7-8ba9-aada49722152,1,99233,"Subsequent hospital care, high complexity",M54.5,Low back pain,610.08,470.62,363.82,1,2024-07-28
+2af8dc98-4efe-4c98-9fb5-83a8ddded349,250720c2-6ea5-4fc7-8ba9-aada49722152,2,99214,"Office visit, established patient, moderate complexity",M54.5,Low back pain,365.45,292.17,222.23,4,2024-07-28
+b7778f8d-130a-4b81-ab73-9cfbde8dc329,250720c2-6ea5-4fc7-8ba9-aada49722152,3,99283,"Emergency department visit, moderate severity",M54.5,Low back pain,1614.05,1122.13,1029.66,4,2024-07-28
+79865c84-89e4-4d4d-a89f-300e71145cca,859791ba-92d5-4cb4-9d74-8f7cdd156e51,1,71046,"Chest X-ray, 2 views",J45.909,"Unspecified asthma, uncomplicated",1628.91,1165.29,823.99,3,2024-12-29
+db118329-794e-4ea4-81c1-d6b2531ea236,859791ba-92d5-4cb4-9d74-8f7cdd156e51,2,36415,"Venipuncture, routine",J45.909,"Unspecified asthma, uncomplicated",624.57,509.48,495.21,2,2024-12-29
+21425db3-8210-4095-b6b6-dbd769642a3f,859791ba-92d5-4cb4-9d74-8f7cdd156e51,3,99285,"Emergency department visit, high severity",J45.909,"Unspecified asthma, uncomplicated",1529.96,1151.44,917.11,4,2024-12-29
+6cbdd69d-0b12-46ee-acfb-8d9c5290250f,27035091-7955-4c75-a3a3-c3e4c5efe759,1,99283,"Emergency department visit, moderate severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,335.76,224.78,194.36,2,2024-06-25
+578ebccd-c49f-4113-99c1-660c67420452,8e775067-8a64-417d-b42e-2d426fa4dc2c,1,99285,"Emergency department visit, high severity",N39.0,"Urinary tract infection, site not specified",1074.44,905.04,715.82,4,2026-04-18
+928e7df8-782e-4721-aaea-e7aa5441dc70,defa4aac-6190-44cc-8153-45771a2b3bd3,1,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,959.85,756.64,625.6,4,2025-07-16
+27c58bff-5c32-424f-9d61-6dc65ce9037e,15df64ea-e743-4aac-9b12-e9df5fead0bd,1,20610,"Arthrocentesis, major joint",J18.9,"Pneumonia, unspecified organism",1354.56,1112.28,837.22,4,2024-09-14
+4dae8e21-d176-46c6-9051-3ec644ff5807,15df64ea-e743-4aac-9b12-e9df5fead0bd,2,93000,"Electrocardiogram, complete",J18.9,"Pneumonia, unspecified organism",781.97,557.77,484.5,4,2024-09-14
+9d9afe9f-d77e-4a33-8f51-7bbcbe6684e7,15df64ea-e743-4aac-9b12-e9df5fead0bd,3,99215,"Office visit, established patient, high complexity",J18.9,"Pneumonia, unspecified organism",849.75,752.83,571.18,2,2024-09-14
+ef5bff17-32bf-48bf-a22d-3c20243eb580,efd5765d-0bc8-44c8-b605-70edf5f548b6,1,80053,Comprehensive metabolic panel,M79.3,"Panniculitis, unspecified",975.49,705.4,702.76,1,2024-10-10
+c7ad3722-ffee-47c1-8d60-7b17acc95d47,14b20dd5-8f99-4128-87ed-cd5b40d7848f,1,80053,Comprehensive metabolic panel,F32.9,"Major depressive disorder, single episode, unspecified",1286.28,1023.17,927.55,1,2024-08-05
+0d63ac4a-32a0-424a-a7b2-b4308ea2706d,14b20dd5-8f99-4128-87ed-cd5b40d7848f,2,85025,Complete blood count with differential,F32.9,"Major depressive disorder, single episode, unspecified",2318.13,2073.02,1601.83,1,2024-08-05
+edbfc688-d115-4b9a-9538-1511034316bb,14b20dd5-8f99-4128-87ed-cd5b40d7848f,3,80053,Comprehensive metabolic panel,F32.9,"Major depressive disorder, single episode, unspecified",1586.61,1381.26,1255.9,2,2024-08-05
+5c7e2a2c-e300-4b16-8445-a760456767dc,3a535621-5043-41f0-b69c-7183d2f8574f,1,99213,"Office visit, established patient, low complexity",I25.10,Atherosclerotic heart disease of native coronary artery,313.91,199.94,182.64,4,2024-05-22
+4611a769-6f10-4b61-b175-9d1fd6aea8bf,3a535621-5043-41f0-b69c-7183d2f8574f,2,85025,Complete blood count with differential,I25.10,Atherosclerotic heart disease of native coronary artery,1772.52,1754.19,1270.22,2,2024-05-22
+ad9bafe4-cc4f-4cc4-b355-cc873e90a974,ea5825f2-f989-45c0-b10a-56093bdec7b3,1,99396,"Preventive visit, 40-64 years",E03.9,"Hypothyroidism, unspecified",787.25,601.97,0.0,1,2024-07-04
+673e6a49-7508-4688-9871-e270c5b15d23,ea5825f2-f989-45c0-b10a-56093bdec7b3,2,99203,"Office visit, new patient, low complexity",E03.9,"Hypothyroidism, unspecified",1599.55,1456.67,0.0,3,2024-07-04
+9bd54078-500d-4145-8e77-7be8830a6210,79885468-a210-4b10-96a3-55090966ac80,1,90837,"Psychotherapy, 60 minutes",I25.10,Atherosclerotic heart disease of native coronary artery,28.91,18.15,16.5,4,2025-05-20
+5584f50d-b44d-4ecf-af3a-7af9d39e0cef,267a8270-03bc-46ea-8b3a-e4f178da57fe,1,90837,"Psychotherapy, 60 minutes",N39.0,"Urinary tract infection, site not specified",475.41,465.61,388.88,2,2024-07-21
+ce1a2203-2c63-4162-833d-b2f72634a9e9,267a8270-03bc-46ea-8b3a-e4f178da57fe,2,99281,"Emergency department visit, self-limited problem",N39.0,"Urinary tract infection, site not specified",522.33,470.08,443.17,2,2024-07-21
+55d7fda3-9af8-4837-b2cd-a5514e8164d5,591d048e-77de-4231-b3d5-9a78aa3961c1,1,85025,Complete blood count with differential,J06.9,"Acute upper respiratory infection, unspecified",333.59,208.73,147.97,2,2025-11-03
+6bfb78a3-948d-4bbf-9419-5c70ea08165b,efbeb1c1-d2aa-4dc9-ba88-04b8cf69b1b8,1,99214,"Office visit, established patient, moderate complexity",R05.9,"Cough, unspecified",264.68,214.11,150.34,3,2025-04-29
+0bd68e2a-ff9d-4873-9b93-fa4108c50615,efbeb1c1-d2aa-4dc9-ba88-04b8cf69b1b8,2,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",1196.25,879.02,728.56,3,2025-04-29
+a7513dfe-29ad-4ddc-8020-b55dd03ab49c,efbeb1c1-d2aa-4dc9-ba88-04b8cf69b1b8,3,36415,"Venipuncture, routine",R05.9,"Cough, unspecified",2498.63,2315.58,2274.59,4,2025-04-29
+4f579fb0-3c0d-4c07-8ca9-a983c3c11e8d,efbeb1c1-d2aa-4dc9-ba88-04b8cf69b1b8,4,85025,Complete blood count with differential,R05.9,"Cough, unspecified",1536.75,1521.57,1463.63,1,2025-04-29
+99e71140-9028-48ae-8162-ce62a2a41522,51d38fa5-52e9-4424-9375-137f77c1a7a5,1,99285,"Emergency department visit, high severity",F32.9,"Major depressive disorder, single episode, unspecified",936.86,793.84,712.6,4,2024-08-18
+03a4adaa-13d7-467d-9c13-eb73520affca,51d38fa5-52e9-4424-9375-137f77c1a7a5,2,97110,Therapeutic exercises,F32.9,"Major depressive disorder, single episode, unspecified",1047.49,707.24,704.31,3,2024-08-18
+79402228-e34d-48f1-9904-3800a384b433,51d38fa5-52e9-4424-9375-137f77c1a7a5,3,99213,"Office visit, established patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",1593.6,1512.92,1499.12,3,2024-08-18
+ea0379b5-ecc8-4068-8dbe-bff2c9030386,032d2763-bdda-4cd1-a5f9-8123e88463ef,1,90837,"Psychotherapy, 60 minutes",G47.33,Obstructive sleep apnea,2467.51,2326.47,0.0,1,2025-08-26
+e5c1494c-f058-455c-b9bc-9d257539d374,032d2763-bdda-4cd1-a5f9-8123e88463ef,2,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,752.31,510.09,0.0,2,2025-08-26
+a6a53246-80d7-4b50-bdf7-3503ea85e82f,032d2763-bdda-4cd1-a5f9-8123e88463ef,3,97110,Therapeutic exercises,G47.33,Obstructive sleep apnea,2193.68,2004.9,0.0,1,2025-08-26
+9c9e7516-5299-427a-b8c5-e319e035e89b,58ad32ae-e3a4-4574-85b2-c44eaa4998e3,1,93000,"Electrocardiogram, complete",Z00.00,Encounter for general adult medical examination,2388.75,1893.96,0.0,2,2026-01-22
+5f353a9b-0c51-4e15-b2b9-5697c86613da,58ad32ae-e3a4-4574-85b2-c44eaa4998e3,2,99285,"Emergency department visit, high severity",Z00.00,Encounter for general adult medical examination,548.81,494.64,0.0,1,2026-01-22
+7ab7c6c9-215e-4e54-8b8b-9756c53b4ee3,9c6c9fa7-c404-4c64-bc9d-3b1d5200acb4,1,99232,"Subsequent hospital care, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1673.18,1640.72,1478.58,2,2025-08-11
+e8aa1548-3374-4de9-bbcb-c111b1eb5c55,9c6c9fa7-c404-4c64-bc9d-3b1d5200acb4,2,99395,"Preventive visit, 18-39 years",K21.0,Gastro-esophageal reflux disease with esophagitis,1593.03,1269.3,1191.44,3,2025-08-11
+2965dd55-d075-462d-ab61-24040fa52f8a,9c6c9fa7-c404-4c64-bc9d-3b1d5200acb4,3,99285,"Emergency department visit, high severity",K21.0,Gastro-esophageal reflux disease with esophagitis,2331.16,2113.28,1860.12,3,2025-08-11
+0a626d91-940d-448c-ac4c-1174d8f32ff5,d54ab21b-60e5-4905-8314-a82620174a45,1,99215,"Office visit, established patient, high complexity",J18.9,"Pneumonia, unspecified organism",300.67,221.32,194.24,2,2024-12-31
+c88522c3-637e-497e-9902-bae4c623e26a,54c3fdbf-f434-4d7c-b5ac-5b6d4ad7504a,1,99213,"Office visit, established patient, low complexity",R05.9,"Cough, unspecified",794.23,664.0,502.62,4,2025-01-16
+8ca8fdc9-20ce-433a-be46-57a10734b187,54c3fdbf-f434-4d7c-b5ac-5b6d4ad7504a,2,71046,"Chest X-ray, 2 views",R05.9,"Cough, unspecified",816.12,608.83,550.25,2,2025-01-16
+dec34c02-6b14-4f83-9d7c-74dae9169733,54c3fdbf-f434-4d7c-b5ac-5b6d4ad7504a,3,97110,Therapeutic exercises,R05.9,"Cough, unspecified",1667.76,1394.77,1020.94,1,2025-01-16
+43e43e3b-3767-4866-8ae8-70b028b21afa,54c3fdbf-f434-4d7c-b5ac-5b6d4ad7504a,4,99395,"Preventive visit, 18-39 years",R05.9,"Cough, unspecified",2134.6,1550.51,1464.99,3,2025-01-16
+6e2dd450-2ed3-4e56-9ec3-79fcdf376ebb,e7a79ddc-40b1-4528-a296-dec10a0de964,1,20610,"Arthrocentesis, major joint",I10,Essential hypertension,817.34,654.65,593.49,3,2025-05-12
+f5c7de46-37c1-4070-910a-511bbe40776f,6f5682a3-a00b-42cd-b809-04825cd58b9f,1,99214,"Office visit, established patient, moderate complexity",M79.3,"Panniculitis, unspecified",2453.33,1798.92,1706.03,2,2026-05-01
+b2cba383-64ba-4b25-a828-6ae3408f4218,6f5682a3-a00b-42cd-b809-04825cd58b9f,2,99285,"Emergency department visit, high severity",M79.3,"Panniculitis, unspecified",1758.51,1092.08,1047.99,2,2026-05-01
+930872d8-6b95-4349-89d8-f947e8d8d62e,44ae3f9a-66ff-433d-b606-99bc652b948c,1,36415,"Venipuncture, routine",E11.9,Type 2 diabetes mellitus without complications,1070.53,845.04,0.0,3,2025-12-10
+eea03f24-8d9e-4b42-b619-07799e5c115d,44ae3f9a-66ff-433d-b606-99bc652b948c,2,85025,Complete blood count with differential,E11.9,Type 2 diabetes mellitus without complications,992.88,805.36,0.0,3,2025-12-10
+499b7a58-ee5f-4d89-8b7c-072be5dd3adb,44ae3f9a-66ff-433d-b606-99bc652b948c,3,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,1748.53,1185.57,0.0,4,2025-12-10
+27dbc644-e62a-4e89-bcde-9f5f509908a5,45afa21c-f2b1-4db5-b9c2-4751751a145a,1,99396,"Preventive visit, 40-64 years",I25.10,Atherosclerotic heart disease of native coronary artery,365.46,321.01,252.74,2,2024-11-26
+5aca7b83-e3d5-4b66-bc85-1313ddf668f6,4394afde-5ab8-4dcb-a8af-6e8181ed43cf,1,71046,"Chest X-ray, 2 views",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1706.63,1138.82,0.0,1,2024-06-20
+190692b6-43ba-424d-96bb-c29a7599e7b4,4394afde-5ab8-4dcb-a8af-6e8181ed43cf,2,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,905.07,714.6,0.0,1,2024-06-20
+e02e4937-0fea-4645-8b9b-ac294a71861a,63d8110c-c332-43e9-a50d-3ccedf3c7d43,1,99203,"Office visit, new patient, low complexity",I10,Essential hypertension,621.12,494.07,447.82,2,2025-01-30
+50859111-f2d9-4e8d-b574-46f5a8955201,0f1cdd0c-eb5e-40d3-9728-bc3b003a1290,1,99232,"Subsequent hospital care, moderate complexity",M79.3,"Panniculitis, unspecified",1590.03,1237.12,870.29,1,2025-12-29
+5049a967-3ca3-4cd6-af55-4a43d60ea616,0f1cdd0c-eb5e-40d3-9728-bc3b003a1290,2,99215,"Office visit, established patient, high complexity",M79.3,"Panniculitis, unspecified",327.08,280.16,272.47,2,2025-12-29
+fd088958-dbf2-4256-b685-a560ef4d974e,0f1cdd0c-eb5e-40d3-9728-bc3b003a1290,3,99213,"Office visit, established patient, low complexity",M79.3,"Panniculitis, unspecified",1477.45,1469.97,1240.43,1,2025-12-29
+b3a8a9ae-86ec-42fd-bf04-747782d1bc71,569d7356-6c3f-4887-829f-57c8fbc215fc,1,99396,"Preventive visit, 40-64 years",J18.9,"Pneumonia, unspecified organism",334.96,244.55,223.55,2,2024-08-09
+bf671f8f-d9c9-47be-a2bf-ddaf1f7d5491,569d7356-6c3f-4887-829f-57c8fbc215fc,2,85025,Complete blood count with differential,J18.9,"Pneumonia, unspecified organism",2036.85,1238.2,1073.29,4,2024-08-09
+805e147a-db6d-418c-9681-f893bb7b69be,b318f515-c4f7-4ff8-aa75-f97501102b7f,1,20610,"Arthrocentesis, major joint",M54.5,Low back pain,1745.66,1051.11,0.0,4,2025-08-27
+8e952a03-251e-4044-980d-de170f9d80b3,b318f515-c4f7-4ff8-aa75-f97501102b7f,2,36415,"Venipuncture, routine",M54.5,Low back pain,329.54,214.7,0.0,2,2025-08-27
+b10b31cc-88a1-48fc-a1c7-3f77cbb7c59c,b318f515-c4f7-4ff8-aa75-f97501102b7f,3,99281,"Emergency department visit, self-limited problem",M54.5,Low back pain,242.36,170.31,0.0,1,2025-08-27
+559f409d-7ef8-47f3-9cb6-12a1cbcabf74,b318f515-c4f7-4ff8-aa75-f97501102b7f,4,99215,"Office visit, established patient, high complexity",M54.5,Low back pain,2450.32,1966.28,0.0,3,2025-08-27
+de8e3f49-04a6-4681-8554-124f5c12e66e,4be2bd4f-466c-42b6-b0df-d29e22838c65,1,99233,"Subsequent hospital care, high complexity",J45.909,"Unspecified asthma, uncomplicated",1656.42,1288.64,1125.14,3,2025-10-15
+822fe4f0-fd65-467d-91de-9aff7b99453c,87f920cc-eb14-401e-b077-d9059dcfa12f,1,99214,"Office visit, established patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,490.48,353.09,335.36,2,2025-09-22
+ca92756c-85f3-4e63-a514-923652e0b0f8,87f920cc-eb14-401e-b077-d9059dcfa12f,2,20610,"Arthrocentesis, major joint",K21.0,Gastro-esophageal reflux disease with esophagitis,1391.37,1164.18,911.81,4,2025-09-22
+dee03c83-488d-4de4-8ea9-9f89bae8bc72,87f920cc-eb14-401e-b077-d9059dcfa12f,3,99215,"Office visit, established patient, high complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1385.88,976.03,873.48,2,2025-09-22
+c043556f-f541-4a8e-aee5-e596dbe94c0c,8038de52-b310-48d2-9719-2427fdfcea5a,1,99283,"Emergency department visit, moderate severity",E03.9,"Hypothyroidism, unspecified",199.63,178.28,178.03,2,2025-08-03
+9ecf2edb-faaa-43e0-a8e1-e5184cf18000,8038de52-b310-48d2-9719-2427fdfcea5a,2,80053,Comprehensive metabolic panel,E03.9,"Hypothyroidism, unspecified",1420.01,1219.94,1041.13,2,2025-08-03
+7be17fd8-d9ca-44c2-a081-f3cdd9f16512,baf26ec7-cab0-4c94-a2cb-207f72b4e294,1,99232,"Subsequent hospital care, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",333.44,214.73,185.64,1,2025-02-21
+2aac8411-653a-4f64-b564-2012400dff76,baf26ec7-cab0-4c94-a2cb-207f72b4e294,2,36415,"Venipuncture, routine",J06.9,"Acute upper respiratory infection, unspecified",1609.44,1199.24,959.46,3,2025-02-21
+c0aa23ab-6f15-414f-8a28-dd5ef6b1457b,ffa508bb-5840-44cd-82ee-ccf0bd1d4ac6,1,99203,"Office visit, new patient, low complexity",M79.3,"Panniculitis, unspecified",1962.27,1274.3,1093.28,3,2024-06-07
+14e8d699-f13c-4737-b5ba-6197fdaba2de,ffa508bb-5840-44cd-82ee-ccf0bd1d4ac6,2,99396,"Preventive visit, 40-64 years",M79.3,"Panniculitis, unspecified",2057.82,1637.71,1406.28,3,2024-06-07
+8ccd8019-32f7-432c-a3cf-662db1bf9405,ffa508bb-5840-44cd-82ee-ccf0bd1d4ac6,3,99395,"Preventive visit, 18-39 years",M79.3,"Panniculitis, unspecified",695.86,445.09,317.97,3,2024-06-07
+2542d3be-5da9-4e59-9dc6-7f542a079f4f,ffa508bb-5840-44cd-82ee-ccf0bd1d4ac6,4,85025,Complete blood count with differential,M79.3,"Panniculitis, unspecified",472.16,435.54,393.44,4,2024-06-07
+4816893c-274d-4104-af27-6474d37e5445,dad04027-b005-4391-aa58-d0d81441e32a,1,85025,Complete blood count with differential,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1429.71,1010.73,0.0,3,2025-07-20
+1523aa42-bb36-4546-89dc-1195a668bfcf,dad04027-b005-4391-aa58-d0d81441e32a,2,99285,"Emergency department visit, high severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1703.58,1307.15,0.0,4,2025-07-20
+b2bc17f8-b2c6-462c-86ca-506703f61fe7,1830b735-bd17-4bd1-b1f3-910f39339765,1,99285,"Emergency department visit, high severity",J45.909,"Unspecified asthma, uncomplicated",780.34,735.99,724.39,4,2024-07-12
+170f9613-8504-461f-8fca-e8ccd6609b79,1830b735-bd17-4bd1-b1f3-910f39339765,2,36415,"Venipuncture, routine",J45.909,"Unspecified asthma, uncomplicated",2116.98,1807.63,1306.93,2,2024-07-12
+14bc4e75-9d25-4245-8265-315c69030e88,1830b735-bd17-4bd1-b1f3-910f39339765,3,99215,"Office visit, established patient, high complexity",J45.909,"Unspecified asthma, uncomplicated",433.65,270.15,249.35,4,2024-07-12
+67384e7a-f91a-4936-b54c-734b89579914,1830b735-bd17-4bd1-b1f3-910f39339765,4,99213,"Office visit, established patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",2406.36,1851.92,1578.96,2,2024-07-12
+b8f4be44-870f-4335-b8b0-c8fb8d131207,c382a86b-a8ce-45cc-8cf1-0718b4220472,1,71046,"Chest X-ray, 2 views",E11.9,Type 2 diabetes mellitus without complications,1763.91,1587.28,1227.39,1,2025-08-23
+d1edcdb1-4a32-42cf-8475-2ae614a6b603,d75422eb-5ccd-40d2-8318-8f8e691d88d5,1,80053,Comprehensive metabolic panel,J45.909,"Unspecified asthma, uncomplicated",2382.4,1832.28,1490.98,3,2026-04-11
+f2a76e33-66e2-4d2b-bd3f-dea052b1a9ae,d75422eb-5ccd-40d2-8318-8f8e691d88d5,2,99203,"Office visit, new patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",861.45,750.86,712.96,1,2026-04-11
+64f958a8-e0db-4294-bfd4-2d07a86a2ec3,d75422eb-5ccd-40d2-8318-8f8e691d88d5,3,99233,"Subsequent hospital care, high complexity",J45.909,"Unspecified asthma, uncomplicated",765.47,549.16,419.51,4,2026-04-11
+60420bf5-6e70-44c4-b204-a044f5c7b5f8,d2fd68c2-bff7-4172-bd58-a2b7af3791cc,1,80053,Comprehensive metabolic panel,I10,Essential hypertension,39.58,31.04,24.51,1,2025-11-18
+2fb4ef1b-ad5e-4991-a396-c60ef847cbc3,d2fd68c2-bff7-4172-bd58-a2b7af3791cc,2,99213,"Office visit, established patient, low complexity",I10,Essential hypertension,890.56,791.68,649.67,1,2025-11-18
+99ce0567-78ad-4787-bbf3-e22376ea7125,d2fd68c2-bff7-4172-bd58-a2b7af3791cc,3,99203,"Office visit, new patient, low complexity",I10,Essential hypertension,1091.24,740.97,636.29,2,2025-11-18
+06d83a73-1547-44f6-ac68-f810e9da33a5,14edaa04-d2b1-40a6-a988-dea440764e77,1,80053,Comprehensive metabolic panel,K58.9,Irritable bowel syndrome without diarrhea,765.73,590.64,0.0,2,2024-05-25
+9517866c-cdea-4b3a-90f6-7876a873548b,7f3b7f76-dbea-4332-a032-5042b71be022,1,71046,"Chest X-ray, 2 views",G47.33,Obstructive sleep apnea,39.38,37.55,34.27,1,2024-05-20
+a3fa1bd4-d46f-4b55-977f-201c86714a94,8516e339-c4e4-4cb0-a98f-ad245dd6db62,1,99281,"Emergency department visit, self-limited problem",I10,Essential hypertension,1673.86,1639.3,1619.48,3,2026-02-28
+5afa14f1-c647-4632-b41f-00d6ebeeb1ea,76bc87fd-6021-4027-90fb-df4618a0414d,1,99204,"Office visit, new patient, moderate complexity",M79.3,"Panniculitis, unspecified",296.59,190.75,0.0,1,2026-02-19
+263a7630-2c60-446e-88f0-69d57f8156e6,78a180a8-46b8-42cc-9c9d-35595e1233aa,1,20610,"Arthrocentesis, major joint",E78.5,"Hyperlipidemia, unspecified",1850.14,1431.51,0.0,3,2025-12-25
+245a6d2b-ad00-445d-a7f1-c3028595f7bf,c55b22cf-2676-4116-b8a5-357039a0932a,1,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,720.82,465.66,362.78,2,2026-02-07
+c1592a6e-239b-4038-82f3-9fa7255cae5b,c55b22cf-2676-4116-b8a5-357039a0932a,2,71046,"Chest X-ray, 2 views",I25.10,Atherosclerotic heart disease of native coronary artery,516.07,455.48,429.51,2,2026-02-07
+db44f5d4-5458-49a0-b51d-da2808007371,cee10717-3884-43dc-9823-1eace1f9296c,1,99204,"Office visit, new patient, moderate complexity",N39.0,"Urinary tract infection, site not specified",1080.1,914.4,665.03,1,2025-01-29
+e80ae5fe-8f78-4a03-8aaf-b9f78be0ddd6,1ddb4d61-466f-4383-9695-f3b9c71bc7a3,1,71046,"Chest X-ray, 2 views",E78.5,"Hyperlipidemia, unspecified",1211.01,973.59,869.57,3,2025-04-01
+19509d5d-071a-4b28-846f-76c4de48f214,79e6d912-83f6-4e29-b039-1388674b1c33,1,99214,"Office visit, established patient, moderate complexity",I10,Essential hypertension,26.33,22.75,0.0,3,2026-01-05
+ef13941b-8dfb-40d2-98d9-feab8f295a1d,8d90bbe9-5689-426d-a091-7470fd684dab,1,80053,Comprehensive metabolic panel,K58.9,Irritable bowel syndrome without diarrhea,852.35,549.43,494.86,2,2025-04-23
+02fba72d-90dd-43be-bf83-d14cb20de40b,3cbb1b8d-f0c7-4348-a4d1-ea3304e2b822,1,99203,"Office visit, new patient, low complexity",M79.3,"Panniculitis, unspecified",347.95,312.12,0.0,1,2026-01-25
+e33831d8-0b0f-4ce2-b2b8-2e551aa75f7a,283543b1-f415-4622-96c1-dbfb8f3d5da7,1,20610,"Arthrocentesis, major joint",E03.9,"Hypothyroidism, unspecified",873.67,777.69,775.27,2,2026-02-03
+cae00365-58d1-4ede-aaba-f2faf67c4383,d3e70318-44e0-48d0-ad31-52801bf712b6,1,99395,"Preventive visit, 18-39 years",F32.9,"Major depressive disorder, single episode, unspecified",2438.44,2335.94,1949.45,1,2024-11-12
+9f62bad2-dc26-424a-b266-70312a614728,d3e70318-44e0-48d0-ad31-52801bf712b6,2,71046,"Chest X-ray, 2 views",F32.9,"Major depressive disorder, single episode, unspecified",192.58,147.82,144.77,1,2024-11-12
+8009182f-489c-41b6-822b-32332fb96ac1,e2ae47e0-f398-4302-88a6-0bb4ee02dd8f,1,85025,Complete blood count with differential,N39.0,"Urinary tract infection, site not specified",1250.19,1016.39,868.04,1,2025-09-23
+f3a3583f-b373-4656-9059-928c80a27753,e2ae47e0-f398-4302-88a6-0bb4ee02dd8f,2,99281,"Emergency department visit, self-limited problem",N39.0,"Urinary tract infection, site not specified",1108.42,890.85,773.93,4,2025-09-23
+dc45cd00-02c3-49bb-a887-ca0a45774eb9,35071b9f-0e54-4860-9f67-9ccaa279b0b7,1,99213,"Office visit, established patient, low complexity",R05.9,"Cough, unspecified",2200.91,2016.6,1687.15,3,2025-02-18
+04ebbf39-6991-4710-b0fb-b158d73ade59,35071b9f-0e54-4860-9f67-9ccaa279b0b7,2,99233,"Subsequent hospital care, high complexity",R05.9,"Cough, unspecified",2134.88,1534.01,1197.38,1,2025-02-18
+6bcda6bd-3a53-40dc-a95a-37859f71b151,af923e72-92ce-415f-a55c-ab1212556f22,1,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",694.33,636.18,567.93,2,2024-09-15
+529d39b4-4832-43e3-a618-549358b4d6c5,993faa50-427c-49e8-a99a-951ed3605674,1,36415,"Venipuncture, routine",G47.33,Obstructive sleep apnea,231.03,203.81,176.25,2,2026-01-29
+1defb742-7abe-47e6-a2ab-350a8d21df17,993faa50-427c-49e8-a99a-951ed3605674,2,71046,"Chest X-ray, 2 views",G47.33,Obstructive sleep apnea,2248.38,1614.24,1607.1,1,2026-01-29
+cb56610c-1117-43f8-8892-c84180780554,58e013a1-bce0-4a69-812c-73f8e511d1ab,1,99203,"Office visit, new patient, low complexity",R05.9,"Cough, unspecified",1813.44,1587.21,1561.33,3,2025-04-05
+2d3196b0-2798-4ce1-a3fc-db1a1af7adf4,40d23673-5b98-4289-a842-a196ff6e02ff,1,99396,"Preventive visit, 40-64 years",N39.0,"Urinary tract infection, site not specified",1583.76,1493.94,1223.0,4,2024-11-07
+a976ee58-014a-4225-9539-b4eb36037e8f,9177ce8c-fd14-4ff0-b3bc-c6c7bc0cb593,1,93000,"Electrocardiogram, complete",I25.10,Atherosclerotic heart disease of native coronary artery,482.94,456.35,345.3,4,2025-02-23
+cc9e6df7-3b80-42b0-808d-81b8d26a730d,5dce5d6e-836d-4538-b6d9-4666634e9087,1,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",489.92,322.08,266.66,4,2025-08-23
+f21fcd12-1ab6-47ba-850a-4e677a349a9c,5dce5d6e-836d-4538-b6d9-4666634e9087,2,85025,Complete blood count with differential,M79.3,"Panniculitis, unspecified",273.08,221.39,203.24,1,2025-08-23
+a2ed4346-e423-4821-99ad-b01a6e3479e8,5dce5d6e-836d-4538-b6d9-4666634e9087,3,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",271.83,204.85,150.16,1,2025-08-23
+3bbcd3a0-8471-4070-ab8e-aae4da4cad0f,4a5bd02d-be9b-49b4-977e-3817706860ff,1,99213,"Office visit, established patient, low complexity",M25.511,Pain in right shoulder,1986.19,1199.18,1124.23,3,2025-02-26
+0ea9d59d-f6de-4671-9188-2fecdc966ceb,d96ed438-f0dc-44c9-94ef-ceca9934d5a1,1,99281,"Emergency department visit, self-limited problem",Z00.00,Encounter for general adult medical examination,785.78,621.99,480.89,3,2024-07-22
+7a14ba9c-e0b1-48f4-8c68-0bb19890ba65,d96ed438-f0dc-44c9-94ef-ceca9934d5a1,2,99395,"Preventive visit, 18-39 years",Z00.00,Encounter for general adult medical examination,329.61,306.53,224.03,3,2024-07-22
+f9dffc5c-b283-4c03-b277-e642d898cffe,a86e213b-3390-4a26-8f17-eb8160fd5e36,1,85025,Complete blood count with differential,R10.9,Unspecified abdominal pain,389.76,336.03,257.99,4,2025-05-17
+3e168619-bb52-4912-aa0d-2fb01ebb0c70,7dc4f061-6fda-4107-ad7c-cbf11b0226f5,1,80053,Comprehensive metabolic panel,J18.9,"Pneumonia, unspecified organism",213.82,156.83,126.74,1,2026-01-27
+e2f2f915-5c98-465d-9e1a-82ad40c40aaf,9c8446bf-2c04-45fd-b4af-e008a0b83dd7,1,71046,"Chest X-ray, 2 views",I25.10,Atherosclerotic heart disease of native coronary artery,396.79,343.98,271.91,3,2025-04-16
+4dff2e7b-818c-4748-a349-0f86d6c865ea,90f33ce2-8ec5-4c33-b41c-9bbbea8bb629,1,99213,"Office visit, established patient, low complexity",J06.9,"Acute upper respiratory infection, unspecified",2157.74,2138.79,1996.21,2,2024-11-17
+b90bb142-a8a9-4c9f-be44-895476e7965f,275fb4ba-4aaf-4844-aabe-341eb0ca2925,1,99203,"Office visit, new patient, low complexity",J06.9,"Acute upper respiratory infection, unspecified",1455.16,1431.64,1121.75,1,2025-02-20
+2c1be5f5-c83f-4638-a5aa-16c14921de22,275fb4ba-4aaf-4844-aabe-341eb0ca2925,2,36415,"Venipuncture, routine",J06.9,"Acute upper respiratory infection, unspecified",2487.06,1673.17,1364.48,3,2025-02-20
+a877849b-48f0-47d5-a9a4-4b911df68594,275fb4ba-4aaf-4844-aabe-341eb0ca2925,3,90837,"Psychotherapy, 60 minutes",J06.9,"Acute upper respiratory infection, unspecified",1073.98,942.28,776.61,3,2025-02-20
+0d31f519-ed26-4422-8104-ed87777feebb,275fb4ba-4aaf-4844-aabe-341eb0ca2925,4,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",2010.3,1732.04,1340.2,4,2025-02-20
+dfea470c-321a-47ab-b17e-6c76f255175b,58879b71-74fb-4871-9e8f-dc8f410a7de5,1,99396,"Preventive visit, 40-64 years",J06.9,"Acute upper respiratory infection, unspecified",1794.43,1454.89,1357.38,2,2024-10-04
+c2259f49-43e1-47e9-8fa9-79a3329c33cf,45d73a70-58db-4fe9-a700-98060cc2c478,1,99395,"Preventive visit, 18-39 years",G47.33,Obstructive sleep apnea,1197.97,782.8,573.83,3,2024-12-06
+42a5c6d1-2123-45e3-b658-a9c27c5023b1,45d73a70-58db-4fe9-a700-98060cc2c478,2,80053,Comprehensive metabolic panel,G47.33,Obstructive sleep apnea,2125.66,2012.38,1903.11,3,2024-12-06
+92bdc1d2-a49c-40ec-bd15-461ef92fc873,45d73a70-58db-4fe9-a700-98060cc2c478,3,93000,"Electrocardiogram, complete",G47.33,Obstructive sleep apnea,381.75,359.35,356.31,4,2024-12-06
+d24c2cb3-3b68-4656-8eef-feabe4830856,078f19cb-cf8f-482a-9afd-fcbf0e1e4339,1,85025,Complete blood count with differential,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1839.38,1615.8,1336.93,1,2024-08-08
+96d1b05f-f5d6-45e0-a88f-069f875964de,078f19cb-cf8f-482a-9afd-fcbf0e1e4339,2,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1665.3,1048.32,997.19,2,2024-08-08
+c12ea060-791b-47e9-ab07-5cd828714337,078f19cb-cf8f-482a-9afd-fcbf0e1e4339,3,99213,"Office visit, established patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,388.54,255.08,197.31,1,2024-08-08
+88f33cb9-ae12-46b6-af5c-73916b2b3e92,078f19cb-cf8f-482a-9afd-fcbf0e1e4339,4,99396,"Preventive visit, 40-64 years",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2081.89,1595.97,1483.65,4,2024-08-08
+3511cd29-3d72-403f-94a9-fa912b254647,04769307-ad27-4d00-b4ed-fd5dc94270b0,1,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,300.38,187.44,167.33,2,2024-11-18
+a8892bd8-c354-4477-95a1-66f76e6fc608,f5128548-9840-4ba4-ba06-97eb7e9a2644,1,99395,"Preventive visit, 18-39 years",Z00.00,Encounter for general adult medical examination,1785.73,1255.76,1094.54,3,2025-10-04
+04271273-3407-4095-914a-5c23c330a59c,f5128548-9840-4ba4-ba06-97eb7e9a2644,2,99285,"Emergency department visit, high severity",Z00.00,Encounter for general adult medical examination,1073.58,711.48,705.74,4,2025-10-04
+faf73a04-9925-4a6b-8859-c58d4be2d1d6,f5128548-9840-4ba4-ba06-97eb7e9a2644,3,99204,"Office visit, new patient, moderate complexity",Z00.00,Encounter for general adult medical examination,1864.26,1417.14,1015.8,4,2025-10-04
+3acd05cf-5fa9-44a5-9e9a-2f13f6592982,f5128548-9840-4ba4-ba06-97eb7e9a2644,4,99281,"Emergency department visit, self-limited problem",Z00.00,Encounter for general adult medical examination,2060.7,2040.91,1799.11,1,2025-10-04
+feab3acc-e472-44b1-9b79-a84fbb9764c5,d648bcd0-ca81-428f-ac1f-a3d85c3f18da,1,99214,"Office visit, established patient, moderate complexity",M79.3,"Panniculitis, unspecified",2013.26,1728.7,0.0,2,2024-06-06
+f01b516f-6aa9-4006-b4a9-91447292dfb2,5e562b39-e7ec-4f32-a39d-718c083ddac6,1,99285,"Emergency department visit, high severity",E11.9,Type 2 diabetes mellitus without complications,723.46,590.8,425.14,1,2024-09-09
+b7ee45bc-0cb1-416b-ae67-2005fa0c1c5d,5e562b39-e7ec-4f32-a39d-718c083ddac6,2,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,489.67,333.31,326.23,2,2024-09-09
+3ebfcb5c-d731-4a9d-8a0b-9fda4aad951b,5e562b39-e7ec-4f32-a39d-718c083ddac6,3,99232,"Subsequent hospital care, moderate complexity",E11.9,Type 2 diabetes mellitus without complications,235.47,194.98,139.11,4,2024-09-09
+5b26fa05-530f-4744-b6f0-25ebbc9940ea,6b487629-193d-433f-a36f-79a618b8a815,1,85025,Complete blood count with differential,J18.9,"Pneumonia, unspecified organism",1263.03,916.69,749.11,3,2025-11-14
+7b8c2485-9045-4505-8b75-fad37660be79,80beab48-9408-4106-9ae3-d1b4e1c2afe0,1,99204,"Office visit, new patient, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",83.62,76.8,64.75,1,2024-10-07
+4f101453-40c5-4c2b-a127-61635103fdf1,80beab48-9408-4106-9ae3-d1b4e1c2afe0,2,99233,"Subsequent hospital care, high complexity",J45.909,"Unspecified asthma, uncomplicated",424.03,370.16,267.86,1,2024-10-07
+c2413ab5-2b1f-4999-85c2-259f2753a052,c2a5d7d3-40fd-46cf-ae2e-ef2b8eb7b31b,1,93000,"Electrocardiogram, complete",I25.10,Atherosclerotic heart disease of native coronary artery,1968.75,1448.23,0.0,3,2026-02-01
+4493e691-0250-43b5-941e-81ec95b4cda1,c67f7e5f-0a68-49b7-9107-12dd115c8844,1,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1428.08,1424.88,1039.05,1,2026-05-07
+e3dc7fad-ba4a-4d9b-baa9-4f83480fcb2b,c67f7e5f-0a68-49b7-9107-12dd115c8844,2,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1921.64,1390.92,1335.64,1,2026-05-07
+2e3b4b38-5a77-490e-b912-a271e7e7eabf,c3e78089-f899-4b92-b3ea-6193c04ef0f2,1,99396,"Preventive visit, 40-64 years",F32.9,"Major depressive disorder, single episode, unspecified",924.24,587.53,442.85,4,2025-06-29
+7be3d537-d763-4593-b11c-a30800ae5677,9645662f-3d5b-42bb-9447-4ccd6fdf572e,1,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",122.99,116.05,95.19,2,2026-01-14
+7d8604de-ff6d-4177-bff4-1740223f5cf0,9645662f-3d5b-42bb-9447-4ccd6fdf572e,2,93000,"Electrocardiogram, complete",R05.9,"Cough, unspecified",932.66,874.77,862.19,3,2026-01-14
+c1ebfae0-da70-434b-8e21-b192ba9995e3,9645662f-3d5b-42bb-9447-4ccd6fdf572e,3,99215,"Office visit, established patient, high complexity",R05.9,"Cough, unspecified",1713.45,1374.83,1070.78,1,2026-01-14
+88c43021-859d-49c5-9d54-c989997f5a26,9645662f-3d5b-42bb-9447-4ccd6fdf572e,4,20610,"Arthrocentesis, major joint",R05.9,"Cough, unspecified",2444.14,1522.27,1426.64,1,2026-01-14
+5e25dd69-941a-41f1-89de-8d891ee8f7c9,a3c7ff27-3509-4265-bf96-d4423b5002d7,1,85025,Complete blood count with differential,K21.0,Gastro-esophageal reflux disease with esophagitis,2188.54,1898.91,1528.02,4,2025-12-25
+7dcefd79-ff16-4836-9833-cf32e59b1f42,a3c7ff27-3509-4265-bf96-d4423b5002d7,2,99395,"Preventive visit, 18-39 years",K21.0,Gastro-esophageal reflux disease with esophagitis,2252.81,1770.58,1284.99,1,2025-12-25
+08793e88-111c-429a-b52a-7c815b4918b3,a3c7ff27-3509-4265-bf96-d4423b5002d7,3,85025,Complete blood count with differential,K21.0,Gastro-esophageal reflux disease with esophagitis,1926.34,1309.5,1045.79,3,2025-12-25
+87de06a6-dbae-4b91-8b65-f113ae33b9f7,b31f8bdc-a028-497a-840d-f3b2297cb92a,1,99395,"Preventive visit, 18-39 years",Z00.00,Encounter for general adult medical examination,410.46,323.44,0.0,2,2025-03-04
+f8177ac8-57aa-4746-a044-8badc3be6569,31c08686-4299-4b32-a447-142832fef260,1,90837,"Psychotherapy, 60 minutes",R10.9,Unspecified abdominal pain,553.22,378.73,267.72,4,2025-05-23
+5b414c24-85f9-485d-8402-6fd2c171f21e,eb301a75-fb1b-417a-bd0a-6eaeb088c447,1,93000,"Electrocardiogram, complete",J18.9,"Pneumonia, unspecified organism",2181.44,1766.77,1591.67,3,2024-07-30
+3f7ed949-cc6b-4d69-b28d-93b095afbb81,c6da39a7-b8d3-4281-b89f-150d0785d1bd,1,80053,Comprehensive metabolic panel,N39.0,"Urinary tract infection, site not specified",2356.31,1867.73,1607.47,2,2024-06-27
+9ab3efde-f051-40a7-8bfe-968cf55d5392,05640b6f-a483-49eb-996a-ec7a9e031b64,1,20610,"Arthrocentesis, major joint",E03.9,"Hypothyroidism, unspecified",516.44,459.16,401.1,2,2025-03-20
+42fcbb05-6e2f-40c0-8512-d56c06094bc3,05640b6f-a483-49eb-996a-ec7a9e031b64,2,36415,"Venipuncture, routine",E03.9,"Hypothyroidism, unspecified",1668.56,1550.76,1427.18,3,2025-03-20
+d33ce07d-3d8d-49d0-95bc-6825a7b3dd9e,05640b6f-a483-49eb-996a-ec7a9e031b64,3,99213,"Office visit, established patient, low complexity",E03.9,"Hypothyroidism, unspecified",397.5,311.43,231.78,3,2025-03-20
+f0938605-1947-4a71-8c00-b76e2295b34e,3972faec-c57e-4b16-8d38-804df00ae828,1,99396,"Preventive visit, 40-64 years",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,266.18,182.99,0.0,2,2025-04-02
+8303ae15-f989-416e-ab0d-4d5c79e684a9,3972faec-c57e-4b16-8d38-804df00ae828,2,71046,"Chest X-ray, 2 views",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1748.7,1590.89,0.0,4,2025-04-02
+0928bf43-06b4-4ac7-bedc-69b81ef505dd,3972faec-c57e-4b16-8d38-804df00ae828,3,99283,"Emergency department visit, moderate severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,886.51,869.62,0.0,1,2025-04-02
+aa653590-4216-4e43-94a0-2b7a25a672de,3972faec-c57e-4b16-8d38-804df00ae828,4,80053,Comprehensive metabolic panel,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2039.1,1236.67,0.0,3,2025-04-02
+43c4263b-2ced-453d-9ee8-8271695bb8d1,26b8db8b-25e8-499b-aab8-e5ee745eb79c,1,71046,"Chest X-ray, 2 views",E03.9,"Hypothyroidism, unspecified",1319.85,1195.83,877.76,2,2025-01-24
+6f42c1dd-b0fd-4947-ab7f-81f1edea5030,e3c64485-d756-4d50-aec2-5f7ae5c8b0cb,1,99233,"Subsequent hospital care, high complexity",M79.3,"Panniculitis, unspecified",2116.6,1852.91,1540.23,3,2025-12-13
+bb23a48b-f22f-477f-a657-fc23224714f4,e3c64485-d756-4d50-aec2-5f7ae5c8b0cb,2,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",2346.31,2257.98,1647.8,1,2025-12-13
+4fce648c-7d27-4896-926f-1e05fef98ee9,32f69806-4e0b-4069-bb93-bd40df3e911d,1,99395,"Preventive visit, 18-39 years",M25.511,Pain in right shoulder,271.76,211.33,184.78,1,2025-04-09
+f25bfd50-b4c3-4646-b747-7ced01692818,d1c56646-2bc2-43ce-8a75-4dfbec4448a3,1,99283,"Emergency department visit, moderate severity",M54.5,Low back pain,2144.45,2102.03,1692.52,4,2024-06-01
+34e69de9-1c0b-47d5-99c9-36495e1ff0c7,d1c56646-2bc2-43ce-8a75-4dfbec4448a3,2,71046,"Chest X-ray, 2 views",M54.5,Low back pain,2272.28,1949.49,1823.53,4,2024-06-01
+e9839bc3-872a-43d0-94fa-012f96b129ca,ab4199f8-00f0-469e-a219-f17d35b06cc1,1,99285,"Emergency department visit, high severity",R10.9,Unspecified abdominal pain,35.29,34.01,24.14,1,2024-09-23
+a8abc94c-6d15-423c-a118-7cbe044df50f,31a643df-c61d-40e4-a238-bf02d3ec030d,1,99285,"Emergency department visit, high severity",R10.9,Unspecified abdominal pain,1400.46,1059.51,937.54,4,2024-12-31
+6deb7687-b757-4b17-a47b-1704309d06ee,31a643df-c61d-40e4-a238-bf02d3ec030d,2,99214,"Office visit, established patient, moderate complexity",R10.9,Unspecified abdominal pain,2008.3,1669.18,1232.96,4,2024-12-31
+a17a249e-c32d-4b65-a0ae-415e8b24e275,4f8cd972-5f82-4e7e-927e-b4c8b3e0431d,1,97110,Therapeutic exercises,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,317.97,264.16,215.98,3,2025-08-10
+c02c5664-e8f5-409a-8d86-2571415269d8,42a2bc11-f6c0-4102-9aad-3867d18d5be8,1,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,403.8,342.12,295.28,1,2024-09-23
+c8232578-5ed2-41b8-b933-d6098fdd8ecd,4e6cf8f7-ecf1-406c-899e-4a4f61fba927,1,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,1639.99,1129.46,856.3,2,2024-10-13
+2a79e6d3-583b-4370-9d10-3733898a9942,4e6cf8f7-ecf1-406c-899e-4a4f61fba927,2,85025,Complete blood count with differential,I25.10,Atherosclerotic heart disease of native coronary artery,1931.72,1668.43,1305.53,2,2024-10-13
+7408689d-68e2-482b-a066-1875384af3fe,4e6cf8f7-ecf1-406c-899e-4a4f61fba927,3,99213,"Office visit, established patient, low complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1605.01,1334.95,975.88,4,2024-10-13
+b1e0beac-a3e2-493f-865e-48549d81bb78,f1ff41b4-424f-40d9-a541-925f277d9714,1,99215,"Office visit, established patient, high complexity",J06.9,"Acute upper respiratory infection, unspecified",1248.26,929.4,884.32,4,2025-02-24
+576b3d24-b967-42d1-a0d6-b6d87fc39ed5,f1ff41b4-424f-40d9-a541-925f277d9714,2,99203,"Office visit, new patient, low complexity",J06.9,"Acute upper respiratory infection, unspecified",1240.32,755.09,545.23,1,2025-02-24
+89177d8e-54d3-4d36-bc08-b8bd5d0e6091,f1ff41b4-424f-40d9-a541-925f277d9714,3,99283,"Emergency department visit, moderate severity",J06.9,"Acute upper respiratory infection, unspecified",1726.16,1294.8,1028.17,4,2025-02-24
+468ad98c-499e-4ccd-b7ee-7e14092ffc7b,16e51f2b-df64-4fac-8f29-bef9fa5711e4,1,99214,"Office visit, established patient, moderate complexity",M25.511,Pain in right shoulder,315.09,232.26,186.75,1,2026-04-02
+5369f786-1800-449c-93bd-f35168123807,16e51f2b-df64-4fac-8f29-bef9fa5711e4,2,99281,"Emergency department visit, self-limited problem",M25.511,Pain in right shoulder,1316.33,923.8,680.36,1,2026-04-02
+3ac95a96-a19e-4db2-b92a-8c3d70212097,b134df08-f5c0-4a31-8a78-29327a291a64,1,99213,"Office visit, established patient, low complexity",N39.0,"Urinary tract infection, site not specified",835.66,574.85,527.9,2,2025-04-27
+a2e54912-f5cb-4109-95c7-101ad1365c59,bd8bc964-4cc7-4195-9099-58c93bbde967,1,93000,"Electrocardiogram, complete",J18.9,"Pneumonia, unspecified organism",1869.36,1492.35,1274.16,4,2025-04-22
+aa2edccd-50c3-4788-8893-6e81b62d37ee,bd8bc964-4cc7-4195-9099-58c93bbde967,2,99283,"Emergency department visit, moderate severity",J18.9,"Pneumonia, unspecified organism",643.98,437.36,417.16,3,2025-04-22
+7276a493-49a8-47aa-ae34-703012c1536d,6bb28fc8-2505-496a-b3ae-9844dd096bec,1,71046,"Chest X-ray, 2 views",K58.9,Irritable bowel syndrome without diarrhea,2210.07,1700.64,1571.6,3,2025-04-25
+82a2faf3-7c0b-42ff-95af-e8249ca86f29,6bb28fc8-2505-496a-b3ae-9844dd096bec,2,20610,"Arthrocentesis, major joint",K58.9,Irritable bowel syndrome without diarrhea,291.21,219.34,166.68,3,2025-04-25
+7ccc1591-fe6a-496d-a78c-8decd5a4cb01,6bb28fc8-2505-496a-b3ae-9844dd096bec,3,80053,Comprehensive metabolic panel,K58.9,Irritable bowel syndrome without diarrhea,2247.29,2084.89,1740.51,1,2025-04-25
+6812a7c3-e8a3-4bc4-bbc9-f587870ada69,6bb28fc8-2505-496a-b3ae-9844dd096bec,4,97110,Therapeutic exercises,K58.9,Irritable bowel syndrome without diarrhea,651.33,497.57,438.44,3,2025-04-25
+26b5420d-16a7-4f80-9724-142548483d89,e4fa6da8-f8fc-4b18-b1a0-b0e99496f68f,1,99285,"Emergency department visit, high severity",G47.33,Obstructive sleep apnea,204.78,176.68,143.39,3,2024-12-25
+8a6c4ee8-92fb-4fe5-a14e-ef1e0970e992,e4fa6da8-f8fc-4b18-b1a0-b0e99496f68f,2,99203,"Office visit, new patient, low complexity",G47.33,Obstructive sleep apnea,48.84,42.75,39.12,2,2024-12-25
+d95a41b0-0b5a-4c5f-8fb7-5074e8e56127,e4fa6da8-f8fc-4b18-b1a0-b0e99496f68f,3,93000,"Electrocardiogram, complete",G47.33,Obstructive sleep apnea,1429.49,1041.56,801.79,1,2024-12-25
+32b1011b-7ebd-479d-8f81-94a8a851d871,a504dade-0868-46c1-987e-954cfdfe1508,1,99215,"Office visit, established patient, high complexity",M25.511,Pain in right shoulder,1445.52,1240.99,1122.65,4,2024-07-18
+8c63bfdc-4664-4985-a791-2a0f472a7c6b,a504dade-0868-46c1-987e-954cfdfe1508,2,36415,"Venipuncture, routine",M25.511,Pain in right shoulder,2038.15,1384.43,989.73,4,2024-07-18
+89ee79af-40c3-4384-b701-c6549765b27a,e79f1524-82ca-400a-9f28-99acb1883a8e,1,99396,"Preventive visit, 40-64 years",E78.5,"Hyperlipidemia, unspecified",972.57,807.78,634.52,1,2025-10-13
+4b0f4f3f-6034-4074-bf1a-4ac5b53b196e,74d1833a-33f3-41b5-947d-bfe55d262d04,1,97110,Therapeutic exercises,E03.9,"Hypothyroidism, unspecified",121.82,104.51,75.33,1,2025-01-04
+194481e2-63b0-434b-9ed7-e984cec99ad6,f9a600d1-9dac-4a0a-a4f4-7beb721d19fa,1,90837,"Psychotherapy, 60 minutes",E03.9,"Hypothyroidism, unspecified",1540.49,1166.66,0.0,4,2025-08-09
+3910e12f-b986-40a2-9a23-a67bc4f99789,d3a40e0e-4962-41a3-8a25-57db717fc100,1,99204,"Office visit, new patient, moderate complexity",E11.9,Type 2 diabetes mellitus without complications,285.21,207.96,188.47,4,2024-06-19
+4511991b-97ab-4ae4-91d1-ea4eff06d2f2,f8611d7b-6abb-483d-b192-7571f8dc9ffc,1,99213,"Office visit, established patient, low complexity",E03.9,"Hypothyroidism, unspecified",2336.92,2213.54,1721.93,1,2025-02-25
+564675f8-1b2d-44eb-b89c-207119532ef9,52e74cbf-c811-4c3b-986a-9c5bc4ce4be6,1,99232,"Subsequent hospital care, moderate complexity",M79.3,"Panniculitis, unspecified",1754.2,1701.47,1488.85,1,2025-05-16
+65dee041-25c5-43e2-ab11-d95e751d7b9c,52e74cbf-c811-4c3b-986a-9c5bc4ce4be6,2,99204,"Office visit, new patient, moderate complexity",M79.3,"Panniculitis, unspecified",815.35,537.48,470.42,4,2025-05-16
+822e763d-766e-46a2-9629-9906d3b36cd0,088f4968-5a15-47af-8001-dc9c16f2a9bb,1,36415,"Venipuncture, routine",F32.9,"Major depressive disorder, single episode, unspecified",1937.29,1536.43,1117.81,3,2024-07-21
+b7e85ef4-e2bb-41aa-b881-101cc62fc646,088f4968-5a15-47af-8001-dc9c16f2a9bb,2,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",898.7,839.58,648.75,2,2024-07-21
+e1014497-005c-47f1-9327-eeb774515008,cdec4c83-a305-4dfb-bfa4-db4dbed0305b,1,85025,Complete blood count with differential,Z00.00,Encounter for general adult medical examination,490.1,314.55,239.88,3,2025-06-07
+ea06a43f-a1d3-4c1f-804b-772877a46071,cdec4c83-a305-4dfb-bfa4-db4dbed0305b,2,99233,"Subsequent hospital care, high complexity",Z00.00,Encounter for general adult medical examination,1778.57,1533.33,1463.32,1,2025-06-07
+ec159aab-8063-404f-a581-d90f574c8898,4702ba74-f90d-4e1b-ba7f-ca350583b453,1,99283,"Emergency department visit, moderate severity",J45.909,"Unspecified asthma, uncomplicated",1955.55,1320.35,1034.3,2,2025-02-01
+542611d3-9973-4f0d-952f-20bc9a1d17ed,4702ba74-f90d-4e1b-ba7f-ca350583b453,2,99233,"Subsequent hospital care, high complexity",J45.909,"Unspecified asthma, uncomplicated",2379.95,1977.49,1444.79,4,2025-02-01
+7f690a31-6b8b-4e2f-8fa7-5b4a5e7f1cae,4702ba74-f90d-4e1b-ba7f-ca350583b453,3,99203,"Office visit, new patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",1868.94,1301.2,1259.86,2,2025-02-01
+f90a1b85-715f-4ea2-9352-16b077a66e3e,bc03a55b-059c-442c-8058-04ac3d620a14,1,80053,Comprehensive metabolic panel,J06.9,"Acute upper respiratory infection, unspecified",1092.9,721.59,613.83,3,2024-10-11
+d20d64df-881b-4404-97cb-42365280a7fd,bc03a55b-059c-442c-8058-04ac3d620a14,2,99214,"Office visit, established patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1117.32,835.66,597.28,4,2024-10-11
+6458e20a-dba6-4641-90f9-3648e8050b19,bc03a55b-059c-442c-8058-04ac3d620a14,3,71046,"Chest X-ray, 2 views",J06.9,"Acute upper respiratory infection, unspecified",504.98,341.26,256.97,3,2024-10-11
+4317312e-4095-4508-a318-2a226f6da03b,bc03a55b-059c-442c-8058-04ac3d620a14,4,97110,Therapeutic exercises,J06.9,"Acute upper respiratory infection, unspecified",1528.43,1234.13,904.32,1,2024-10-11
+c649a22a-19fa-4ada-9221-dfd49b8a39ca,f2c22c55-74c8-4fad-9969-664dfac94f13,1,99285,"Emergency department visit, high severity",F32.9,"Major depressive disorder, single episode, unspecified",187.97,120.38,92.44,4,2024-09-10
+3eb84c9e-87ba-40d4-b2d2-dadf8319760f,fd49022e-4506-4e00-97b5-35b5781e6c16,1,99283,"Emergency department visit, moderate severity",K58.9,Irritable bowel syndrome without diarrhea,448.3,305.49,272.21,3,2024-08-23
+6189db34-cd37-4aa8-88e0-64bf9c0c87f6,fd49022e-4506-4e00-97b5-35b5781e6c16,2,99213,"Office visit, established patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,258.25,206.93,188.34,4,2024-08-23
+680ac657-3dfd-4bfc-a7ca-2c083f0b37c8,eea2f453-ef6f-4b34-939e-46378c2c9064,1,99204,"Office visit, new patient, moderate complexity",E78.5,"Hyperlipidemia, unspecified",2406.55,2085.07,0.0,4,2025-11-21
+cdad15c7-3275-4124-8bfa-912604ef04c3,bc5d2c58-740a-496a-95e9-d71ee351157f,1,20610,"Arthrocentesis, major joint",E11.9,Type 2 diabetes mellitus without complications,896.56,707.86,495.72,2,2025-06-05
+cb705cb3-194b-4aae-a67a-1ed8194f51f1,bc5d2c58-740a-496a-95e9-d71ee351157f,2,90837,"Psychotherapy, 60 minutes",E11.9,Type 2 diabetes mellitus without complications,295.73,274.31,238.7,3,2025-06-05
+2cddac9a-c40d-41e8-8144-9a1c4314eded,bc5d2c58-740a-496a-95e9-d71ee351157f,3,99285,"Emergency department visit, high severity",E11.9,Type 2 diabetes mellitus without complications,1325.04,883.7,657.45,1,2025-06-05
+aa56b922-74c2-4d83-a143-98db6d64e01a,73df1c7d-48ee-41ce-a9a6-eb6f7d0143a4,1,99232,"Subsequent hospital care, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",926.62,561.0,0.0,3,2026-03-17
+74c592b8-7887-4d41-ba31-04e83336bc5a,73df1c7d-48ee-41ce-a9a6-eb6f7d0143a4,2,99233,"Subsequent hospital care, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1782.64,1705.18,0.0,4,2026-03-17
+1a4dd441-9266-4f5a-bd97-b4f8db966f74,73df1c7d-48ee-41ce-a9a6-eb6f7d0143a4,3,99203,"Office visit, new patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",693.1,559.83,0.0,1,2026-03-17
+626d2f61-3a6a-491d-94bd-3057552aa633,73df1c7d-48ee-41ce-a9a6-eb6f7d0143a4,4,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",2447.13,2306.44,0.0,2,2026-03-17
+1c14a275-3d64-4b34-b9b4-3cd9ed8e31e3,bce49725-a175-40a9-9a71-dcba04830d59,1,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,504.76,495.64,0.0,1,2025-10-27
+5b9cdf79-1579-478e-966f-00c9ba6131fc,bce49725-a175-40a9-9a71-dcba04830d59,2,99232,"Subsequent hospital care, moderate complexity",G47.33,Obstructive sleep apnea,2195.93,1913.8,0.0,4,2025-10-27
+c03e01b2-0600-4c1e-88a9-7cd81a450bf8,bce49725-a175-40a9-9a71-dcba04830d59,3,97110,Therapeutic exercises,G47.33,Obstructive sleep apnea,458.01,441.58,0.0,3,2025-10-27
+8061fe6c-c1d3-460b-b3ef-a1d33da4a528,bce49725-a175-40a9-9a71-dcba04830d59,4,36415,"Venipuncture, routine",G47.33,Obstructive sleep apnea,992.79,761.39,0.0,3,2025-10-27
+fd295991-55cd-41ee-9c88-96cc17fce5c7,847608ec-87f5-4d37-bd04-80177f5ea4df,1,99396,"Preventive visit, 40-64 years",Z00.00,Encounter for general adult medical examination,2421.18,2220.07,1746.14,1,2025-09-12
+6fc16b29-f6d1-4841-a1e1-e1af1a9b36ec,7d7278a8-40a5-4371-96a6-e62a642cd746,1,99395,"Preventive visit, 18-39 years",M25.511,Pain in right shoulder,1669.19,1204.25,947.12,3,2026-05-08
+62fd9aa8-6464-4088-9e27-43b8d44e9661,7d7278a8-40a5-4371-96a6-e62a642cd746,2,99213,"Office visit, established patient, low complexity",M25.511,Pain in right shoulder,1148.3,788.8,747.5,1,2026-05-08
+232529fa-4684-47aa-97a4-869c0a0c0708,7d7278a8-40a5-4371-96a6-e62a642cd746,3,99214,"Office visit, established patient, moderate complexity",M25.511,Pain in right shoulder,1233.71,742.74,598.41,1,2026-05-08
+58f45b78-38c4-4168-9328-a419ca75553a,7d7278a8-40a5-4371-96a6-e62a642cd746,4,99214,"Office visit, established patient, moderate complexity",M25.511,Pain in right shoulder,647.3,479.06,376.05,2,2026-05-08
+bb1d179a-3a98-4d19-9ecf-cc60b0c67126,c29df781-2f68-49f9-a3bd-e510eac9fc69,1,99233,"Subsequent hospital care, high complexity",J06.9,"Acute upper respiratory infection, unspecified",566.67,447.26,360.67,4,2025-09-08
+19e87d21-23d3-42a2-8f93-4d0c5a524c35,c29df781-2f68-49f9-a3bd-e510eac9fc69,2,71046,"Chest X-ray, 2 views",J06.9,"Acute upper respiratory infection, unspecified",1012.81,973.98,942.73,3,2025-09-08
+a443bfaa-361c-4470-ada8-cfd7f95bb118,afa5d650-f069-4011-b2c6-41a9f9a6e773,1,99283,"Emergency department visit, moderate severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,643.8,493.49,374.98,3,2026-03-04
+082d6883-5ca9-46e0-abba-2f5927264a6d,afa5d650-f069-4011-b2c6-41a9f9a6e773,2,99215,"Office visit, established patient, high complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,760.9,738.72,619.3,2,2026-03-04
+cf3e868a-6cff-40cc-b493-9b8d35090b84,afa5d650-f069-4011-b2c6-41a9f9a6e773,3,85025,Complete blood count with differential,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1961.45,1831.09,1334.52,4,2026-03-04
+4da88524-572d-4fd4-b16a-e452f19f11eb,1f4b3468-656d-4857-86c1-12e83feb1be9,1,93000,"Electrocardiogram, complete",R10.9,Unspecified abdominal pain,93.49,76.99,76.01,4,2026-02-24
+0683a27f-1354-4e76-8dd2-0085bbb6ef85,1f4b3468-656d-4857-86c1-12e83feb1be9,2,99215,"Office visit, established patient, high complexity",R10.9,Unspecified abdominal pain,1895.74,1603.95,1268.27,2,2026-02-24
+62ddd3f4-ce2a-4de4-b1da-ab6431ce4864,50cc64f9-da18-4666-abb0-782187f62790,1,99214,"Office visit, established patient, moderate complexity",J18.9,"Pneumonia, unspecified organism",1894.45,1434.22,1177.33,1,2025-06-03
+01253b53-0eba-4f7c-9644-92beeac299c7,50cc64f9-da18-4666-abb0-782187f62790,2,93000,"Electrocardiogram, complete",J18.9,"Pneumonia, unspecified organism",2023.52,1922.27,1610.99,1,2025-06-03
+c78b9e93-c29d-43ee-b0a5-ba3300cd6b9d,757db08a-38a8-4fac-b9e0-2745da19215e,1,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",1734.22,1640.1,1207.82,1,2025-11-06
+169717a1-7b08-4b1f-9b66-a49896138997,757db08a-38a8-4fac-b9e0-2745da19215e,2,99283,"Emergency department visit, moderate severity",R05.9,"Cough, unspecified",1302.75,1074.53,1063.98,2,2025-11-06
+f5315d3c-aea3-4d38-82c8-56e478b76732,757db08a-38a8-4fac-b9e0-2745da19215e,3,99285,"Emergency department visit, high severity",R05.9,"Cough, unspecified",2240.25,1917.36,1431.18,3,2025-11-06
+ac518c23-8a5c-4b81-8fbd-b49de59d1900,868a87a7-2e43-46c7-b659-6b3383525ba3,1,97110,Therapeutic exercises,M54.5,Low back pain,264.74,180.48,151.99,4,2026-01-21
+5dc20a49-b883-49bf-8f8f-f72f239d2734,ed596a7b-bd74-4b99-9366-28b1b896cf9e,1,99395,"Preventive visit, 18-39 years",K21.0,Gastro-esophageal reflux disease with esophagitis,669.17,565.52,470.37,1,2025-10-24
+0f982f76-360f-4a94-b83a-3ff068ca6877,013a1bf0-0bc5-48ae-8828-c83a3352b4c2,1,97110,Therapeutic exercises,I25.10,Atherosclerotic heart disease of native coronary artery,1860.62,1523.24,1283.86,3,2026-01-02
+046b877a-386a-4dd0-bacc-c1ba1eb10ea0,013a1bf0-0bc5-48ae-8828-c83a3352b4c2,2,99233,"Subsequent hospital care, high complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1677.15,1649.71,1398.77,3,2026-01-02
+94e0912f-483a-4045-a52d-6745e7790bfc,cfe26029-cac2-4066-9d0f-a17954976244,1,93000,"Electrocardiogram, complete",J18.9,"Pneumonia, unspecified organism",322.31,243.59,212.94,1,2025-02-10
+6e22094b-e280-4b36-8cc1-1ee1c2030ea3,ae97f6aa-84cc-4e93-9819-2804fd972a63,1,93000,"Electrocardiogram, complete",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2209.0,1730.4,1216.01,2,2024-09-19
+f023d179-75b3-4ff7-9d3b-50b421adb6c2,545fb745-95c9-459b-a88b-7bafd028d18d,1,99215,"Office visit, established patient, high complexity",J45.909,"Unspecified asthma, uncomplicated",456.88,301.8,270.65,3,2025-03-17
+f3ad1510-7242-4d5e-8a4f-4a05b82088a1,545fb745-95c9-459b-a88b-7bafd028d18d,2,93000,"Electrocardiogram, complete",J45.909,"Unspecified asthma, uncomplicated",1795.08,1641.92,1286.45,3,2025-03-17
+8469772e-d37c-4078-8dc0-3b3461b10fcf,15b8e684-af4d-4fd4-a8dc-208ab1dc4e5c,1,99396,"Preventive visit, 40-64 years",I25.10,Atherosclerotic heart disease of native coronary artery,1778.54,1427.8,1281.7,3,2024-08-18
+4e030d4b-94a7-44d4-ac9c-ae1844ba4e32,15b8e684-af4d-4fd4-a8dc-208ab1dc4e5c,2,99204,"Office visit, new patient, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1751.98,1463.85,1279.72,4,2024-08-18
+84ce12a5-b437-4498-9a9e-36b6e7c9384f,858f2b8f-7a93-4916-8f2b-d05a829b4434,1,36415,"Venipuncture, routine",K58.9,Irritable bowel syndrome without diarrhea,1905.78,1891.55,1782.91,2,2025-01-16
+f8217b26-b719-4037-9cad-e408091cd97f,49179954-342d-46ee-a80e-590510b5e0c9,1,99215,"Office visit, established patient, high complexity",I10,Essential hypertension,1117.78,838.03,745.33,1,2025-06-29
+d22aece0-c8bd-46ea-a6ce-67c030dfb608,24fb2f34-d57e-45a0-b469-37c269aaf708,1,99395,"Preventive visit, 18-39 years",R05.9,"Cough, unspecified",519.34,364.06,302.63,3,2025-05-11
+7587e7dd-a020-408f-873e-3dbcd9c24568,b3d45b95-adf2-41c2-b249-6aa9410f4b41,1,99396,"Preventive visit, 40-64 years",J06.9,"Acute upper respiratory infection, unspecified",85.0,83.63,60.95,1,2026-04-24
+911c4aad-e850-41ed-8bf2-964cc0596cde,b3d45b95-adf2-41c2-b249-6aa9410f4b41,2,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",2235.9,1663.12,1367.76,1,2026-04-24
+80554b5c-c88d-4a50-955c-fbe391069585,b3d45b95-adf2-41c2-b249-6aa9410f4b41,3,36415,"Venipuncture, routine",J06.9,"Acute upper respiratory infection, unspecified",483.63,431.39,419.87,4,2026-04-24
+8c7f782d-5675-4daa-a1df-c860b5fcfab4,787ea471-73a7-487c-ae3e-5321d5ce000e,1,99204,"Office visit, new patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",2008.95,1558.04,1382.98,1,2025-06-25
+89b894f0-a92d-45e4-828d-ae8176bf6401,787ea471-73a7-487c-ae3e-5321d5ce000e,2,99396,"Preventive visit, 40-64 years",E03.9,"Hypothyroidism, unspecified",218.41,199.4,157.42,1,2025-06-25
+852782ee-987c-44b2-805c-ec9e9c0acb44,6298cdf4-8200-4f45-95a1-162be6795307,1,85025,Complete blood count with differential,F32.9,"Major depressive disorder, single episode, unspecified",1765.6,1107.35,1064.65,3,2025-09-13
+b4ba909a-7c96-4655-8261-2c689428dd16,6298cdf4-8200-4f45-95a1-162be6795307,2,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1347.7,938.75,802.94,3,2025-09-13
+343403b2-c342-4b66-acd5-b9e34787cbb1,6298cdf4-8200-4f45-95a1-162be6795307,3,85025,Complete blood count with differential,F32.9,"Major depressive disorder, single episode, unspecified",1556.15,1273.52,1232.18,4,2025-09-13
+0d6371bd-30c0-4887-a6d8-2d6b8780687b,6298cdf4-8200-4f45-95a1-162be6795307,4,99232,"Subsequent hospital care, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1641.75,1006.24,831.58,2,2025-09-13
+d7894485-c637-4e48-b450-13c3d4d3c406,e163dbf9-20d4-4857-aea4-2ae3b6cb96c9,1,99285,"Emergency department visit, high severity",I10,Essential hypertension,1246.55,1149.65,999.23,1,2025-11-13
+918398ff-ceb6-47d4-9fbf-4eee01804c87,e163dbf9-20d4-4857-aea4-2ae3b6cb96c9,2,80053,Comprehensive metabolic panel,I10,Essential hypertension,2453.11,2403.96,2114.15,1,2025-11-13
+5b96b7fe-b09b-44b6-88f0-d7c90924cf93,2642eaaa-88f0-424f-a65a-e3cd907a8a8a,1,80053,Comprehensive metabolic panel,K58.9,Irritable bowel syndrome without diarrhea,1093.0,788.45,0.0,2,2026-04-22
+4f767f77-0b31-4823-bca4-2b492fb0b982,2646d744-2618-41eb-b99e-493cb9b227ad,1,99395,"Preventive visit, 18-39 years",E11.9,Type 2 diabetes mellitus without complications,1218.38,919.69,747.86,2,2026-03-02
+90cbea66-3879-4bcc-8d5d-fe16c9020ff5,5963ea56-bc66-457e-89cf-544e539aec04,1,80053,Comprehensive metabolic panel,G47.33,Obstructive sleep apnea,504.27,390.61,280.21,2,2026-05-04
+9063db03-86d0-492c-8bd6-bb61385cfac6,5963ea56-bc66-457e-89cf-544e539aec04,2,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,1481.83,1023.72,946.17,1,2026-05-04
+ad53a54f-e704-42db-88b0-f13f584f4c0f,5963ea56-bc66-457e-89cf-544e539aec04,3,99213,"Office visit, established patient, low complexity",G47.33,Obstructive sleep apnea,2186.31,1530.35,1097.36,1,2026-05-04
+74b7d6e2-7096-4497-9630-5576e17b0fbe,09763591-3148-447b-a5e8-1cc26cda282f,1,99233,"Subsequent hospital care, high complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,346.05,262.7,235.71,1,2025-06-27
+18659273-e813-40bc-936c-76e6af80608d,09763591-3148-447b-a5e8-1cc26cda282f,2,99215,"Office visit, established patient, high complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,644.24,526.64,446.84,3,2025-06-27
+f2c29123-0bab-42bb-a98e-99622d011120,af1218fa-5020-4443-a5a2-0db5c201f301,1,97110,Therapeutic exercises,K21.0,Gastro-esophageal reflux disease with esophagitis,2235.12,1626.15,1402.43,1,2025-08-20
+86c3600e-3f30-4c68-a6a6-5b52c7af57b5,d4f70812-d1a2-45ac-8c1e-25810d428df1,1,99285,"Emergency department visit, high severity",J45.909,"Unspecified asthma, uncomplicated",779.72,640.3,471.79,2,2026-02-01
+40638413-796c-4172-bdbb-e883aaa1cfc3,d4f70812-d1a2-45ac-8c1e-25810d428df1,2,99214,"Office visit, established patient, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",2445.33,2150.27,1924.43,4,2026-02-01
+fe8213f3-8521-4c4e-a060-4ee407542181,d4f70812-d1a2-45ac-8c1e-25810d428df1,3,99203,"Office visit, new patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",77.69,72.6,56.71,4,2026-02-01
+82cf68bc-8dc5-4f98-8514-e8644481de88,d4f70812-d1a2-45ac-8c1e-25810d428df1,4,99233,"Subsequent hospital care, high complexity",J45.909,"Unspecified asthma, uncomplicated",2072.27,1313.4,1029.35,4,2026-02-01
+8ac99152-82ea-4a38-8810-3a336469f7fd,af151e74-00e8-4ef7-b9c2-d036b2db9dad,1,71046,"Chest X-ray, 2 views",I25.10,Atherosclerotic heart disease of native coronary artery,1342.92,1160.5,823.25,3,2025-11-21
+a858e03f-f466-4b96-8d1a-3a3ff522a275,f675c627-44ab-4620-826c-4810724ff8c9,1,99283,"Emergency department visit, moderate severity",R05.9,"Cough, unspecified",1899.2,1398.53,1326.89,4,2024-08-13
+627abcca-2bb8-4807-8198-94ae6dc7ba21,f675c627-44ab-4620-826c-4810724ff8c9,2,71046,"Chest X-ray, 2 views",R05.9,"Cough, unspecified",1961.97,1905.91,1764.34,1,2024-08-13
+dee4f9e8-45a9-41f4-b158-245b86ded2fe,f675c627-44ab-4620-826c-4810724ff8c9,3,99395,"Preventive visit, 18-39 years",R05.9,"Cough, unspecified",985.57,875.7,791.1,4,2024-08-13
+7c626ad3-470f-4a98-b3ec-783186ca990b,462e4454-72a7-4648-8f62-55f1ef10cb4b,1,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,2271.59,1618.01,1463.94,3,2025-03-23
+1eee30d0-64a9-47ce-97da-3a3251e12ad9,462e4454-72a7-4648-8f62-55f1ef10cb4b,2,99215,"Office visit, established patient, high complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,2497.05,2268.66,1789.4,4,2025-03-23
+312dcd18-e6bd-4e0a-b8c7-78c3a779bba1,dfc29d3e-f49c-402e-bfdc-c8cc409cf8ed,1,99203,"Office visit, new patient, low complexity",M25.511,Pain in right shoulder,784.57,678.11,0.0,3,2026-02-08
+365522ed-92d1-4565-bfa9-a71d0d335bc2,dfc29d3e-f49c-402e-bfdc-c8cc409cf8ed,2,99281,"Emergency department visit, self-limited problem",M25.511,Pain in right shoulder,1123.43,681.82,0.0,1,2026-02-08
+d5313b36-5277-4b5f-8b47-9cf612499c24,dfc29d3e-f49c-402e-bfdc-c8cc409cf8ed,3,93000,"Electrocardiogram, complete",M25.511,Pain in right shoulder,116.58,86.68,0.0,2,2026-02-08
+2bda63ce-4d71-45c7-a02e-80bce0369e31,be6345f9-8fdb-48e0-bc49-b8c732b7f705,1,93000,"Electrocardiogram, complete",J06.9,"Acute upper respiratory infection, unspecified",470.01,426.01,333.5,4,2025-12-02
+3a3fdd92-55ef-432f-a8a7-d027e401c5fc,be6345f9-8fdb-48e0-bc49-b8c732b7f705,2,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",587.86,393.75,378.54,1,2025-12-02
+cf657bbc-cb4f-4848-927d-d4178e4e09dd,f34e5cb4-0e7e-45fe-85d3-f769421587e9,1,99214,"Office visit, established patient, moderate complexity",E78.5,"Hyperlipidemia, unspecified",1394.68,963.98,950.01,3,2025-07-20
+1973ea78-3a5f-4beb-b05f-50dfa5f4b093,a6bea8e2-ce67-4d0e-b5f4-b0e76556a9bd,1,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,1279.67,825.74,0.0,1,2026-03-16
+8904205b-df4c-4a8a-bc31-efce6c3df0d0,a6bea8e2-ce67-4d0e-b5f4-b0e76556a9bd,2,99285,"Emergency department visit, high severity",G47.33,Obstructive sleep apnea,530.0,438.92,0.0,4,2026-03-16
+b32538c7-3fd1-4933-b4ce-a9a2c38d5e75,fc6349b5-5489-4a96-9b46-c4bcff0e211d,1,36415,"Venipuncture, routine",G47.33,Obstructive sleep apnea,2438.37,2338.29,1899.66,3,2024-11-25
+c9799d86-faea-44c5-8a25-d91aba86f2e5,fc6349b5-5489-4a96-9b46-c4bcff0e211d,2,20610,"Arthrocentesis, major joint",G47.33,Obstructive sleep apnea,102.11,76.31,60.08,2,2024-11-25
+16d90b33-2770-43a8-a091-4dc776c54e40,f4a0376a-126f-486f-9759-3a6bd883a4c3,1,99396,"Preventive visit, 40-64 years",J45.909,"Unspecified asthma, uncomplicated",1789.28,1746.29,1420.87,1,2024-07-31
+fda814a1-405d-4a73-abf3-c82b4bffd2ee,f39f60b0-33b4-4dba-91f0-7a7739d9b96e,1,99285,"Emergency department visit, high severity",J06.9,"Acute upper respiratory infection, unspecified",1424.37,1423.12,1265.29,4,2025-05-21
+12125361-77d4-4b9c-9b1e-baff392dca91,8c282ef7-da52-464b-b5fa-bc8d05d774ed,1,36415,"Venipuncture, routine",Z00.00,Encounter for general adult medical examination,691.23,645.89,508.91,2,2024-08-06
+7f8ce77b-322e-4cc8-85d8-1028332d8ce4,8c282ef7-da52-464b-b5fa-bc8d05d774ed,2,36415,"Venipuncture, routine",Z00.00,Encounter for general adult medical examination,626.61,568.37,459.58,4,2024-08-06
+75d864dc-df07-40b9-a68e-dd81008c5a0d,f7c7018e-ade3-400e-9dc4-fc6f4e3cf3d8,1,80053,Comprehensive metabolic panel,G47.33,Obstructive sleep apnea,1412.13,890.46,0.0,3,2025-01-17
+21c9aedd-070a-4749-81ee-6eda6b19c447,f7c7018e-ade3-400e-9dc4-fc6f4e3cf3d8,2,90837,"Psychotherapy, 60 minutes",G47.33,Obstructive sleep apnea,1522.92,1187.25,0.0,4,2025-01-17
+44e10942-c379-434e-aac7-dde3400f1f31,f7c7018e-ade3-400e-9dc4-fc6f4e3cf3d8,3,99285,"Emergency department visit, high severity",G47.33,Obstructive sleep apnea,1434.12,1334.75,0.0,2,2025-01-17
+74fcca65-7dac-48ba-913f-ecb3479a939f,4c50fd45-4de9-4f6a-830b-52e97b9fbf31,1,99233,"Subsequent hospital care, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",870.39,563.3,463.34,2,2026-03-19
+bdc00097-db66-4c10-8b54-fa769a4edf02,56b56c03-6c60-41e6-bad7-44bca8f76360,1,99395,"Preventive visit, 18-39 years",F32.9,"Major depressive disorder, single episode, unspecified",1785.67,1407.01,1027.54,1,2024-08-12
+e8c914c9-f2f7-42aa-bc34-bdfbed2af543,88c392df-4fe6-4b47-bb62-dfa635c5f302,1,71046,"Chest X-ray, 2 views",M79.3,"Panniculitis, unspecified",902.06,686.4,595.17,3,2024-07-27
+d5163115-c2ef-43e9-a38d-4c5682c20801,88c392df-4fe6-4b47-bb62-dfa635c5f302,2,99203,"Office visit, new patient, low complexity",M79.3,"Panniculitis, unspecified",858.6,798.4,639.51,1,2024-07-27
+07ad788b-b042-4e77-9900-29c712fde4ac,88c392df-4fe6-4b47-bb62-dfa635c5f302,3,99214,"Office visit, established patient, moderate complexity",M79.3,"Panniculitis, unspecified",207.54,200.96,197.94,4,2024-07-27
+e74fbcc4-d800-4491-b586-3390c2fcc161,04579ec0-94bd-458f-8f2d-9d08d643e049,1,99396,"Preventive visit, 40-64 years",I25.10,Atherosclerotic heart disease of native coronary artery,2292.95,2234.82,1620.55,1,2024-07-06
+81ecf35d-4508-42e4-a16e-f3d5800be543,5ad6fd1e-ca02-4160-be74-be3a01746cc1,1,99232,"Subsequent hospital care, moderate complexity",R05.9,"Cough, unspecified",2363.3,1509.58,1191.37,3,2024-12-02
+b37be60c-94d5-4827-8163-6827806538ff,58bbc5f8-ebfe-4f66-8d42-d448babafb67,1,99204,"Office visit, new patient, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,128.79,125.96,121.52,2,2024-09-19
+2805dba5-2635-4414-b1f9-e1f11a1e6541,6708bd88-5620-4a9f-94f0-c5537f97728e,1,99232,"Subsequent hospital care, moderate complexity",J18.9,"Pneumonia, unspecified organism",1229.42,847.63,636.4,3,2025-11-28
+8c4df37c-db26-4ba9-80f8-55668e5128ea,c9cc2f9b-fea7-4ed9-9c4b-7369e56c9eef,1,97110,Therapeutic exercises,E03.9,"Hypothyroidism, unspecified",1893.29,1156.69,1122.87,2,2024-12-06
+8b97f2cd-7fcc-4230-8569-1a18dfbfbbe9,bc0c61ce-ba0f-43c0-af8b-b13243961cda,1,93000,"Electrocardiogram, complete",R10.9,Unspecified abdominal pain,1314.21,1225.39,966.2,1,2024-08-14
+902788cb-5207-4e50-891d-3c44d53457f4,bc0c61ce-ba0f-43c0-af8b-b13243961cda,2,99203,"Office visit, new patient, low complexity",R10.9,Unspecified abdominal pain,1124.9,869.44,677.22,2,2024-08-14
+657bf455-d44e-4ece-838c-7ebeb8bd3ed3,bc0c61ce-ba0f-43c0-af8b-b13243961cda,3,99232,"Subsequent hospital care, moderate complexity",R10.9,Unspecified abdominal pain,1835.79,1186.99,956.85,1,2024-08-14
+5991d995-9b8d-4e8d-bfec-f42e5b9ac20d,bc0c61ce-ba0f-43c0-af8b-b13243961cda,4,99285,"Emergency department visit, high severity",R10.9,Unspecified abdominal pain,1825.22,1333.96,1136.69,3,2024-08-14
+fd4907cd-2506-4aae-ac62-658b755030e7,b7065194-758e-4bdd-b0bb-3ad7a26d95ab,1,99203,"Office visit, new patient, low complexity",I10,Essential hypertension,2332.61,2140.59,0.0,3,2024-09-15
+6678ec81-8204-4267-9ebf-aa76b6e6a529,b7065194-758e-4bdd-b0bb-3ad7a26d95ab,2,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,2107.54,1821.87,0.0,1,2024-09-15
+dd0b03f7-766d-47f1-a428-6068ab21613a,b7065194-758e-4bdd-b0bb-3ad7a26d95ab,3,99213,"Office visit, established patient, low complexity",I10,Essential hypertension,633.64,528.8,0.0,2,2024-09-15
+55a49a3e-cc52-40a6-99ed-9b32f74673cb,a82134fa-49e5-4d92-98a5-0bb29ab2bff3,1,99233,"Subsequent hospital care, high complexity",K58.9,Irritable bowel syndrome without diarrhea,351.19,299.88,217.9,2,2024-12-29
+a166f5ac-9ca9-4bfd-b1b3-4e38c8e626f4,12bcf6c6-1e2b-4508-a6cc-3793962c8193,1,71046,"Chest X-ray, 2 views",I10,Essential hypertension,1727.75,1460.56,1298.89,2,2025-11-12
+dbae7138-30da-4dbd-b3f8-d1fde66cd7a7,12bcf6c6-1e2b-4508-a6cc-3793962c8193,2,80053,Comprehensive metabolic panel,I10,Essential hypertension,1223.48,1055.59,795.94,3,2025-11-12
+30f99e1a-09a4-4b64-8454-a1c0638c4fa9,87c18a76-f8cc-463e-b17d-8124defb62e5,1,99395,"Preventive visit, 18-39 years",G47.33,Obstructive sleep apnea,1215.37,776.15,569.47,3,2026-02-01
+861064cf-baa5-45dc-a7c7-d770825ac619,ff68416f-bdee-4194-bcfe-98c98cbe66ef,1,99203,"Office visit, new patient, low complexity",E78.5,"Hyperlipidemia, unspecified",885.26,672.12,496.31,4,2025-06-08
+56554e3f-71e1-4d9a-8897-d8f0bb4b2ab2,576c6236-8b16-45b1-9110-58d530c60d64,1,99283,"Emergency department visit, moderate severity",J45.909,"Unspecified asthma, uncomplicated",2227.28,2033.8,1460.76,3,2025-01-13
+56822551-0e87-4080-ba1d-388868f802e0,edc25745-2c2d-4753-86b8-4297be9e0523,1,99214,"Office visit, established patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",689.09,614.17,492.54,1,2025-02-22
+f7bb8ab0-2ae0-4216-9a44-3cf6934cfd46,39ea94aa-987f-4a00-ac67-d20bb4376ad2,1,20610,"Arthrocentesis, major joint",M54.5,Low back pain,1536.61,1001.39,863.13,1,2026-04-04
+ca7168fd-bdc7-41fd-af94-7580241e3454,39ea94aa-987f-4a00-ac67-d20bb4376ad2,2,85025,Complete blood count with differential,M54.5,Low back pain,248.38,219.04,213.27,1,2026-04-04
+c1a91fd7-0a66-4829-b640-e2b6f3cd78c4,36562e50-1bfb-4f34-be34-de8aece318db,1,85025,Complete blood count with differential,E03.9,"Hypothyroidism, unspecified",2152.81,1489.17,1400.39,3,2025-01-08
+7b4b3b10-f0e1-411a-8bc8-3091bb5458e9,36562e50-1bfb-4f34-be34-de8aece318db,2,36415,"Venipuncture, routine",E03.9,"Hypothyroidism, unspecified",1048.15,860.72,666.72,1,2025-01-08
+103a5c0d-9ed1-4065-a16b-b3a4f0e01420,36562e50-1bfb-4f34-be34-de8aece318db,3,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",2117.57,1910.15,1638.84,4,2025-01-08
+7acf24a0-f0d4-419f-9221-d1e3c6bd5811,36562e50-1bfb-4f34-be34-de8aece318db,4,90837,"Psychotherapy, 60 minutes",E03.9,"Hypothyroidism, unspecified",129.66,92.48,65.41,2,2025-01-08
+cc70fc19-8426-4210-be8d-bee8d3acc958,23d65d7e-0d19-4060-8756-6fb9b0d0fa4b,1,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",214.4,171.91,156.62,4,2025-04-04
+71c6adbe-4f1a-4da0-82e4-9bae2ec7a139,23d65d7e-0d19-4060-8756-6fb9b0d0fa4b,2,99213,"Office visit, established patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",61.49,57.31,50.52,2,2025-04-04
+ff14fb7f-4f11-43c4-a278-cf5f02c81526,23d65d7e-0d19-4060-8756-6fb9b0d0fa4b,3,99203,"Office visit, new patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",1846.29,1693.14,1283.88,3,2025-04-04
+83beacb5-3f34-44b4-905e-b975e5f0ca7f,1e5883ac-bbd9-49ea-b516-5ba5486a57e4,1,99396,"Preventive visit, 40-64 years",F32.9,"Major depressive disorder, single episode, unspecified",1191.72,853.86,621.54,4,2025-04-22
+dbb4857f-5107-4204-9f65-c7760e7e833a,905e13fd-091f-487f-9a5f-9b06ea4a62b9,1,90837,"Psychotherapy, 60 minutes",E11.9,Type 2 diabetes mellitus without complications,1825.7,1790.25,1662.8,1,2024-10-31
+94f24cdb-c75d-40a5-b12d-6d10c84a9f61,990b2902-9102-4fb0-8117-00049100e798,1,99396,"Preventive visit, 40-64 years",K58.9,Irritable bowel syndrome without diarrhea,294.65,213.4,158.58,1,2024-07-12
+97ad12d4-4353-47d4-8354-bc1a9d41ae56,44d9c031-b26c-4a16-9162-6c0000881cee,1,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1022.91,956.65,819.87,2,2026-04-26
+dc40448a-3f36-4fb9-a1e5-29ffdf9157c4,44d9c031-b26c-4a16-9162-6c0000881cee,2,99214,"Office visit, established patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1924.34,1348.6,1070.03,3,2026-04-26
+83b4eb8d-011c-469e-b286-dbafa0563443,79516e16-ea17-43a2-a072-9f66a1292985,1,99232,"Subsequent hospital care, moderate complexity",E11.9,Type 2 diabetes mellitus without complications,1733.73,1563.85,1467.53,4,2025-10-20
+3d794882-cc13-4e89-a96f-05cc37d2d769,886afe3b-a1c7-42e2-9c73-2b23716f77a2,1,71046,"Chest X-ray, 2 views",J06.9,"Acute upper respiratory infection, unspecified",1755.66,1317.23,0.0,1,2026-05-12
+1fd5cbcd-0740-4b8b-91d3-1701fda47b47,886afe3b-a1c7-42e2-9c73-2b23716f77a2,2,99281,"Emergency department visit, self-limited problem",J06.9,"Acute upper respiratory infection, unspecified",1311.85,850.85,0.0,2,2026-05-12
+bcae40dd-ac9b-493e-9833-3e1df5d50943,a4036ff1-ff8b-4262-8861-87336d833743,1,99204,"Office visit, new patient, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,1878.76,1538.39,1261.21,3,2024-10-21
+662c4903-2be0-4dbb-8a6b-c9d2e1355339,a4036ff1-ff8b-4262-8861-87336d833743,2,99203,"Office visit, new patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,1102.81,791.48,772.95,3,2024-10-21
+e9b07598-e6e4-4f0b-9272-1e33a3629ac5,a4036ff1-ff8b-4262-8861-87336d833743,3,97110,Therapeutic exercises,K58.9,Irritable bowel syndrome without diarrhea,822.91,786.55,683.62,2,2024-10-21
+33288ed4-5080-4914-a2a9-d292d234b1f4,dce81a67-22c5-4ce1-9776-ac1ebb2f54fa,1,20610,"Arthrocentesis, major joint",J45.909,"Unspecified asthma, uncomplicated",646.82,507.85,498.13,2,2025-04-25
+34d123f8-ac26-4a24-8564-b761102f29f1,dce81a67-22c5-4ce1-9776-ac1ebb2f54fa,2,99281,"Emergency department visit, self-limited problem",J45.909,"Unspecified asthma, uncomplicated",1322.84,1232.57,866.43,4,2025-04-25
+7d507f0e-2cb3-4f5a-8180-c6e0f20b7c0e,1e135be5-cb34-4c43-81fa-fcd681d33439,1,99395,"Preventive visit, 18-39 years",M54.5,Low back pain,1160.02,739.96,656.71,2,2024-07-12
+786c06b7-652c-43cf-a6bd-d2d601e577ee,36cfaf03-9f14-4eba-bf03-4115d77397c4,1,99233,"Subsequent hospital care, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",2056.37,1947.87,1705.05,3,2026-05-02
+973332b0-2366-430f-ac41-7a41afd5c2d5,36cfaf03-9f14-4eba-bf03-4115d77397c4,2,80053,Comprehensive metabolic panel,F32.9,"Major depressive disorder, single episode, unspecified",1570.64,1195.74,928.4,2,2026-05-02
+a60688ae-6bec-43a3-9530-908589834f66,36cfaf03-9f14-4eba-bf03-4115d77397c4,3,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1491.78,956.52,731.67,2,2026-05-02
+1a68aa9b-9a62-4b35-96fe-cdcdc6bcf95d,36cfaf03-9f14-4eba-bf03-4115d77397c4,4,99232,"Subsequent hospital care, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1420.06,924.01,791.6,4,2026-05-02
+6aaeaa61-fa91-4aa6-b832-911c6d759db4,a654d4ba-4442-45ac-98b2-53961f6d2aa2,1,99281,"Emergency department visit, self-limited problem",K58.9,Irritable bowel syndrome without diarrhea,31.61,21.9,0.0,2,2025-12-12
+e3c7b2d7-2723-4d38-b01b-c1022b9729d4,a654d4ba-4442-45ac-98b2-53961f6d2aa2,2,99215,"Office visit, established patient, high complexity",K58.9,Irritable bowel syndrome without diarrhea,2325.63,1967.41,0.0,2,2025-12-12
+14b5081b-4fc5-4dc9-bcc0-9cc980fefa87,627b3fe2-2821-4271-a1ec-482350df40a0,1,93000,"Electrocardiogram, complete",J45.909,"Unspecified asthma, uncomplicated",1077.88,850.1,672.23,1,2025-05-16
+61c60431-9ff2-494c-8c9c-e71cceda781b,c66ddea4-4f60-46f6-abb3-06228136453a,1,97110,Therapeutic exercises,J18.9,"Pneumonia, unspecified organism",809.51,511.03,450.53,2,2026-04-11
+e4490f8a-6e29-4e71-ba06-c52bae940611,c66ddea4-4f60-46f6-abb3-06228136453a,2,99281,"Emergency department visit, self-limited problem",J18.9,"Pneumonia, unspecified organism",2365.09,2207.67,2016.5,4,2026-04-11
+010d6b14-8ef2-4427-b463-8336d4fe6b27,2e6c0345-2a23-492b-baaf-813632964442,1,99281,"Emergency department visit, self-limited problem",G47.33,Obstructive sleep apnea,87.61,65.38,54.91,3,2026-02-28
+d8b17ecf-5c9d-40d4-be96-3f8324b191c3,2e6c0345-2a23-492b-baaf-813632964442,2,71046,"Chest X-ray, 2 views",G47.33,Obstructive sleep apnea,554.11,456.54,456.25,2,2026-02-28
+e3ba2de2-b642-4236-9d37-4d1f4f92f4eb,2e6c0345-2a23-492b-baaf-813632964442,3,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,951.16,925.74,924.47,2,2026-02-28
+8e7a99eb-adbb-4aaf-b32b-7bfb4c07fc1e,ede6e0e7-c306-4c4c-9f7c-9d2619e74a2b,1,99232,"Subsequent hospital care, moderate complexity",G47.33,Obstructive sleep apnea,1269.41,768.24,600.69,3,2026-04-03
+75b4412d-2e76-4753-8765-9c68a1d419a4,29fa3c5b-0294-4dd3-9456-5804c91cf14a,1,90837,"Psychotherapy, 60 minutes",I10,Essential hypertension,2493.15,2126.4,0.0,4,2025-11-21
+f7924a52-88fc-4531-afc6-d2eefcdbc06e,08e052c2-5d0c-412a-8128-aa32c33385fc,1,99281,"Emergency department visit, self-limited problem",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2180.51,1423.13,1175.32,1,2024-12-06
+2357af98-257c-48b5-b4cb-e27bbbe13ddb,08e052c2-5d0c-412a-8128-aa32c33385fc,2,99214,"Office visit, established patient, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1122.36,992.43,788.26,3,2024-12-06
+2d10eded-c05b-4282-924b-f7d1a9f7f266,15de131f-ebc8-460a-8ca5-5434bcc4967f,1,99281,"Emergency department visit, self-limited problem",E78.5,"Hyperlipidemia, unspecified",2266.67,1892.08,1860.46,1,2024-07-26
+f76ecd82-3678-4bc1-a6a5-d67c037e7c70,15de131f-ebc8-460a-8ca5-5434bcc4967f,2,85025,Complete blood count with differential,E78.5,"Hyperlipidemia, unspecified",1055.54,915.25,657.56,2,2024-07-26
+0d986902-fa97-467c-87e0-f3293d9017ce,15de131f-ebc8-460a-8ca5-5434bcc4967f,3,97110,Therapeutic exercises,E78.5,"Hyperlipidemia, unspecified",390.1,275.67,207.24,1,2024-07-26
+0ecd5bc7-7034-4101-ac9b-19c4fe7e3e6a,46f42380-8513-41c4-9df8-91234c77d271,1,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,702.56,520.09,417.34,1,2025-08-04
+5bdefd37-0efe-49c0-855f-e34e7417fb66,46f42380-8513-41c4-9df8-91234c77d271,2,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,2327.43,1478.53,1442.16,2,2025-08-04
+66d27329-dccf-475c-b01e-b7fa199b0edb,46f42380-8513-41c4-9df8-91234c77d271,3,99215,"Office visit, established patient, high complexity",E11.9,Type 2 diabetes mellitus without complications,484.51,405.27,401.11,2,2025-08-04
+4d7ec2bc-8d1d-4bed-b99a-b183f14570e0,65143348-0a78-4e20-ba89-b074591f3e93,1,99233,"Subsequent hospital care, high complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,2097.34,1797.27,1744.15,2,2026-04-08
+94bef61d-27f4-4a24-b16b-7cea9c22c8ee,65143348-0a78-4e20-ba89-b074591f3e93,2,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,793.46,596.46,468.89,3,2026-04-08
+32fc0833-afd9-4694-9222-3fe151e46499,0c649fda-ebfd-4feb-aa64-c6c79159324c,1,99281,"Emergency department visit, self-limited problem",N39.0,"Urinary tract infection, site not specified",2448.71,1723.26,1433.54,1,2026-05-02
+d28ee78e-e1e5-45e4-8305-0e19c6e18465,341b30a5-3815-4cad-82bb-6cfbe1c6a6a4,1,99214,"Office visit, established patient, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,2375.42,1981.31,1479.47,2,2024-05-16
+cb3b13f2-b434-44a8-b13b-03454d8ae23c,341b30a5-3815-4cad-82bb-6cfbe1c6a6a4,2,71046,"Chest X-ray, 2 views",I25.10,Atherosclerotic heart disease of native coronary artery,883.63,816.8,766.88,2,2024-05-16
+e83a85f4-6398-427e-bc45-62bda156fd45,4a957244-a834-4d1d-9d2d-c88fc962105f,1,93000,"Electrocardiogram, complete",N39.0,"Urinary tract infection, site not specified",670.59,649.65,555.52,2,2025-10-28
+9f5e3a0c-6eed-4b63-a445-d497edd0df7b,871949eb-3bdc-4a1b-8ffe-397dbc359f1c,1,36415,"Venipuncture, routine",I10,Essential hypertension,1760.69,1499.74,1440.95,1,2025-03-30
+66e95ebe-6d7d-4d40-9254-8a6f37669a19,871949eb-3bdc-4a1b-8ffe-397dbc359f1c,2,99281,"Emergency department visit, self-limited problem",I10,Essential hypertension,1067.98,783.77,700.98,1,2025-03-30
+81a8f618-85d5-4aeb-a76e-1c984ae2dbdd,4b8d94b2-5c25-49a7-b872-f07c4050d233,1,20610,"Arthrocentesis, major joint",Z00.00,Encounter for general adult medical examination,1154.7,958.85,796.32,4,2025-03-24
+dc87a74b-87c5-4515-b80e-08720b48335e,4b8d94b2-5c25-49a7-b872-f07c4050d233,2,90837,"Psychotherapy, 60 minutes",Z00.00,Encounter for general adult medical examination,2089.39,1464.72,1189.3,3,2025-03-24
+445febf6-4797-4522-89bb-7913b6caefc3,4b8d94b2-5c25-49a7-b872-f07c4050d233,3,90837,"Psychotherapy, 60 minutes",Z00.00,Encounter for general adult medical examination,1704.43,1227.31,1216.55,2,2025-03-24
+d5a69e18-b315-4d59-8632-0a20ead8c706,95f92f73-ce8a-487d-bd61-60bf5bc4eb02,1,99396,"Preventive visit, 40-64 years",M79.3,"Panniculitis, unspecified",95.67,77.0,75.21,2,2025-08-22
+b4c8636b-2303-4a16-8bc8-2786549d10e0,95f92f73-ce8a-487d-bd61-60bf5bc4eb02,2,99396,"Preventive visit, 40-64 years",M79.3,"Panniculitis, unspecified",1885.83,1229.48,983.52,1,2025-08-22
+f47ddbfa-a861-46b3-8cb5-fa5119705d48,95f92f73-ce8a-487d-bd61-60bf5bc4eb02,3,99215,"Office visit, established patient, high complexity",M79.3,"Panniculitis, unspecified",790.45,716.41,673.75,4,2025-08-22
+5d213993-cb2b-497f-a7f6-caaa9db180ed,95f92f73-ce8a-487d-bd61-60bf5bc4eb02,4,85025,Complete blood count with differential,M79.3,"Panniculitis, unspecified",434.22,260.68,194.01,2,2025-08-22
+d2b2815d-0858-46c1-b7de-979b92a10222,966df232-72d5-4d56-b53e-80a36b82ab2c,1,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1719.67,1613.51,1310.62,4,2025-01-20
+30b98a90-3097-4da8-a515-1253a78cc31f,b131f00d-ba47-4185-84fc-71d4b0c2a889,1,93000,"Electrocardiogram, complete",K58.9,Irritable bowel syndrome without diarrhea,1772.9,1604.87,0.0,1,2025-01-11
+af7913c4-db58-42ce-8f22-cff08e493cf9,b131f00d-ba47-4185-84fc-71d4b0c2a889,2,85025,Complete blood count with differential,K58.9,Irritable bowel syndrome without diarrhea,343.04,310.53,0.0,2,2025-01-11
+1d2e702c-2234-4d77-8ad5-76ec4c095368,869125ee-dfa6-49a5-88b5-718a5b7ceba2,1,99395,"Preventive visit, 18-39 years",M25.511,Pain in right shoulder,202.35,160.93,0.0,1,2026-04-18
+8d4f8d38-0398-4c1a-806f-2a627fd4da7d,869125ee-dfa6-49a5-88b5-718a5b7ceba2,2,99285,"Emergency department visit, high severity",M25.511,Pain in right shoulder,2216.83,1488.08,0.0,2,2026-04-18
+fcb3c4e3-b80a-4b3e-891b-5999f1480cf5,869125ee-dfa6-49a5-88b5-718a5b7ceba2,3,80053,Comprehensive metabolic panel,M25.511,Pain in right shoulder,921.64,737.85,0.0,1,2026-04-18
+3ffe6d3a-ae21-4a9d-b743-0e2788a184df,239b9a34-56ba-4bd0-9c0a-7ecc8877c683,1,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,772.3,492.06,401.14,2,2025-01-17
+51fecfea-029e-44b2-a40e-ab5f690a8af1,239b9a34-56ba-4bd0-9c0a-7ecc8877c683,2,71046,"Chest X-ray, 2 views",I10,Essential hypertension,398.1,288.4,260.3,4,2025-01-17
+1effe12b-d387-40c2-b812-56b258518a7c,493b4652-ee9d-491c-8082-067e2d4681b9,1,93000,"Electrocardiogram, complete",M54.5,Low back pain,2020.42,1492.11,1372.44,4,2025-10-06
+81d63317-7b60-4a57-b1f7-1804dda5a6ae,493b4652-ee9d-491c-8082-067e2d4681b9,2,99213,"Office visit, established patient, low complexity",M54.5,Low back pain,423.19,275.71,234.93,4,2025-10-06
+e4952a59-7443-4493-a841-11cc5421f9b5,5c374394-9b50-4e25-89b2-f8e121ea8dc7,1,20610,"Arthrocentesis, major joint",M54.5,Low back pain,2022.63,1948.37,1657.32,4,2024-06-26
+1bb85200-d8bc-4e52-b549-2a37384db1ff,86f47133-aa46-44c7-a4bd-552f9b09b2a1,1,85025,Complete blood count with differential,E03.9,"Hypothyroidism, unspecified",2179.03,1377.15,966.88,3,2025-07-11
+1b26b9e6-56c6-4e0c-90f6-2b7e4e91ef3b,86f47133-aa46-44c7-a4bd-552f9b09b2a1,2,99283,"Emergency department visit, moderate severity",E03.9,"Hypothyroidism, unspecified",1299.37,1099.02,1056.89,4,2025-07-11
+db37f8eb-a69f-46ae-8e22-28ffec543fb0,86f47133-aa46-44c7-a4bd-552f9b09b2a1,3,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",1175.29,723.91,695.22,4,2025-07-11
+2ac8592a-a0a5-4e93-ad78-da48d29ec9b5,86f47133-aa46-44c7-a4bd-552f9b09b2a1,4,80053,Comprehensive metabolic panel,E03.9,"Hypothyroidism, unspecified",148.93,125.06,101.4,4,2025-07-11
+d733f9f0-710d-46bb-995d-4e40d62a68e1,b62141c2-29e7-41e7-abc0-a7779a620420,1,99213,"Office visit, established patient, low complexity",R10.9,Unspecified abdominal pain,1130.76,813.1,577.86,1,2025-02-13
+fc4496db-1416-4388-bcc7-a9fa84402536,c1eb969a-0fd2-4ba7-8a1c-2bcec81e7ea5,1,99204,"Office visit, new patient, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1591.48,1229.32,961.83,4,2025-05-20
+07200e20-fc2f-4841-a2eb-09963d827d14,c1eb969a-0fd2-4ba7-8a1c-2bcec81e7ea5,2,20610,"Arthrocentesis, major joint",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,629.15,585.25,556.27,4,2025-05-20
+19e3c77a-c0f3-483f-aef4-e67428bafbe5,53dc874a-4c9a-4c56-8e0d-3b98a1771b2b,1,85025,Complete blood count with differential,M54.5,Low back pain,1293.76,1151.65,922.85,3,2025-12-11
+1d9f7b8f-04b9-4b69-a7eb-2f35432b4104,53dc874a-4c9a-4c56-8e0d-3b98a1771b2b,2,71046,"Chest X-ray, 2 views",M54.5,Low back pain,1016.83,684.91,632.88,1,2025-12-11
+88fb6e66-8cb5-4439-b5e9-7c9c3fa9bbb4,53dc874a-4c9a-4c56-8e0d-3b98a1771b2b,3,71046,"Chest X-ray, 2 views",M54.5,Low back pain,2413.77,2214.53,1929.45,3,2025-12-11
+4f98c49b-2e3d-4868-a345-8dbdd657eb16,53dc874a-4c9a-4c56-8e0d-3b98a1771b2b,4,20610,"Arthrocentesis, major joint",M54.5,Low back pain,1297.25,1221.62,944.47,1,2025-12-11
+26974366-46e3-428d-9c74-17ba4bec009e,82debb17-241c-487a-a880-1b8d63988e99,1,99232,"Subsequent hospital care, moderate complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1266.37,782.99,641.74,2,2026-02-07
+e60684d2-de2a-44d8-a8b8-3af84b16a5e3,5ef1973c-abe2-4e05-9c59-75725744aa55,1,99232,"Subsequent hospital care, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,685.96,575.95,571.79,3,2024-05-19
+0d929008-6ed2-4f39-8a4d-00b027b308bb,5ef1973c-abe2-4e05-9c59-75725744aa55,2,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,572.78,347.81,277.34,1,2024-05-19
+a57832ad-c476-47b2-8e42-d35ac4682b81,5ef1973c-abe2-4e05-9c59-75725744aa55,3,20610,"Arthrocentesis, major joint",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,737.38,652.44,618.57,4,2024-05-19
+89020d73-4d37-4275-a672-27975da883c7,3ead7b05-0ca7-4a5a-8b21-c524d49985e9,1,36415,"Venipuncture, routine",E78.5,"Hyperlipidemia, unspecified",882.26,686.18,575.42,4,2024-10-12
+b4900583-1748-4ede-a575-a023f711c059,c039e95f-1efb-441e-a025-e82ebfb8aa82,1,99215,"Office visit, established patient, high complexity",R05.9,"Cough, unspecified",1587.68,1309.09,1051.97,2,2024-11-29
+3b6bcbd9-7c7e-42ce-9761-48eea3b82f1f,c039e95f-1efb-441e-a025-e82ebfb8aa82,2,97110,Therapeutic exercises,R05.9,"Cough, unspecified",938.75,672.83,534.63,4,2024-11-29
+d3f13fe3-85ae-4b18-809e-a7e5b5671286,4aac824a-069d-4c44-ac59-abb65d3e06e8,1,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,1402.19,1116.57,860.22,2,2024-05-21
+d23255d5-6ab2-491d-9ed8-6efc526813ce,7a315472-7ca8-4f2f-addb-fdcaeee74fc3,1,99233,"Subsequent hospital care, high complexity",R05.9,"Cough, unspecified",467.09,309.98,289.29,4,2026-04-09
+37792b63-c7f7-4e89-a3b2-d37ac8de54a5,7a315472-7ca8-4f2f-addb-fdcaeee74fc3,2,99395,"Preventive visit, 18-39 years",R05.9,"Cough, unspecified",1036.08,933.0,770.15,3,2026-04-09
+92eb564c-242e-4bae-8ce4-886cfb99395b,7a315472-7ca8-4f2f-addb-fdcaeee74fc3,3,36415,"Venipuncture, routine",R05.9,"Cough, unspecified",1931.99,1646.27,1480.44,3,2026-04-09
+1757c93d-d36d-496b-a908-d5e30b80f0f7,7a315472-7ca8-4f2f-addb-fdcaeee74fc3,4,97110,Therapeutic exercises,R05.9,"Cough, unspecified",1350.68,1022.29,979.06,4,2026-04-09
+e29433f6-ec4e-452b-8fb2-fb1aa642c7ed,61919e07-9512-4c07-a00e-d4974f39cc8f,1,99213,"Office visit, established patient, low complexity",J18.9,"Pneumonia, unspecified organism",1343.35,985.51,827.05,2,2024-08-18
+c2d8d77f-bec5-4808-b02e-5cc1e428d57a,58eeb306-62f0-4308-b32f-b997a1a8ab45,1,99285,"Emergency department visit, high severity",M25.511,Pain in right shoulder,367.97,312.03,311.93,4,2025-10-02
+d4e4c759-a8af-4769-bd32-14212e14e2db,58eeb306-62f0-4308-b32f-b997a1a8ab45,2,99213,"Office visit, established patient, low complexity",M25.511,Pain in right shoulder,829.43,580.58,505.56,4,2025-10-02
+a5a2506e-7022-4823-9e15-5a03b6ec1dae,c56c797d-ea19-4c1f-91bd-e34e57adda00,1,99395,"Preventive visit, 18-39 years",M79.3,"Panniculitis, unspecified",1290.56,873.98,851.22,4,2026-01-23
+3b4b1fc7-5ee4-4f1d-8d25-24a463b572d1,c56c797d-ea19-4c1f-91bd-e34e57adda00,2,80053,Comprehensive metabolic panel,M79.3,"Panniculitis, unspecified",1814.57,1262.44,1062.53,2,2026-01-23
+72a8411d-46fe-4d28-bafc-55267401f0cb,c56c797d-ea19-4c1f-91bd-e34e57adda00,3,36415,"Venipuncture, routine",M79.3,"Panniculitis, unspecified",353.31,221.15,156.85,4,2026-01-23
+138d74d3-4fe2-4b43-b6cd-5464038f3f9e,67f1d8fb-b312-4f0f-9fef-1aede8ea1a72,1,99203,"Office visit, new patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",2014.13,1883.51,1811.23,2,2024-07-25
+10f81036-b03e-455e-bceb-37e5bd3e4161,67f1d8fb-b312-4f0f-9fef-1aede8ea1a72,2,99285,"Emergency department visit, high severity",J45.909,"Unspecified asthma, uncomplicated",1168.98,1151.43,808.38,1,2024-07-25
+76eafbc9-bee1-4fb9-9e7b-2f9d5c2d33d7,67f1d8fb-b312-4f0f-9fef-1aede8ea1a72,3,71046,"Chest X-ray, 2 views",J45.909,"Unspecified asthma, uncomplicated",2170.98,2167.1,2077.49,1,2024-07-25
+2bae3312-60c4-4208-ad0d-1b626a1a6815,67f1d8fb-b312-4f0f-9fef-1aede8ea1a72,4,71046,"Chest X-ray, 2 views",J45.909,"Unspecified asthma, uncomplicated",2395.0,2283.26,1966.35,1,2024-07-25
+961b887f-5bf1-4b34-99b4-112c66482b74,41565f18-111b-41ac-967c-395afe4c1580,1,80053,Comprehensive metabolic panel,I10,Essential hypertension,1013.59,984.15,874.69,4,2026-05-10
+135a2af4-798a-4f9a-b465-b4cd6f3e9f87,41565f18-111b-41ac-967c-395afe4c1580,2,71046,"Chest X-ray, 2 views",I10,Essential hypertension,1973.87,1266.14,1208.05,1,2026-05-10
+84eef61b-6037-475a-819e-d0414a79b6f2,41565f18-111b-41ac-967c-395afe4c1580,3,99281,"Emergency department visit, self-limited problem",I10,Essential hypertension,932.0,803.96,597.01,2,2026-05-10
+0f74fb43-89e0-425d-8a9e-9b0191e8b23c,3e10e088-e13e-4f6c-a38e-0118b778dfc4,1,90837,"Psychotherapy, 60 minutes",Z00.00,Encounter for general adult medical examination,1887.44,1703.97,1367.83,4,2025-06-02
+55ab1663-5f47-4b4a-9387-4b07ed5a3201,3e10e088-e13e-4f6c-a38e-0118b778dfc4,2,36415,"Venipuncture, routine",Z00.00,Encounter for general adult medical examination,1973.75,1736.55,1511.61,1,2025-06-02
+a65bdde7-27ff-468f-a2f5-ed2cd5025ca1,f2551e93-14a9-4e50-9a59-149990837125,1,99233,"Subsequent hospital care, high complexity",G47.33,Obstructive sleep apnea,783.99,694.88,604.75,3,2025-03-25
+70eb3c7e-26e7-45d0-aceb-afda3f1448e3,0033cfdb-f583-4f79-98a7-cdd8b8db8531,1,85025,Complete blood count with differential,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,661.83,457.44,0.0,2,2026-04-01
+4d998e14-f8a8-4f01-b480-8429c00d370d,0033cfdb-f583-4f79-98a7-cdd8b8db8531,2,99396,"Preventive visit, 40-64 years",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,774.82,645.96,0.0,3,2026-04-01
+053c8650-bdf9-428e-998d-c8698d5eee38,97e3c2c2-f694-4eea-9816-956b74a43403,1,99204,"Office visit, new patient, moderate complexity",G47.33,Obstructive sleep apnea,1478.16,1183.18,1013.99,4,2026-04-19
+05a57faf-d360-441d-926f-450f1a5f902f,c83c0adb-f17d-4675-aa27-4cc3ab54a31b,1,36415,"Venipuncture, routine",J06.9,"Acute upper respiratory infection, unspecified",581.44,396.87,295.68,1,2024-07-24
+e6ee767c-e4fa-44af-8086-b9193ba09b28,ea9adfca-5b63-4728-9b59-f896a3070dde,1,97110,Therapeutic exercises,E11.9,Type 2 diabetes mellitus without complications,2247.88,2015.34,1630.55,1,2025-05-09
+8c15b2bc-3721-4a41-95e0-5a77c3cc0e4e,ea9adfca-5b63-4728-9b59-f896a3070dde,2,85025,Complete blood count with differential,E11.9,Type 2 diabetes mellitus without complications,1575.35,1545.12,1316.79,3,2025-05-09
+096ba899-248c-4f3a-8c48-7a204cd44ed0,4660aead-f160-45a6-a064-100e6051e09a,1,99285,"Emergency department visit, high severity",K21.0,Gastro-esophageal reflux disease with esophagitis,658.78,590.12,535.19,2,2024-06-07
+32c1c46a-8105-40bd-bff7-62499b01ed56,4660aead-f160-45a6-a064-100e6051e09a,2,99285,"Emergency department visit, high severity",K21.0,Gastro-esophageal reflux disease with esophagitis,1731.85,1355.05,964.89,3,2024-06-07
+3d608446-59cb-4f8c-a61c-fd8020b026c3,a4996a51-7b9b-47ec-af56-26c8ec463f4a,1,97110,Therapeutic exercises,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,774.33,528.94,408.97,4,2025-03-12
+4848a1da-608b-46d2-97b2-bb53d3df78b5,11411812-5bdd-4e53-8084-b48963c17a1a,1,99203,"Office visit, new patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,1118.7,884.24,645.46,2,2024-08-04
+905a1a10-5f01-46f4-a9fd-5923f2c74bf4,71aa1ebd-6e33-4c5c-9277-a26643be56dd,1,99283,"Emergency department visit, moderate severity",Z00.00,Encounter for general adult medical examination,1482.62,1266.12,1173.27,1,2024-10-23
+5d7d160b-c122-4834-968d-d032a643b5ae,71aa1ebd-6e33-4c5c-9277-a26643be56dd,2,99232,"Subsequent hospital care, moderate complexity",Z00.00,Encounter for general adult medical examination,1892.54,1590.76,1348.62,2,2024-10-23
+32cb373c-dbe1-4067-a969-bc2352a7a6d6,71aa1ebd-6e33-4c5c-9277-a26643be56dd,3,36415,"Venipuncture, routine",Z00.00,Encounter for general adult medical examination,1280.55,1031.71,1016.68,3,2024-10-23
+111bb0f8-9ab4-4670-939c-2d20af3b3958,71aa1ebd-6e33-4c5c-9277-a26643be56dd,4,99232,"Subsequent hospital care, moderate complexity",Z00.00,Encounter for general adult medical examination,2171.47,1519.18,1188.89,3,2024-10-23
+c4ec9a0c-e18d-458c-83e8-af85c2226340,45083170-6908-482e-8712-14526a4e26f9,1,90837,"Psychotherapy, 60 minutes",J45.909,"Unspecified asthma, uncomplicated",1252.08,840.79,780.36,3,2025-10-03
+54821505-90f0-4eb8-a16c-746d397ab4c7,45083170-6908-482e-8712-14526a4e26f9,2,99203,"Office visit, new patient, low complexity",J45.909,"Unspecified asthma, uncomplicated",2315.11,1799.49,1604.0,2,2025-10-03
+3bb7093f-61ba-4f1f-ae6f-76377c33c6ea,45083170-6908-482e-8712-14526a4e26f9,3,99283,"Emergency department visit, moderate severity",J45.909,"Unspecified asthma, uncomplicated",1952.51,1767.3,1350.16,3,2025-10-03
+521efd78-9b67-4d83-a3be-acecb32f45f5,f6adc7a8-ae33-432f-b18d-b768301b1a7a,1,36415,"Venipuncture, routine",N39.0,"Urinary tract infection, site not specified",412.06,373.56,0.0,2,2026-03-28
+631bfc22-0e31-4773-90e2-cab6db1c8c63,f6adc7a8-ae33-432f-b18d-b768301b1a7a,2,99281,"Emergency department visit, self-limited problem",N39.0,"Urinary tract infection, site not specified",1535.05,1017.51,0.0,4,2026-03-28
+e5dda2db-f7e8-4ba2-810d-f21d971bbe60,f6adc7a8-ae33-432f-b18d-b768301b1a7a,3,20610,"Arthrocentesis, major joint",N39.0,"Urinary tract infection, site not specified",1977.15,1802.97,0.0,3,2026-03-28
+6d4102fe-8a4b-45ba-bc9d-396f2684ebce,f6adc7a8-ae33-432f-b18d-b768301b1a7a,4,99285,"Emergency department visit, high severity",N39.0,"Urinary tract infection, site not specified",2333.79,1840.88,0.0,3,2026-03-28
+0a75582f-0cd2-4f0b-97e0-06bee8c95efe,d5880f0a-0de8-4236-bfca-1b055cf31b1d,1,99233,"Subsequent hospital care, high complexity",Z00.00,Encounter for general adult medical examination,1077.61,816.2,673.48,4,2024-06-13
+cbbd870c-726d-4c77-ad14-1b5b731217f1,d5880f0a-0de8-4236-bfca-1b055cf31b1d,2,99214,"Office visit, established patient, moderate complexity",Z00.00,Encounter for general adult medical examination,2422.48,1796.14,1691.27,4,2024-06-13
+3ed943b7-bd27-4f09-b8d4-4980bf03dcf7,38bb0db0-e7a2-488a-946d-ea0ec3108fcc,1,36415,"Venipuncture, routine",G47.33,Obstructive sleep apnea,1083.06,815.5,0.0,2,2024-08-12
+fe28c7f7-eaae-41a5-a3b6-7be10348cea4,004d68ad-32bc-4919-9ed9-e46d05b65e74,1,36415,"Venipuncture, routine",I25.10,Atherosclerotic heart disease of native coronary artery,1814.05,1771.6,1555.26,1,2024-08-04
+c5297664-8ec7-4a7f-bc81-0431823cdf23,693b6721-1aa5-4621-9b67-fb99e5966c3c,1,99214,"Office visit, established patient, moderate complexity",M79.3,"Panniculitis, unspecified",276.06,236.27,184.96,3,2025-10-20
+8f1cdbc7-96aa-4299-93a0-8b0abce5085d,693b6721-1aa5-4621-9b67-fb99e5966c3c,2,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",2310.93,1489.19,1102.43,1,2025-10-20
+97f03659-2cb3-454b-a846-62e8f351a25d,8caa1c88-aa95-4cad-9470-6688505ad57a,1,99395,"Preventive visit, 18-39 years",N39.0,"Urinary tract infection, site not specified",242.81,169.5,147.77,3,2024-08-21
+3b5b5771-dab4-4936-a06e-56358c411f0b,47139dc2-01bb-48fc-ac7a-45882aa13a96,1,80053,Comprehensive metabolic panel,E78.5,"Hyperlipidemia, unspecified",2265.13,1763.03,1701.99,2,2025-05-02
+5160c5b2-7369-4354-aa4b-0996e645358b,d40150c8-6d39-40f5-a22e-baf15701cdaf,1,99232,"Subsequent hospital care, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1518.95,1478.05,1096.83,4,2024-10-28
+7027b131-11b0-4c17-9641-f9fc5948fdeb,d40150c8-6d39-40f5-a22e-baf15701cdaf,2,71046,"Chest X-ray, 2 views",F32.9,"Major depressive disorder, single episode, unspecified",1005.86,799.2,570.96,1,2024-10-28
+ad59b78f-d440-490c-a956-0b976cb6ec81,08e4cafe-6172-4ecf-b4af-8210a1e2aaf8,1,36415,"Venipuncture, routine",J45.909,"Unspecified asthma, uncomplicated",1980.59,1578.14,1376.84,1,2025-07-03
+d40a8baf-37c5-48c4-b41a-967b711fd431,0f73e685-1319-4582-a5b9-3df4abeaa4db,1,99215,"Office visit, established patient, high complexity",J45.909,"Unspecified asthma, uncomplicated",1445.46,1138.12,1018.68,2,2024-11-04
+046d18c4-d0bd-495b-a502-ea3a176e4349,0f73e685-1319-4582-a5b9-3df4abeaa4db,2,99215,"Office visit, established patient, high complexity",J45.909,"Unspecified asthma, uncomplicated",1923.61,1485.76,1163.44,4,2024-11-04
+dda31439-529d-4cfd-817a-541d1678c686,32e54a1b-f716-4de4-8dc6-b5f66584ee19,1,97110,Therapeutic exercises,Z00.00,Encounter for general adult medical examination,1958.25,1754.17,1727.07,1,2026-03-12
+3fecb200-1c0e-4772-b5a0-280c556cbc70,32e54a1b-f716-4de4-8dc6-b5f66584ee19,2,85025,Complete blood count with differential,Z00.00,Encounter for general adult medical examination,1447.48,872.17,827.22,1,2026-03-12
+acdec02f-5ebe-4527-893e-11c0b14c880b,35008dfd-0848-406f-9edf-33453006941f,1,99395,"Preventive visit, 18-39 years",E78.5,"Hyperlipidemia, unspecified",1157.94,1002.96,933.73,3,2024-07-25
+28bfc603-d0a1-42f3-b41f-4fdbe92ca50f,9a8824e0-32d4-4ea3-84fb-1cd0cff2d7cc,1,99203,"Office visit, new patient, low complexity",I25.10,Atherosclerotic heart disease of native coronary artery,89.91,75.59,72.07,2,2025-10-14
+0bacdc8d-0ba4-478f-bca3-f47dbc658a61,d5ae9664-2671-47dc-9f8b-c289aff160d5,1,99283,"Emergency department visit, moderate severity",N39.0,"Urinary tract infection, site not specified",774.75,596.34,465.93,2,2025-06-25
+4b5e388e-3f7b-4e73-9c7b-9ff48714f317,bcfa4612-557b-4bc9-a83e-49b7daf36b6c,1,93000,"Electrocardiogram, complete",E11.9,Type 2 diabetes mellitus without complications,2172.14,2045.45,1559.81,1,2025-09-18
+d186ae41-f857-407d-8987-c5160abd2fe1,bcfa4612-557b-4bc9-a83e-49b7daf36b6c,2,93000,"Electrocardiogram, complete",E11.9,Type 2 diabetes mellitus without complications,1110.4,754.47,702.63,1,2025-09-18
+51c8c9bd-88b6-46bc-980f-9dd13350e6fb,bcfa4612-557b-4bc9-a83e-49b7daf36b6c,3,99215,"Office visit, established patient, high complexity",E11.9,Type 2 diabetes mellitus without complications,2423.88,1945.6,1699.46,1,2025-09-18
+9cf6ba20-9ad2-42a7-8449-e40da1a2b695,bcfa4612-557b-4bc9-a83e-49b7daf36b6c,4,99281,"Emergency department visit, self-limited problem",E11.9,Type 2 diabetes mellitus without complications,1897.6,1229.92,1041.41,3,2025-09-18
+e9d15679-eef4-4654-b5cc-f044fbd6f890,2d33ea10-dfdd-4d87-86b7-ad23c08f5568,1,90837,"Psychotherapy, 60 minutes",G47.33,Obstructive sleep apnea,656.83,423.52,354.52,1,2026-02-18
+e54d28f5-06fb-40c6-a79c-cbd6a22b9cb1,2d33ea10-dfdd-4d87-86b7-ad23c08f5568,2,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,2013.44,1530.46,1465.03,3,2026-02-18
+7c39abb1-fd6a-480f-afa5-56661c1e742e,2d33ea10-dfdd-4d87-86b7-ad23c08f5568,3,80053,Comprehensive metabolic panel,G47.33,Obstructive sleep apnea,2365.69,2211.01,1835.68,3,2026-02-18
+15a43568-761e-4340-a4bb-90ef5fed4300,0542e1d3-12cb-4fca-9830-8acbe29b0e83,1,99214,"Office visit, established patient, moderate complexity",E78.5,"Hyperlipidemia, unspecified",373.32,261.17,227.05,2,2025-10-02
+fe3a3121-c07a-4411-b3df-4fbf1f6d10e9,0542e1d3-12cb-4fca-9830-8acbe29b0e83,2,97110,Therapeutic exercises,E78.5,"Hyperlipidemia, unspecified",410.5,360.43,334.73,1,2025-10-02
+c306785e-08c0-40cd-94ad-4ff1b841cb43,0542e1d3-12cb-4fca-9830-8acbe29b0e83,3,20610,"Arthrocentesis, major joint",E78.5,"Hyperlipidemia, unspecified",2010.89,1903.38,1709.78,3,2025-10-02
+77474836-7084-46f8-90c8-b98169d25a8c,0542e1d3-12cb-4fca-9830-8acbe29b0e83,4,20610,"Arthrocentesis, major joint",E78.5,"Hyperlipidemia, unspecified",1051.82,697.35,524.22,2,2025-10-02
+56d69322-90e3-487b-8d8d-ab7b615df5cc,5fb7470c-5e6e-467b-b52e-00ca35a9d311,1,99233,"Subsequent hospital care, high complexity",N39.0,"Urinary tract infection, site not specified",1024.04,767.29,730.79,3,2024-07-23
+5698d585-51d9-4d4e-9e58-f1b92429e6b5,0b3c862d-06c3-4520-992f-46a66614ebf3,1,99214,"Office visit, established patient, moderate complexity",R10.9,Unspecified abdominal pain,1360.2,1230.98,1128.51,2,2025-05-04
+309371bf-6f4c-4bc0-b080-52cf35b1bc7b,0b3c862d-06c3-4520-992f-46a66614ebf3,2,99281,"Emergency department visit, self-limited problem",R10.9,Unspecified abdominal pain,272.79,201.72,154.68,4,2025-05-04
+06583d67-d03c-4d17-95fc-06f25ccfefb5,0b3c862d-06c3-4520-992f-46a66614ebf3,3,99215,"Office visit, established patient, high complexity",R10.9,Unspecified abdominal pain,303.22,239.63,238.43,4,2025-05-04
+e422da18-5da4-4bd7-8adb-4e65fdda7b13,67bb6741-3b29-4d1b-957c-40a8134db244,1,36415,"Venipuncture, routine",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1649.53,1230.93,1088.24,1,2024-09-19
+d73c325c-6f02-4b24-a416-8545f5398b16,67bb6741-3b29-4d1b-957c-40a8134db244,2,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1244.68,1160.58,1011.3,2,2024-09-19
+3c7ab9f2-59c9-4b36-9dcb-6b1dad437036,67bb6741-3b29-4d1b-957c-40a8134db244,3,99285,"Emergency department visit, high severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1298.97,1197.88,889.76,1,2024-09-19
+adfe857c-7f61-43dc-ba99-e066ff99d785,67bb6741-3b29-4d1b-957c-40a8134db244,4,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1800.24,1283.43,1135.2,2,2024-09-19
+2487c9b8-6e73-445e-9138-b0d9a83bb873,a94da7a3-e9ab-45a6-aa6e-4a0f95fbc41a,1,99204,"Office visit, new patient, moderate complexity",R05.9,"Cough, unspecified",836.66,627.42,0.0,2,2024-06-08
+cc17f6cf-c1f6-4e0a-9da9-7ae2bbcf663c,a94da7a3-e9ab-45a6-aa6e-4a0f95fbc41a,2,99396,"Preventive visit, 40-64 years",R05.9,"Cough, unspecified",1847.62,1737.32,0.0,4,2024-06-08
+07850f99-eb51-4bcb-ab07-5fa4116c2f76,97fdd349-c5f6-4806-baba-8ac651814fcc,1,99281,"Emergency department visit, self-limited problem",K21.0,Gastro-esophageal reflux disease with esophagitis,1006.99,608.91,514.06,3,2026-05-14
+4a1a3619-560b-4ec0-8e09-e23b6924c9ed,e52bae5e-5583-4647-b01d-d2e9793fb036,1,99395,"Preventive visit, 18-39 years",F32.9,"Major depressive disorder, single episode, unspecified",1113.66,1000.05,896.68,3,2024-11-21
+c525d0be-91fb-4377-9b50-819e9fdc1961,e52bae5e-5583-4647-b01d-d2e9793fb036,2,36415,"Venipuncture, routine",F32.9,"Major depressive disorder, single episode, unspecified",2491.8,1680.79,1348.49,4,2024-11-21
+e6fdbe68-2784-4ad8-83a4-c55b8342d838,0475c409-98a7-486a-b21a-45d5a234430a,1,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1960.34,1510.65,1068.97,2,2025-01-17
+32e2fce5-1a03-4ce3-9db5-c6fa08f833bb,0475c409-98a7-486a-b21a-45d5a234430a,2,99203,"Office visit, new patient, low complexity",F32.9,"Major depressive disorder, single episode, unspecified",587.13,459.71,337.12,3,2025-01-17
+7fc34888-3129-4305-89e6-08f6b29fc75c,0475c409-98a7-486a-b21a-45d5a234430a,3,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",2186.43,1580.38,1313.06,1,2025-01-17
+a2d3547e-67cc-4b0b-b377-e77a1e157ac9,262c9396-3816-4b55-9b6f-1b7c2aedc22c,1,99204,"Office visit, new patient, moderate complexity",N39.0,"Urinary tract infection, site not specified",2104.03,1449.14,1021.67,3,2025-05-16
+69df75e2-2156-42e4-a2a7-046c0f336390,262c9396-3816-4b55-9b6f-1b7c2aedc22c,2,97110,Therapeutic exercises,N39.0,"Urinary tract infection, site not specified",1512.32,999.2,957.21,1,2025-05-16
+8d0dbdbe-d37e-45cb-a19c-ef304aa530ea,262c9396-3816-4b55-9b6f-1b7c2aedc22c,3,99395,"Preventive visit, 18-39 years",N39.0,"Urinary tract infection, site not specified",922.57,638.57,628.45,2,2025-05-16
+1e1ac9ca-a60c-4233-a6d7-c48e5e50d25c,262c9396-3816-4b55-9b6f-1b7c2aedc22c,4,80053,Comprehensive metabolic panel,N39.0,"Urinary tract infection, site not specified",417.91,364.48,324.56,2,2025-05-16
+3f21aadc-c089-46e8-ae62-dd76904b120a,e2eaf164-b6ea-4dc3-aff5-3ab82afb3ef1,1,99233,"Subsequent hospital care, high complexity",M79.3,"Panniculitis, unspecified",989.69,800.36,661.4,4,2025-08-15
+9609ba57-acc1-4d5b-8389-96b2d7614781,89c9f149-9ded-42de-9ae5-cefe385b5403,1,99283,"Emergency department visit, moderate severity",J18.9,"Pneumonia, unspecified organism",2309.55,1952.14,1928.29,1,2025-03-07
+6dc79454-f531-4f7a-bc3e-88a55b6f6967,89c9f149-9ded-42de-9ae5-cefe385b5403,2,71046,"Chest X-ray, 2 views",J18.9,"Pneumonia, unspecified organism",372.25,294.96,220.65,2,2025-03-07
+08a4e871-ef12-41f7-855e-9adf8777df73,f7b2e262-34a0-42ea-857e-394cf0fdb93a,1,99285,"Emergency department visit, high severity",J06.9,"Acute upper respiratory infection, unspecified",2409.31,1711.78,1656.65,1,2025-02-17
+81c4999b-d4bb-4008-9eb7-087314424afc,f7b2e262-34a0-42ea-857e-394cf0fdb93a,2,99396,"Preventive visit, 40-64 years",J06.9,"Acute upper respiratory infection, unspecified",2362.24,1560.82,1300.19,3,2025-02-17
+4d144a86-008d-4865-b4bd-a982ec7e4da1,f7b2e262-34a0-42ea-857e-394cf0fdb93a,3,36415,"Venipuncture, routine",J06.9,"Acute upper respiratory infection, unspecified",51.65,33.41,26.51,1,2025-02-17
+9b5df26e-7617-461d-a99a-f909cb8c5d0c,8f1468e7-3f03-4901-9143-eb3d9cb08f8e,1,99204,"Office visit, new patient, moderate complexity",M54.5,Low back pain,199.25,197.58,0.0,3,2026-02-26
+06df6c61-5b59-49cc-8733-5ca578dcae6e,0980eb69-e2d5-4530-9821-b3837a00cfd5,1,71046,"Chest X-ray, 2 views",Z00.00,Encounter for general adult medical examination,1472.82,1399.91,1270.32,4,2025-04-08
+e49de9d2-e149-4c55-bddc-d63f572c7e5f,511d93d4-d13e-4391-9f1c-b99d25423820,1,80053,Comprehensive metabolic panel,M25.511,Pain in right shoulder,622.2,584.86,496.17,4,2024-12-03
+3688b015-2bf0-47cb-b4bc-81816fba790d,511d93d4-d13e-4391-9f1c-b99d25423820,2,71046,"Chest X-ray, 2 views",M25.511,Pain in right shoulder,165.21,106.08,98.76,3,2024-12-03
+2cad9664-8032-49ec-a924-88015d8ee433,2a5be6f1-02de-4455-bce5-d948078c1bec,1,99213,"Office visit, established patient, low complexity",G47.33,Obstructive sleep apnea,275.3,253.94,0.0,2,2024-05-25
+a4339960-271c-444b-8ca4-6b842485626b,aeef6ec8-a4d3-466f-a4fc-23911d8f059b,1,99395,"Preventive visit, 18-39 years",K58.9,Irritable bowel syndrome without diarrhea,1526.44,1261.22,1112.38,4,2024-06-08
+8e40f282-b7ca-49e3-b2e2-05df90f82a40,aeef6ec8-a4d3-466f-a4fc-23911d8f059b,2,99214,"Office visit, established patient, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,1514.11,1266.0,1187.61,1,2024-06-08
+e71dfff7-77f4-4e3b-8dea-37a21c79124f,aeef6ec8-a4d3-466f-a4fc-23911d8f059b,3,99396,"Preventive visit, 40-64 years",K58.9,Irritable bowel syndrome without diarrhea,259.91,256.45,197.87,4,2024-06-08
+d44b8f8c-f9f8-4ded-9a43-fa6d79b5e5ff,aeef6ec8-a4d3-466f-a4fc-23911d8f059b,4,85025,Complete blood count with differential,K58.9,Irritable bowel syndrome without diarrhea,1802.77,1110.41,992.85,4,2024-06-08
+f0c0a5ce-401d-43a8-b2e3-2dfa4cbf74bb,eeec88cc-2040-4e37-b3cb-60db3463af95,1,99213,"Office visit, established patient, low complexity",R10.9,Unspecified abdominal pain,559.7,376.28,334.57,3,2024-07-04
+07639e90-45eb-496c-ace2-e969941723ba,eeec88cc-2040-4e37-b3cb-60db3463af95,2,99203,"Office visit, new patient, low complexity",R10.9,Unspecified abdominal pain,748.39,572.41,405.56,4,2024-07-04
+063ef58c-e19d-48bd-9992-e2a0d3a72c25,332e50f3-a93a-4960-aece-569972c35fd8,1,99214,"Office visit, established patient, moderate complexity",Z00.00,Encounter for general adult medical examination,828.17,728.49,648.68,2,2025-08-01
+7d275fe6-ea69-469b-8f85-39cdd69e3474,57cd6c1a-4ae6-41f0-ba4b-093306daa358,1,90837,"Psychotherapy, 60 minutes",I25.10,Atherosclerotic heart disease of native coronary artery,2145.2,1573.52,1392.44,2,2024-07-04
+6e9d6444-248e-48aa-af80-fe78ac097a64,db4a8e0c-4191-4c43-9d73-87eec30cbe85,1,85025,Complete blood count with differential,I25.10,Atherosclerotic heart disease of native coronary artery,525.32,495.06,418.64,3,2025-10-15
+7dc7bba5-64cb-4a3c-a743-91e3063d9ab3,db4a8e0c-4191-4c43-9d73-87eec30cbe85,2,93000,"Electrocardiogram, complete",I25.10,Atherosclerotic heart disease of native coronary artery,2242.06,2022.13,1997.44,3,2025-10-15
+69c01ca2-8c82-418f-b316-d7c385061fb0,702d0438-581c-47bf-a561-969239690a79,1,85025,Complete blood count with differential,E03.9,"Hypothyroidism, unspecified",1555.72,980.69,0.0,1,2026-01-07
+6cc0274c-cb22-4668-ab8f-541caf719215,702d0438-581c-47bf-a561-969239690a79,2,99215,"Office visit, established patient, high complexity",E03.9,"Hypothyroidism, unspecified",1786.37,1725.42,0.0,4,2026-01-07
+07bbfcda-b760-4c5d-90e5-96807dac4b94,016cce64-be99-4181-acca-0edecf43700e,1,99203,"Office visit, new patient, low complexity",M79.3,"Panniculitis, unspecified",2116.4,1893.15,1822.99,3,2026-03-08
+9976ba80-0e74-4f05-b352-ca101f907a29,24d1c644-af11-4be3-ba8f-db0d446dd480,1,99204,"Office visit, new patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",1677.12,1189.94,1009.48,2,2025-10-02
+8f261422-641b-4bec-b5f6-452f6b592978,5458341f-85cb-4266-9ca6-5bfa8bbb8025,1,20610,"Arthrocentesis, major joint",E11.9,Type 2 diabetes mellitus without complications,1221.1,947.06,821.0,2,2026-05-08
+1fc5aa08-2453-4672-b139-f947da6195b9,a35e00a8-1b92-4db5-95e4-46f59c476ef6,1,99232,"Subsequent hospital care, moderate complexity",M79.3,"Panniculitis, unspecified",1774.2,1761.37,1657.5,3,2025-12-08
+e7ab7274-c39a-499a-bf07-0cac300347c8,a35e00a8-1b92-4db5-95e4-46f59c476ef6,2,71046,"Chest X-ray, 2 views",M79.3,"Panniculitis, unspecified",941.32,903.69,886.59,3,2025-12-08
+377b2066-e561-4294-a4e8-6b5e520efd3d,a35e00a8-1b92-4db5-95e4-46f59c476ef6,3,99395,"Preventive visit, 18-39 years",M79.3,"Panniculitis, unspecified",908.76,893.53,661.52,2,2025-12-08
+ae7f00f5-8553-4475-bf59-2a90d27a9dc3,a35e00a8-1b92-4db5-95e4-46f59c476ef6,4,99395,"Preventive visit, 18-39 years",M79.3,"Panniculitis, unspecified",1457.92,931.1,908.05,4,2025-12-08
+79aa08bf-d882-49e8-96da-edd813042c87,5fdf0962-7cb7-46e6-b082-f13061d5588f,1,99285,"Emergency department visit, high severity",E03.9,"Hypothyroidism, unspecified",1176.58,976.21,698.93,4,2026-04-23
+50cc427b-baa5-44e1-a4ce-1af5489b5cb0,5fdf0962-7cb7-46e6-b082-f13061d5588f,2,90837,"Psychotherapy, 60 minutes",E03.9,"Hypothyroidism, unspecified",1487.88,931.21,930.03,1,2026-04-23
+6913855b-c33f-4636-ba75-d9c5f7e410e7,22f85352-9e70-4bbd-9aea-428ae206ee98,1,80053,Comprehensive metabolic panel,J06.9,"Acute upper respiratory infection, unspecified",186.9,165.88,144.47,1,2025-01-17
+1ab04835-025b-4e41-a784-b5172026ecd6,22f85352-9e70-4bbd-9aea-428ae206ee98,2,20610,"Arthrocentesis, major joint",J06.9,"Acute upper respiratory infection, unspecified",1239.75,1093.07,1074.3,4,2025-01-17
+425fc1c0-b29b-4262-ad65-ece2efa71b5f,dcfc5cc2-af0b-46ae-9bec-77b26c9bbdd7,1,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1921.59,1906.35,0.0,3,2024-12-27
+b64c7dc6-2f68-40de-aaf8-134226a2cd18,f82997aa-5d0e-4e54-92c8-c55985477ed8,1,97110,Therapeutic exercises,J06.9,"Acute upper respiratory infection, unspecified",1048.94,697.0,0.0,2,2026-03-11
+e59a0715-a7d4-41b2-9ec7-2d1bc8ca42ff,f82997aa-5d0e-4e54-92c8-c55985477ed8,2,99285,"Emergency department visit, high severity",J06.9,"Acute upper respiratory infection, unspecified",2449.96,2228.22,0.0,2,2026-03-11
+92e3f6d9-08a0-418d-b89f-5085d5d2fd64,c711ed83-1e70-4aa7-9e78-4e660a1b7eb8,1,99396,"Preventive visit, 40-64 years",M79.3,"Panniculitis, unspecified",1759.8,1538.31,1448.28,4,2024-08-24
+5e473cd8-c6c8-4590-b29c-33e5507e670b,c6250bfb-03fe-40c8-a2e2-eb729b248795,1,99232,"Subsequent hospital care, moderate complexity",R10.9,Unspecified abdominal pain,1261.71,850.17,697.5,2,2026-01-12
+3f84bf2f-4579-4abb-ae6d-3d88478ce964,f2765384-144c-4a29-9b1e-62bfbc8e7b02,1,99395,"Preventive visit, 18-39 years",E11.9,Type 2 diabetes mellitus without complications,171.39,128.42,0.0,2,2025-03-21
+9218f191-da00-45f4-8922-7b44d1b727df,f2765384-144c-4a29-9b1e-62bfbc8e7b02,2,99213,"Office visit, established patient, low complexity",E11.9,Type 2 diabetes mellitus without complications,2409.91,1956.0,0.0,1,2025-03-21
+886fa8b5-0ae6-4ed4-bda1-1d118d27522d,46e9a9de-4a44-4c7a-800d-d917e5251729,1,99281,"Emergency department visit, self-limited problem",J06.9,"Acute upper respiratory infection, unspecified",491.49,416.96,314.61,2,2025-11-28
+ff3213d0-0a11-4816-8615-97d458cd60a7,46e9a9de-4a44-4c7a-800d-d917e5251729,2,80053,Comprehensive metabolic panel,J06.9,"Acute upper respiratory infection, unspecified",264.99,231.41,172.72,3,2025-11-28
+d781df2b-086e-47e7-9138-a68cf0641403,64787599-946e-4a81-9cad-73f020a2bb33,1,20610,"Arthrocentesis, major joint",E11.9,Type 2 diabetes mellitus without complications,120.97,98.59,97.35,1,2024-06-29
+028d0161-43d0-435a-ba47-920c93d7f269,64787599-946e-4a81-9cad-73f020a2bb33,2,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,2339.21,1504.37,1361.32,2,2024-06-29
+bb7f9747-e85a-4d8f-9a0e-cf8dd28b4078,64787599-946e-4a81-9cad-73f020a2bb33,3,99203,"Office visit, new patient, low complexity",E11.9,Type 2 diabetes mellitus without complications,1256.69,1057.38,1056.54,3,2024-06-29
+ed0c5db3-90f5-404b-837c-f2309ddf8f26,64331f0a-7887-417f-994a-d9dbfc7866c2,1,99215,"Office visit, established patient, high complexity",E03.9,"Hypothyroidism, unspecified",862.4,643.59,496.75,4,2025-11-18
+7b7cfcab-705f-41fa-a5ac-6de6ca6cd45f,4929b85d-be08-4582-af5c-4cf3f7b37cea,1,99203,"Office visit, new patient, low complexity",R05.9,"Cough, unspecified",2123.24,1351.19,1211.26,4,2026-04-10
+d9b89b39-9392-4492-a74b-e16d5d58465e,4929b85d-be08-4582-af5c-4cf3f7b37cea,2,99395,"Preventive visit, 18-39 years",R05.9,"Cough, unspecified",1616.92,1152.9,853.89,2,2026-04-10
+836abe8c-f68a-4b5c-b63d-fba2d9e26377,4929b85d-be08-4582-af5c-4cf3f7b37cea,3,99233,"Subsequent hospital care, high complexity",R05.9,"Cough, unspecified",2362.01,1819.99,1511.58,1,2026-04-10
+83c75789-97b9-4a9b-822a-f1c00e377a55,4929b85d-be08-4582-af5c-4cf3f7b37cea,4,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",83.99,53.9,46.81,4,2026-04-10
+3a1e1884-a222-4797-bb0c-1c3aac416d04,dbe48097-12da-4bef-be35-cb3310d4b1a0,1,99233,"Subsequent hospital care, high complexity",J06.9,"Acute upper respiratory infection, unspecified",2232.93,2007.72,1749.49,2,2026-03-25
+763f6984-7117-4081-80f2-8815eaf79979,b5376754-47c4-47aa-afbe-70c8ea4523a8,1,99395,"Preventive visit, 18-39 years",G47.33,Obstructive sleep apnea,154.78,143.97,138.52,2,2025-04-20
+e98973f6-fed3-4212-ad7a-854555bfd14f,a572ee6c-aa50-4e7c-88f4-fac651fee30a,1,36415,"Venipuncture, routine",K21.0,Gastro-esophageal reflux disease with esophagitis,205.58,140.09,106.75,1,2025-07-19
+5e3bceb3-e790-4416-8290-5f2fe6006021,7aa8c1fc-3a54-4e9a-88c7-280be2a80004,1,99281,"Emergency department visit, self-limited problem",E78.5,"Hyperlipidemia, unspecified",2468.04,2296.83,1863.96,4,2026-02-11
+f81526da-20eb-49fc-bd57-da32f7c13b4e,2842c6c7-b200-4cc3-a8e6-9e6f66670fbf,1,99283,"Emergency department visit, moderate severity",R10.9,Unspecified abdominal pain,2352.18,2026.01,0.0,3,2024-09-08
+dbebed49-96e3-42af-902a-57ced968927e,2842c6c7-b200-4cc3-a8e6-9e6f66670fbf,2,71046,"Chest X-ray, 2 views",R10.9,Unspecified abdominal pain,1733.45,1328.44,0.0,4,2024-09-08
+e0dd66d9-0e3d-47f7-ae07-2c11436f1a92,2842c6c7-b200-4cc3-a8e6-9e6f66670fbf,3,85025,Complete blood count with differential,R10.9,Unspecified abdominal pain,713.26,685.04,0.0,4,2024-09-08
+e690c08a-a7b4-40b7-85b7-9b99aaa88e1b,ea09e1f2-07fe-4c75-a10f-a9f87f77cd97,1,99203,"Office visit, new patient, low complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,310.31,298.17,0.0,4,2026-03-08
+ff4f24a3-9bc8-407a-b376-4400e315cf2a,79050dfa-5374-40ad-9648-8856cd92997c,1,99233,"Subsequent hospital care, high complexity",M79.3,"Panniculitis, unspecified",1352.24,965.34,840.84,1,2024-12-27
+30ff1fcc-aaed-44e8-96e6-bf5cb7eabe80,30d728d9-e64e-4c45-a66b-468c8f076c80,1,97110,Therapeutic exercises,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2489.01,1960.3,1436.51,2,2024-07-13
+d37c6e78-82c2-478a-a8c7-1038d0e53f7b,30d728d9-e64e-4c45-a66b-468c8f076c80,2,99214,"Office visit, established patient, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2086.91,1406.14,1305.97,1,2024-07-13
+2cf2f19b-1c40-4c26-918a-af961a397ab5,878f7a9c-f5dd-4488-a15f-b719ff80961b,1,99283,"Emergency department visit, moderate severity",I10,Essential hypertension,1819.15,1123.33,0.0,1,2024-08-19
+26f03ee5-3b05-46cb-9e33-929052ef45b1,7a6fb9f4-a1b3-4aa4-9662-89884c70b824,1,85025,Complete blood count with differential,I10,Essential hypertension,965.59,945.05,804.88,2,2025-04-08
+1ff0fd77-fba9-435e-9163-152aeedc8730,0f50e3a6-9147-44dd-9141-d8329cf71b47,1,99285,"Emergency department visit, high severity",Z00.00,Encounter for general adult medical examination,1514.11,1082.77,0.0,2,2026-03-22
+387c2382-fc38-489b-8966-49c1a7c9b2ea,6bc5616d-570b-4f25-b070-109686af845c,1,20610,"Arthrocentesis, major joint",E03.9,"Hypothyroidism, unspecified",1808.19,1608.62,0.0,3,2024-12-19
+5a462e86-39bd-4169-8f06-4ea442222114,ffe90a4a-3caf-4c4b-8ca7-79efaa78eb7c,1,99214,"Office visit, established patient, moderate complexity",R05.9,"Cough, unspecified",2038.92,1850.28,1361.61,2,2024-10-22
+a416835a-ba7b-49ef-bcbf-de145405d458,c8d27b60-0e6e-474c-b863-03a90f192596,1,85025,Complete blood count with differential,R05.9,"Cough, unspecified",724.11,612.9,511.71,2,2024-12-12
+e5d1e8f2-1bc3-4fb3-b001-bba9edecaf15,c8d27b60-0e6e-474c-b863-03a90f192596,2,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",1541.21,1137.5,1133.4,4,2024-12-12
+f99a0a27-86a0-48b7-9a7c-247e1ff9d6e5,c8d27b60-0e6e-474c-b863-03a90f192596,3,90837,"Psychotherapy, 60 minutes",R05.9,"Cough, unspecified",2300.58,1521.27,1309.72,3,2024-12-12
+86600065-29a1-455d-94fd-d6d9ab53f47f,c8d27b60-0e6e-474c-b863-03a90f192596,4,99285,"Emergency department visit, high severity",R05.9,"Cough, unspecified",382.41,326.9,245.93,4,2024-12-12
+5af019c4-6310-487d-b50b-6c0f32c37afa,333efab7-93a4-4f03-a960-35507cfb2dbc,1,71046,"Chest X-ray, 2 views",Z00.00,Encounter for general adult medical examination,1783.95,1456.77,1118.94,4,2025-12-29
+36914c42-6aa4-4678-9944-c260271b3fb7,6b1317ce-ca71-4cea-a34f-22ea1e59b250,1,93000,"Electrocardiogram, complete",Z00.00,Encounter for general adult medical examination,2382.13,1870.94,1499.26,4,2025-11-01
+b30492b6-eb4e-46c5-9896-c14574da45c0,501ea308-9f22-47cd-ae1b-eb393fd688ec,1,20610,"Arthrocentesis, major joint",N39.0,"Urinary tract infection, site not specified",924.45,726.02,696.06,4,2024-09-27
+2fdbfa68-e253-4ec8-b794-94d6e4bac49b,adba945a-1e1d-4aa9-beef-bf878e8a61b8,1,99233,"Subsequent hospital care, high complexity",Z00.00,Encounter for general adult medical examination,2264.07,2223.98,2137.32,4,2025-01-06
+b53d3a64-d8e7-445b-81e7-6b88e0d083ea,e26a0689-7cb3-4274-96c6-174874d35481,1,71046,"Chest X-ray, 2 views",J45.909,"Unspecified asthma, uncomplicated",471.28,366.28,332.65,4,2025-10-11
+a5cc6a26-5219-4fc4-95e8-6b8774936446,e26a0689-7cb3-4274-96c6-174874d35481,2,99396,"Preventive visit, 40-64 years",J45.909,"Unspecified asthma, uncomplicated",1675.81,1188.7,1098.11,2,2025-10-11
+b11b7eb2-9cec-4b44-92bc-7e909099d3fa,a820b5ac-a247-4cbb-baa9-9130ce690fed,1,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,807.63,785.99,694.58,1,2025-11-16
+cb23c910-96dc-43bb-a9f5-d7194719a680,a820b5ac-a247-4cbb-baa9-9130ce690fed,2,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1972.73,1251.3,879.16,1,2025-11-16
+eed5cf32-31ef-46a2-919b-e8b0d4c0dfc4,57a5ce20-51ab-49bb-9b86-51ea77c8a682,1,80053,Comprehensive metabolic panel,J18.9,"Pneumonia, unspecified organism",1567.5,1138.32,0.0,4,2026-03-01
+8ad3f130-9968-417c-a9a4-e49f2064e6b2,57a5ce20-51ab-49bb-9b86-51ea77c8a682,2,90837,"Psychotherapy, 60 minutes",J18.9,"Pneumonia, unspecified organism",863.09,578.35,0.0,3,2026-03-01
+0a6b55ea-89e8-440d-b59f-7bf37634218b,57a5ce20-51ab-49bb-9b86-51ea77c8a682,3,99203,"Office visit, new patient, low complexity",J18.9,"Pneumonia, unspecified organism",2010.78,1335.01,0.0,2,2026-03-01
+effd2361-f65d-4b5f-8394-f43d999a5445,57a5ce20-51ab-49bb-9b86-51ea77c8a682,4,99281,"Emergency department visit, self-limited problem",J18.9,"Pneumonia, unspecified organism",1052.59,855.67,0.0,4,2026-03-01
+f2d74286-bb61-4a9c-8327-ffbb064d9d5e,bec0ed46-a9ff-4e92-a77b-c2a28c3c8917,1,99203,"Office visit, new patient, low complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,1668.08,1098.7,915.73,1,2024-07-09
+dc074f6c-2448-4c57-a38f-191874750788,bec0ed46-a9ff-4e92-a77b-c2a28c3c8917,2,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,2203.57,1738.89,1466.0,1,2024-07-09
+baedb71a-f1cd-43f8-a0f6-d3357e3ffca5,6bec1ba2-42b4-4f43-8bf3-b9aa7e431c3d,1,90837,"Psychotherapy, 60 minutes",E11.9,Type 2 diabetes mellitus without complications,2367.85,1957.53,1890.35,1,2026-02-24
+6d66f9bf-c074-4580-861d-c6106d9cdf5c,1d281b98-1f38-4329-ab55-16f352bc59fa,1,99203,"Office visit, new patient, low complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2482.42,2274.86,2048.9,3,2024-08-18
+9d93b48b-e93e-46b5-9b36-08a5e7eb889d,1d281b98-1f38-4329-ab55-16f352bc59fa,2,99233,"Subsequent hospital care, high complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1785.74,1749.14,1267.99,4,2024-08-18
+a570e6b0-e157-48d0-88e0-236392d75bbb,9647ec0e-89d5-401a-9eb0-e163185115a0,1,99232,"Subsequent hospital care, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",2455.54,2361.52,1669.67,3,2024-11-28
+98e819cc-2fdb-4ab8-855a-483f5d83b970,65438279-e036-4294-ac21-21c42d9e4427,1,36415,"Venipuncture, routine",R10.9,Unspecified abdominal pain,125.13,112.62,104.5,4,2026-03-29
+dba536dc-8297-41ab-8d74-bad269f0622d,b077c48e-d877-4f58-9106-bd110466f78a,1,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,72.55,54.58,53.02,4,2025-05-18
+dc8ea505-73cf-4e79-be09-b4f60cb2f1dc,b077c48e-d877-4f58-9106-bd110466f78a,2,85025,Complete blood count with differential,E11.9,Type 2 diabetes mellitus without complications,114.06,99.09,90.08,3,2025-05-18
+27f0fe6a-c6ee-411f-a2c0-1614b4ef8585,b077c48e-d877-4f58-9106-bd110466f78a,3,80053,Comprehensive metabolic panel,E11.9,Type 2 diabetes mellitus without complications,2012.79,1894.94,1772.22,4,2025-05-18
+995d5efa-eb20-4a8a-8fac-b57a1ba173f4,b077c48e-d877-4f58-9106-bd110466f78a,4,36415,"Venipuncture, routine",E11.9,Type 2 diabetes mellitus without complications,352.54,260.35,202.68,2,2025-05-18
+afe9b0ac-2ac3-44a2-b072-fe4cde659cf8,56f4ac5e-8a79-4d67-bc6b-4ed54377481f,1,97110,Therapeutic exercises,E78.5,"Hyperlipidemia, unspecified",2242.15,1365.92,1008.81,1,2025-01-17
+0b3492f8-ddc2-4479-82cc-e7398bb64980,87971683-1090-4d07-aab9-88282e02ed72,1,99215,"Office visit, established patient, high complexity",J06.9,"Acute upper respiratory infection, unspecified",48.87,29.58,27.87,1,2026-03-28
+8c55ad3b-ab8f-4ea9-816c-570d0db41c80,87971683-1090-4d07-aab9-88282e02ed72,2,99204,"Office visit, new patient, moderate complexity",J06.9,"Acute upper respiratory infection, unspecified",1467.32,1447.16,1433.75,3,2026-03-28
+9d375b6a-a509-427a-81d5-9178d32055c1,87971683-1090-4d07-aab9-88282e02ed72,3,99203,"Office visit, new patient, low complexity",J06.9,"Acute upper respiratory infection, unspecified",1541.1,959.28,711.42,1,2026-03-28
+cbcde018-36ae-47aa-8658-cb9d8859e123,39b05948-dd2e-4580-8b23-e65ae4da7c96,1,99215,"Office visit, established patient, high complexity",I10,Essential hypertension,982.58,835.37,633.04,2,2024-12-28
+4877148c-eaa1-4d8b-9b3c-a60a0610ccfd,399b26ee-24b5-4a5f-bdd4-110a15ce2da8,1,93000,"Electrocardiogram, complete",I10,Essential hypertension,482.7,290.84,218.93,2,2025-10-09
+47627a53-a930-43ed-9bbf-8d29eb3cf2bb,399b26ee-24b5-4a5f-bdd4-110a15ce2da8,2,99232,"Subsequent hospital care, moderate complexity",I10,Essential hypertension,381.13,311.31,308.76,1,2025-10-09
+b3e6b055-3b63-4882-8758-444a2ddb7560,92232d41-2a64-4430-a077-b7c8a9d51bc0,1,99281,"Emergency department visit, self-limited problem",K21.0,Gastro-esophageal reflux disease with esophagitis,1001.8,936.1,738.6,4,2025-03-19
+a64971f4-2dba-406a-92a4-f9b52b49540b,92232d41-2a64-4430-a077-b7c8a9d51bc0,2,97110,Therapeutic exercises,K21.0,Gastro-esophageal reflux disease with esophagitis,1610.47,1106.88,858.15,3,2025-03-19
+a52da683-143c-404e-a8c0-ea72136c5703,92232d41-2a64-4430-a077-b7c8a9d51bc0,3,99285,"Emergency department visit, high severity",K21.0,Gastro-esophageal reflux disease with esophagitis,1338.11,1153.37,1142.35,3,2025-03-19
+9dd256a8-7e9d-4f46-ace1-acb4ca310887,67d8f71f-864e-4859-baa9-b80ffbb02eb7,1,20610,"Arthrocentesis, major joint",I10,Essential hypertension,1895.23,1463.19,1320.11,4,2025-04-20
+13b52c63-fcea-4942-8506-332cb3b51bcf,cf35228f-025d-4efb-9c33-2768cbec4de9,1,99215,"Office visit, established patient, high complexity",M25.511,Pain in right shoulder,1433.77,1277.29,1016.36,3,2024-09-05
+a7818701-7ab1-427f-bdd8-01c91243e346,cf35228f-025d-4efb-9c33-2768cbec4de9,2,90837,"Psychotherapy, 60 minutes",M25.511,Pain in right shoulder,941.85,678.23,574.28,2,2024-09-05
+e170e3f1-3eae-40b0-a364-067a6f5b4e23,cf35228f-025d-4efb-9c33-2768cbec4de9,3,99285,"Emergency department visit, high severity",M25.511,Pain in right shoulder,1478.39,912.28,735.18,4,2024-09-05
+9d71a20e-aa49-452b-959b-e9e5a18e8169,cf35228f-025d-4efb-9c33-2768cbec4de9,4,93000,"Electrocardiogram, complete",M25.511,Pain in right shoulder,827.81,760.34,747.84,4,2024-09-05
+d9b1b668-ec37-462c-8dda-6ff6fbae010d,910b7aae-8c37-414a-9023-657ae840dbc8,1,36415,"Venipuncture, routine",E11.9,Type 2 diabetes mellitus without complications,969.11,918.81,0.0,2,2024-12-15
+d72fcba3-28ae-4032-ad8e-d99edace9384,dd22823e-25a2-41d8-a0d5-8c53eb67c25b,1,99396,"Preventive visit, 40-64 years",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2366.46,1625.28,1145.69,4,2026-04-22
+3283c952-4223-4044-b906-973bfe537903,dd22823e-25a2-41d8-a0d5-8c53eb67c25b,2,99204,"Office visit, new patient, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,695.45,472.28,401.06,2,2026-04-22
+0dab67ad-7262-4d6a-9045-e0ce809ca695,dd22823e-25a2-41d8-a0d5-8c53eb67c25b,3,99233,"Subsequent hospital care, high complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2078.7,1957.15,1533.04,2,2026-04-22
+6e753d01-9a5f-4343-b061-8ee6131152b3,dd22823e-25a2-41d8-a0d5-8c53eb67c25b,4,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1526.89,1220.98,1014.06,2,2026-04-22
+1763ff30-ab7a-4f33-94a4-e9b63958912c,2319a11a-dc6c-4d14-9d5b-76714a701d06,1,20610,"Arthrocentesis, major joint",K58.9,Irritable bowel syndrome without diarrhea,741.07,514.35,505.61,2,2025-12-21
+50a2387c-4512-4f00-980c-4b61208ffb67,5a032086-b949-408d-a02d-bbf35d54f341,1,71046,"Chest X-ray, 2 views",M25.511,Pain in right shoulder,1538.78,1292.03,1109.71,3,2025-06-30
+4b10e90a-e831-48f3-9b66-0a9c37aca866,5a032086-b949-408d-a02d-bbf35d54f341,2,80053,Comprehensive metabolic panel,M25.511,Pain in right shoulder,2022.63,1912.68,1550.94,4,2025-06-30
+398b42e2-51ed-4662-a9ee-9747e9cada0b,7e606987-087a-4cda-bf89-0e6aa84700fb,1,36415,"Venipuncture, routine",K21.0,Gastro-esophageal reflux disease with esophagitis,1593.83,1531.25,1290.62,3,2024-09-06
+349081c0-71e8-48bf-a9c0-b7ec722403a8,7e606987-087a-4cda-bf89-0e6aa84700fb,2,99395,"Preventive visit, 18-39 years",K21.0,Gastro-esophageal reflux disease with esophagitis,868.37,796.75,724.64,2,2024-09-06
+0748712a-ce2a-46bc-8292-6f7b35bb640f,7e606987-087a-4cda-bf89-0e6aa84700fb,3,36415,"Venipuncture, routine",K21.0,Gastro-esophageal reflux disease with esophagitis,1959.45,1624.21,1581.03,2,2024-09-06
+fdd82b4a-6039-4d4b-8be7-83f64bf3e89c,7e606987-087a-4cda-bf89-0e6aa84700fb,4,99285,"Emergency department visit, high severity",K21.0,Gastro-esophageal reflux disease with esophagitis,1234.26,972.47,686.39,1,2024-09-06
+01b470db-d334-4d86-a0fc-7a05789c9c83,e2e1713e-e2df-4928-ac88-3d0e199fd90c,1,99215,"Office visit, established patient, high complexity",F32.9,"Major depressive disorder, single episode, unspecified",1137.48,1036.21,971.33,3,2024-08-22
+ea8f9bf2-77ae-4db2-886f-bdc7f458c7cb,e2e1713e-e2df-4928-ac88-3d0e199fd90c,2,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",925.36,843.1,709.99,2,2024-08-22
+bc053281-fe7a-4565-a34c-28e8448cae91,27231568-174d-4ce8-8a43-8c665413531c,1,36415,"Venipuncture, routine",F32.9,"Major depressive disorder, single episode, unspecified",1224.63,888.67,857.53,2,2024-11-09
+7c1aa6dc-1fad-4fbe-9979-804156e39acc,27231568-174d-4ce8-8a43-8c665413531c,2,99283,"Emergency department visit, moderate severity",F32.9,"Major depressive disorder, single episode, unspecified",2395.37,2009.8,1479.43,1,2024-11-09
+23d25046-014d-4975-9fe0-da2ae8419290,28adb6a1-f302-4c60-b32a-9e86ea08db88,1,99233,"Subsequent hospital care, high complexity",E11.9,Type 2 diabetes mellitus without complications,670.95,441.23,312.21,4,2026-03-01
+c3c4c306-56a9-4f05-94f9-caddcbbe57b7,2311cece-f843-4639-89df-3602716057e6,1,93000,"Electrocardiogram, complete",M25.511,Pain in right shoulder,1902.19,1223.29,956.69,3,2024-07-03
+65bc2ea2-3426-420e-af18-ef1409e6dc03,2311cece-f843-4639-89df-3602716057e6,2,99283,"Emergency department visit, moderate severity",M25.511,Pain in right shoulder,1773.08,1385.37,1037.46,2,2024-07-03
+14c205ab-0a57-4b2f-bfd6-534812aaee39,c2f42906-6b37-425f-bec7-bf9464550508,1,36415,"Venipuncture, routine",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,2083.72,1562.81,1105.91,4,2025-09-28
+358e8d0a-30c0-4538-bcb1-567ac14cc64c,c2f42906-6b37-425f-bec7-bf9464550508,2,36415,"Venipuncture, routine",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,1003.96,733.54,697.47,1,2025-09-28
+f45c2b1e-7bd9-46ae-b042-e49ea4355254,9a382586-95a0-4484-a48b-7629ed47c0f1,1,90837,"Psychotherapy, 60 minutes",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,183.1,114.83,85.6,2,2025-04-11
+15554752-3f12-4077-bf36-03dabe57bed5,9a382586-95a0-4484-a48b-7629ed47c0f1,2,99285,"Emergency department visit, high severity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,252.35,187.78,151.56,1,2025-04-11
+19c783f6-e4f8-499a-9a82-5e59d03487dc,92543633-2204-482d-b231-0a0ee3488da2,1,99204,"Office visit, new patient, moderate complexity",M79.3,"Panniculitis, unspecified",1381.54,878.37,669.47,2,2026-04-10
+fbe2de03-4c59-434d-a88b-558a4d341f0e,92543633-2204-482d-b231-0a0ee3488da2,2,99203,"Office visit, new patient, low complexity",M79.3,"Panniculitis, unspecified",1912.84,1812.35,1392.28,1,2026-04-10
+1614d7fd-a13f-4f89-bb58-cf353907dee3,62bd77a3-2ac8-477d-99ff-b665ca78819b,1,99214,"Office visit, established patient, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,129.39,116.89,115.14,2,2026-04-01
+cbc2f635-80d6-4f1d-8da1-1d3995f853bf,62bd77a3-2ac8-477d-99ff-b665ca78819b,2,97110,Therapeutic exercises,K58.9,Irritable bowel syndrome without diarrhea,815.66,615.83,548.27,4,2026-04-01
+51eb5b42-2fee-4941-9bf6-bf985871f9b5,426b299e-c41f-4dbc-ad36-f7268b8fefbe,1,99214,"Office visit, established patient, moderate complexity",E03.9,"Hypothyroidism, unspecified",520.31,319.68,0.0,2,2024-12-30
+64f32ae7-62fa-4d2f-90ce-ea9c9606ca8a,426b299e-c41f-4dbc-ad36-f7268b8fefbe,2,99396,"Preventive visit, 40-64 years",E03.9,"Hypothyroidism, unspecified",1241.38,918.31,0.0,1,2024-12-30
+cd1e30ec-53a7-4082-ba2c-b9a81c1f5a3d,b75c29a2-7c55-4790-a945-37e40faa6f2b,1,99233,"Subsequent hospital care, high complexity",M25.511,Pain in right shoulder,682.48,511.67,417.79,2,2024-08-22
+dc97017f-c8a4-4210-86b3-980154224f7a,b75c29a2-7c55-4790-a945-37e40faa6f2b,2,20610,"Arthrocentesis, major joint",M25.511,Pain in right shoulder,659.29,447.2,433.51,4,2024-08-22
+a918a955-fad0-4906-a1b8-d4e890cea638,8821e260-0799-4986-bf54-0f58d87c2a92,1,85025,Complete blood count with differential,J45.909,"Unspecified asthma, uncomplicated",531.36,342.77,279.78,1,2025-12-13
+987d3a08-8fe0-4d29-b869-3ecafc450af9,8821e260-0799-4986-bf54-0f58d87c2a92,2,99283,"Emergency department visit, moderate severity",J45.909,"Unspecified asthma, uncomplicated",520.35,430.89,398.22,2,2025-12-13
+1c635017-dd4d-4085-b6e0-cf1de8e34c3e,8821e260-0799-4986-bf54-0f58d87c2a92,3,99396,"Preventive visit, 40-64 years",J45.909,"Unspecified asthma, uncomplicated",2049.2,1525.37,1092.64,2,2025-12-13
+bcf3dabc-e79c-4e54-8411-4740a2738be6,8821e260-0799-4986-bf54-0f58d87c2a92,4,99396,"Preventive visit, 40-64 years",J45.909,"Unspecified asthma, uncomplicated",2228.26,2088.83,1598.04,1,2025-12-13
+a9b868f6-7a3d-4a4d-8646-9bbcae616224,c65b212f-d52e-4d12-a686-41bca3961922,1,36415,"Venipuncture, routine",M79.3,"Panniculitis, unspecified",1158.26,875.99,811.3,4,2024-07-11
+4254c50e-4400-42ba-a7f7-3a8dfcf3212b,c65b212f-d52e-4d12-a686-41bca3961922,2,90837,"Psychotherapy, 60 minutes",M79.3,"Panniculitis, unspecified",1413.05,1009.11,1005.11,2,2024-07-11
+a7960d2e-7d1f-4c8a-b801-51024d4ec6da,c7457ecd-20d7-4c54-b374-b5efcc224700,1,99232,"Subsequent hospital care, moderate complexity",E11.9,Type 2 diabetes mellitus without complications,2327.14,1678.75,1367.22,2,2026-01-24
+7e29b17d-4f06-49b3-8e39-468ff1f7160c,6d5ca276-4a20-4d90-956b-dc9896e92d77,1,99215,"Office visit, established patient, high complexity",G47.33,Obstructive sleep apnea,717.95,618.48,488.13,1,2024-07-16
+83e2c469-6829-42bf-bebf-1b9115726028,350e9ee9-30fa-4be6-b8ab-8ce75352538a,1,99203,"Office visit, new patient, low complexity",N39.0,"Urinary tract infection, site not specified",2300.53,2065.2,1868.07,1,2025-04-09
+e8463850-9d75-4456-bcdd-bb432a88af17,350e9ee9-30fa-4be6-b8ab-8ce75352538a,2,90837,"Psychotherapy, 60 minutes",N39.0,"Urinary tract infection, site not specified",457.09,294.84,270.5,4,2025-04-09
+9d5f8df3-6fde-4072-b3ac-6811ce91bb1a,350e9ee9-30fa-4be6-b8ab-8ce75352538a,3,99396,"Preventive visit, 40-64 years",N39.0,"Urinary tract infection, site not specified",1744.92,1237.59,874.69,4,2025-04-09
+0ec2514a-a84a-4f6b-9c1a-f0ddb80f8f42,350e9ee9-30fa-4be6-b8ab-8ce75352538a,4,99215,"Office visit, established patient, high complexity",N39.0,"Urinary tract infection, site not specified",1835.3,1213.72,873.33,4,2025-04-09
+295172a1-33e7-4af8-bf5d-3f8793fcd62b,6148db88-42ca-46d6-9d53-5fcbce248736,1,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,2246.09,1937.58,1914.0,3,2026-05-01
+bce0f8ed-d7b6-4c18-86b6-ace23745e67a,46690188-bc17-4d2b-8bdb-c0dd495b63b6,1,99285,"Emergency department visit, high severity",N39.0,"Urinary tract infection, site not specified",1731.95,1600.57,1598.57,1,2025-06-17
+c0be99c0-8262-4aa1-8b57-e1a7bd073bb9,46690188-bc17-4d2b-8bdb-c0dd495b63b6,2,99396,"Preventive visit, 40-64 years",N39.0,"Urinary tract infection, site not specified",2092.6,1619.96,1596.7,4,2025-06-17
+d022a98c-c62e-46d7-8ad3-115a1bb0e25e,46b89c36-feb0-46c7-b18f-9a0c42e78314,1,99395,"Preventive visit, 18-39 years",K58.9,Irritable bowel syndrome without diarrhea,430.64,371.83,301.7,2,2024-12-05
+fc40c75b-f56a-4735-908e-5937843e0b36,8fd94c3a-1c67-485a-b7fe-617fe5f437c4,1,99233,"Subsequent hospital care, high complexity",G47.33,Obstructive sleep apnea,390.39,339.27,328.02,4,2025-03-22
+48bb25c2-7716-4ba0-a71d-bf8d223805a8,08d2b557-1341-4dac-b70e-95f7b02198ef,1,93000,"Electrocardiogram, complete",Z00.00,Encounter for general adult medical examination,1890.42,1785.92,1338.16,1,2024-06-27
+db61bc54-7a58-408b-9c73-7c82267258ca,56e6036f-3df0-4f7b-89ab-c40fd0c36f93,1,99204,"Office visit, new patient, moderate complexity",R05.9,"Cough, unspecified",2443.65,2240.61,2122.77,4,2024-11-06
+b474bda3-b341-4b51-9ff3-2b5f797de778,56e6036f-3df0-4f7b-89ab-c40fd0c36f93,2,99215,"Office visit, established patient, high complexity",R05.9,"Cough, unspecified",2063.02,1964.59,1958.99,1,2024-11-06
+e215c125-2fcd-41a3-9162-df85bac29940,38b328a9-af45-49f5-a689-5f6ad3f9dcef,1,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,1717.93,1572.06,1331.15,3,2025-06-22
+38c47e64-c958-4e9e-8c22-77f7b5466b1e,38b328a9-af45-49f5-a689-5f6ad3f9dcef,2,80053,Comprehensive metabolic panel,I25.10,Atherosclerotic heart disease of native coronary artery,1382.42,1047.85,939.99,4,2025-06-22
+7b4dc598-b85c-445b-b551-fe8993fb90a1,80d57d6b-fb01-4784-9c3c-4ff63862f1b2,1,99283,"Emergency department visit, moderate severity",Z00.00,Encounter for general adult medical examination,1797.6,1720.79,0.0,1,2026-02-01
+86f2c683-8454-4840-8e92-c1074c17d8ea,3ad85dea-0152-464d-97b7-91790f94c5b7,1,99283,"Emergency department visit, moderate severity",N39.0,"Urinary tract infection, site not specified",83.18,50.94,0.0,1,2025-08-23
+7f26b637-dc69-4864-8ca8-9b7d74ed8276,350a1b86-cc6b-4958-b240-630e79aa49e3,1,85025,Complete blood count with differential,G47.33,Obstructive sleep apnea,51.16,42.92,34.46,3,2026-02-03
+70b0f2b1-c8cf-4b9b-ac18-60a7bf460298,b306a155-34bd-4818-9f66-e57d45dccc7b,1,99214,"Office visit, established patient, moderate complexity",K58.9,Irritable bowel syndrome without diarrhea,1262.49,935.0,726.25,4,2025-02-10
+387a82e5-d1e2-4862-b67f-4a67ca9f9223,624ccfd4-252c-4f1e-b01f-e240ceba1428,1,99213,"Office visit, established patient, low complexity",G47.33,Obstructive sleep apnea,965.42,951.04,0.0,1,2024-07-30
+f4a8d9cb-8ca9-4d1c-b529-95837deb3434,624ccfd4-252c-4f1e-b01f-e240ceba1428,2,90837,"Psychotherapy, 60 minutes",G47.33,Obstructive sleep apnea,649.09,413.35,0.0,2,2024-07-30
+b4ad6ef6-03bf-4b90-affc-7d4c4e549a4b,352d53a0-07fe-49e5-ac23-5fe25265a93c,1,36415,"Venipuncture, routine",K58.9,Irritable bowel syndrome without diarrhea,791.79,721.21,0.0,4,2025-09-15
+5caf3e21-138c-4554-8ec7-0312ab887024,fdbad023-efa1-460c-8c04-64f5dc2394a9,1,99215,"Office visit, established patient, high complexity",E11.9,Type 2 diabetes mellitus without complications,1267.63,995.43,0.0,4,2025-11-12
+e84ada7c-9433-4416-8a46-bfcf10c3c356,fdbad023-efa1-460c-8c04-64f5dc2394a9,2,99395,"Preventive visit, 18-39 years",E11.9,Type 2 diabetes mellitus without complications,1642.91,1017.76,0.0,1,2025-11-12
+dceee82c-3603-4e6e-b2aa-8bfbdbe228c6,0fb950b2-7b45-4c70-90bd-9b8e18e0d72b,1,20610,"Arthrocentesis, major joint",J18.9,"Pneumonia, unspecified organism",845.25,544.23,406.23,1,2025-02-02
+e8dee0e4-7d1c-4963-b6ca-6c20825de0f3,fc01a8ff-6f49-46c0-a5fa-bad6c99a7e9b,1,85025,Complete blood count with differential,I25.10,Atherosclerotic heart disease of native coronary artery,133.59,89.92,72.12,4,2025-09-04
+1eb93b1b-98cd-4545-a1b0-4664dbb1af13,fc01a8ff-6f49-46c0-a5fa-bad6c99a7e9b,2,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,1791.72,1654.42,1628.63,1,2025-09-04
+c58266c6-e87a-44eb-b2b6-446b17c20f72,b2f6bdd1-2714-4d65-8030-b3cb3c1ff8ee,1,93000,"Electrocardiogram, complete",E11.9,Type 2 diabetes mellitus without complications,1252.96,1149.89,953.25,3,2024-09-08
+43a541ef-c5a9-49d4-9e8a-0e62bcc68b4a,b2f6bdd1-2714-4d65-8030-b3cb3c1ff8ee,2,99395,"Preventive visit, 18-39 years",E11.9,Type 2 diabetes mellitus without complications,288.16,227.49,178.28,4,2024-09-08
+1450a32e-1fd5-4983-be94-9f73b6d6db4c,1ec5a206-94e5-40d6-a8b3-dc9fe53a2b2a,1,99204,"Office visit, new patient, moderate complexity",K21.0,Gastro-esophageal reflux disease with esophagitis,324.5,215.73,187.93,2,2024-11-16
+ae611eb1-2891-4151-9f13-9ddd25dcc9a5,378cd336-1b1b-4616-adab-a71474779a0e,1,99396,"Preventive visit, 40-64 years",I25.10,Atherosclerotic heart disease of native coronary artery,1047.81,863.26,664.43,2,2024-12-18
+5b22ba1c-2e18-4c3e-89cc-75756a805a1b,ac647056-4980-48e3-bc7b-18d1d9d4c2ae,1,97110,Therapeutic exercises,M54.5,Low back pain,1673.13,1395.77,980.75,2,2026-04-30
+e08ad1f0-5d7f-4a89-82b1-4e2c44e83119,ac647056-4980-48e3-bc7b-18d1d9d4c2ae,2,36415,"Venipuncture, routine",M54.5,Low back pain,2303.81,2175.34,2045.62,2,2026-04-30
+3f5f6ce9-394c-417b-88a1-029fb66f5e51,ac647056-4980-48e3-bc7b-18d1d9d4c2ae,3,90837,"Psychotherapy, 60 minutes",M54.5,Low back pain,1208.73,828.76,623.0,1,2026-04-30
+72896cb6-e08c-4a18-b156-0d1269eb2d69,940da7da-1dbe-4638-a233-38b5f9253540,1,99285,"Emergency department visit, high severity",J06.9,"Acute upper respiratory infection, unspecified",1576.68,1206.8,0.0,3,2025-11-02
+65d849ff-db6c-4ae4-bc7d-6954c18c3bcc,940da7da-1dbe-4638-a233-38b5f9253540,2,99285,"Emergency department visit, high severity",J06.9,"Acute upper respiratory infection, unspecified",2074.24,1581.73,0.0,4,2025-11-02
+b72c3920-af1c-4eee-81af-f81d32baaa48,e03b5749-f630-4cd4-be33-fc41264b786f,1,20610,"Arthrocentesis, major joint",M79.3,"Panniculitis, unspecified",2095.02,1445.33,0.0,2,2025-04-09
+883cc426-8dee-4805-927d-88c3d91494f9,e03b5749-f630-4cd4-be33-fc41264b786f,2,90837,"Psychotherapy, 60 minutes",M79.3,"Panniculitis, unspecified",1546.87,1417.22,0.0,4,2025-04-09
+dcb81053-d9cd-4bd3-9c32-75f45c3f93b8,e03b5749-f630-4cd4-be33-fc41264b786f,3,99281,"Emergency department visit, self-limited problem",M79.3,"Panniculitis, unspecified",622.32,503.15,0.0,4,2025-04-09
+097f94cd-e25f-462b-8009-2bbfc97da088,e03b5749-f630-4cd4-be33-fc41264b786f,4,99215,"Office visit, established patient, high complexity",M79.3,"Panniculitis, unspecified",1096.04,671.18,0.0,1,2025-04-09
+97df7fe1-b43d-4704-9280-b739bf21b4c4,8ef44314-5fb0-43f3-b9c5-3d9d603da79d,1,99233,"Subsequent hospital care, high complexity",E78.5,"Hyperlipidemia, unspecified",2094.9,1764.15,1721.45,4,2025-03-15
+60287088-ca07-4e3b-b243-be75c6dfa793,b2eb3385-bd81-4e7a-87ad-e4844e21d67c,1,99395,"Preventive visit, 18-39 years",E78.5,"Hyperlipidemia, unspecified",1304.57,1112.21,862.49,3,2025-01-18
+d410e9aa-a43f-40bb-a402-d3f425fcdcd2,b2eb3385-bd81-4e7a-87ad-e4844e21d67c,2,99232,"Subsequent hospital care, moderate complexity",E78.5,"Hyperlipidemia, unspecified",2190.01,1834.73,1409.72,3,2025-01-18
+e5513419-0ddc-4533-ab40-c65f445e737a,be41ea42-663a-43eb-bd2c-10d39a2ee344,1,97110,Therapeutic exercises,E78.5,"Hyperlipidemia, unspecified",1698.35,1208.22,1062.42,2,2024-09-07
+2e211a21-7364-4a44-b0be-0f6b3626e5a1,eda00188-f49b-4188-b792-8b5a080dda1d,1,99283,"Emergency department visit, moderate severity",E03.9,"Hypothyroidism, unspecified",2000.13,1665.51,0.0,2,2024-07-05
+0b3acc1c-f135-4b5f-a79f-7b3d8d58d388,8a421518-e4d0-40f6-b3e2-77f4e29c8af2,1,99281,"Emergency department visit, self-limited problem",E78.5,"Hyperlipidemia, unspecified",2221.0,2051.83,1667.11,4,2026-03-03
+47d180cb-52df-4eda-b975-348e4d6fb077,8a421518-e4d0-40f6-b3e2-77f4e29c8af2,2,90837,"Psychotherapy, 60 minutes",E78.5,"Hyperlipidemia, unspecified",1799.68,1751.08,1466.92,3,2026-03-03
+8a0bda12-f39a-4be4-9fe9-b8ef869d7249,6e37e061-7b1b-4788-ad2a-bfadb34f09a7,1,85025,Complete blood count with differential,E03.9,"Hypothyroidism, unspecified",33.09,22.35,21.91,4,2025-12-22
+165d9613-b952-41a8-b6b5-d2f310fb8bbb,fb85a199-9784-4a64-afe5-e1ee89fa216d,1,71046,"Chest X-ray, 2 views",I10,Essential hypertension,1579.58,1257.07,920.71,4,2025-06-04
+bcef7d24-17aa-4ffb-8a52-bfaac0e139b3,b7e5c5a7-0cc3-4bbb-98a7-5ea77456abc1,1,99214,"Office visit, established patient, moderate complexity",I10,Essential hypertension,2121.76,1508.45,1304.13,3,2024-12-24
+54e266b6-d434-45e5-8061-78a0addd61ca,b7e5c5a7-0cc3-4bbb-98a7-5ea77456abc1,2,99204,"Office visit, new patient, moderate complexity",I10,Essential hypertension,1965.08,1906.72,1727.52,2,2024-12-24
+e9f76f34-8708-4d0f-a7c4-c328b9e25abb,b7e5c5a7-0cc3-4bbb-98a7-5ea77456abc1,3,99214,"Office visit, established patient, moderate complexity",I10,Essential hypertension,2231.0,1844.2,1296.39,3,2024-12-24
+c22b87f4-1580-41b7-bb94-b0331c2ad2c4,1381d018-aaa5-4749-b097-ab7c23506c6c,1,99396,"Preventive visit, 40-64 years",M25.511,Pain in right shoulder,1885.52,1831.11,1475.99,2,2025-04-10
+e76fbc0e-c2e4-4efa-996c-3d2844da06d5,d2dbf441-8563-4fd4-bac1-b64f4d672106,1,99283,"Emergency department visit, moderate severity",M79.3,"Panniculitis, unspecified",1365.74,828.97,620.17,3,2024-12-01
+0a29d7e9-51e5-4723-9d76-bbc8b69fe9ad,d2dbf441-8563-4fd4-bac1-b64f4d672106,2,90837,"Psychotherapy, 60 minutes",M79.3,"Panniculitis, unspecified",333.29,232.8,191.34,2,2024-12-01
+fa56bd17-8de4-41d0-9c88-01ee2a7271a7,d2dbf441-8563-4fd4-bac1-b64f4d672106,3,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",1533.78,1467.45,1431.19,3,2024-12-01
+6bd2cf8b-b955-406e-be8d-3afd47eb499e,8737f4e7-6a9e-46d8-85dd-902d43fd2d79,1,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",553.13,354.08,256.57,4,2025-01-23
+312ab8b2-59d9-4bcc-a8c6-89589e812193,8737f4e7-6a9e-46d8-85dd-902d43fd2d79,2,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",397.2,379.42,362.41,4,2025-01-23
+81e5593f-e438-401d-b5f2-97a194471e76,f0fdc275-52c6-4e3c-bf21-ecd875267022,1,36415,"Venipuncture, routine",J45.909,"Unspecified asthma, uncomplicated",822.15,657.4,581.6,4,2024-10-09
+5d2dc4b0-54f4-459e-8837-9b68d726890f,f0fdc275-52c6-4e3c-bf21-ecd875267022,2,20610,"Arthrocentesis, major joint",J45.909,"Unspecified asthma, uncomplicated",533.54,350.97,253.82,4,2024-10-09
+f17af205-5837-4c8b-9ce2-874a992299f8,f0fdc275-52c6-4e3c-bf21-ecd875267022,3,99281,"Emergency department visit, self-limited problem",J45.909,"Unspecified asthma, uncomplicated",1975.47,1348.95,1071.42,4,2024-10-09
+53664b5f-1004-4b62-92d2-b5561551ece0,1bc4d837-cb7d-481a-956e-d2dfe491be78,1,99396,"Preventive visit, 40-64 years",E11.9,Type 2 diabetes mellitus without complications,629.08,552.98,462.11,1,2025-12-28
+4d1530bb-f6e8-42de-845e-db1ab2c1decd,1bc4d837-cb7d-481a-956e-d2dfe491be78,2,85025,Complete blood count with differential,E11.9,Type 2 diabetes mellitus without complications,1439.85,1070.97,756.26,4,2025-12-28
+03b056d4-a854-44c8-924d-0bd27895c271,7c62390b-69f7-4b11-a4b3-a55e6f3e94ed,1,99232,"Subsequent hospital care, moderate complexity",G47.33,Obstructive sleep apnea,1209.36,807.15,771.71,2,2026-05-04
+4480dbad-09b4-45dc-be77-64570ab74919,fc0b33e3-938d-4a36-a5cf-f711001d0d9d,1,20610,"Arthrocentesis, major joint",I25.10,Atherosclerotic heart disease of native coronary artery,1745.9,1082.5,0.0,1,2024-11-13
+956a5628-a702-4816-9d6a-d8af663bc722,ee1d5099-0136-4700-a9cc-78b9420747fb,1,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,1038.42,692.26,498.45,1,2024-07-31
+7ff5938d-f66b-4580-8faa-c0eb58f92eaf,61adf063-9070-472f-b91a-2d626393be40,1,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,67.52,66.48,58.55,1,2025-04-17
+e50c133e-4f24-4eb0-ae2f-10cc4018c598,61adf063-9070-472f-b91a-2d626393be40,2,99215,"Office visit, established patient, high complexity",I25.10,Atherosclerotic heart disease of native coronary artery,1937.77,1371.2,1281.99,1,2025-04-17
+66561c04-6e69-47d3-80f4-3bccbcc7eeeb,61adf063-9070-472f-b91a-2d626393be40,3,93000,"Electrocardiogram, complete",I25.10,Atherosclerotic heart disease of native coronary artery,1394.76,1042.68,785.84,2,2025-04-17
+379dad10-9d91-4e1b-8f69-58779ae5d714,61adf063-9070-472f-b91a-2d626393be40,4,99285,"Emergency department visit, high severity",I25.10,Atherosclerotic heart disease of native coronary artery,1972.6,1440.38,1082.5,3,2025-04-17
+bfb5a7c0-3314-4005-8723-0ee310a9549b,75f02747-3db4-47c6-99f4-af360c51a2a5,1,99204,"Office visit, new patient, moderate complexity",J44.1,Chronic obstructive pulmonary disease with acute exacerbation,623.77,526.2,426.3,3,2025-12-21
+43f1f4eb-e932-4b1e-809c-26c7cca2c0fc,a2cbfeb7-92b0-42f7-ba90-6dc0e6217618,1,99214,"Office visit, established patient, moderate complexity",M25.511,Pain in right shoulder,191.01,143.44,100.43,4,2026-03-19
+8134d138-1694-4a62-91f9-f7151a367306,1fd27090-45fe-4458-ad3c-919fb8520a92,1,80053,Comprehensive metabolic panel,J45.909,"Unspecified asthma, uncomplicated",1971.3,1638.13,1558.33,4,2024-12-11
+938468bb-f730-41e2-9661-5c783959d31f,1fd27090-45fe-4458-ad3c-919fb8520a92,2,99232,"Subsequent hospital care, moderate complexity",J45.909,"Unspecified asthma, uncomplicated",1320.59,1007.7,857.5,4,2024-12-11
+be2add14-fe31-42cb-8105-4233349ff85d,e1a8cbce-6f35-4e3e-988b-88ad5774b7d8,1,20610,"Arthrocentesis, major joint",M54.5,Low back pain,2262.81,1703.96,1345.88,1,2025-08-09
+178f8565-f180-4e13-a9ab-694dc1706b4b,e1a8cbce-6f35-4e3e-988b-88ad5774b7d8,2,36415,"Venipuncture, routine",M54.5,Low back pain,1230.87,1107.94,847.21,2,2025-08-09
+cb6e7ab1-b188-4220-98c0-0b509760c0a2,e1a8cbce-6f35-4e3e-988b-88ad5774b7d8,3,93000,"Electrocardiogram, complete",M54.5,Low back pain,2166.36,1984.84,1835.52,3,2025-08-09
+f209d7a8-4138-478c-9acb-98a2e8b6e07d,14ef8e8c-5042-441d-a9ea-792055aa7e89,1,93000,"Electrocardiogram, complete",M79.3,"Panniculitis, unspecified",1789.4,1339.59,1019.97,2,2026-01-21
+1fc14ab8-c5fd-4e66-8e0f-11b39f7d39ec,53b6c8bc-92d4-41c3-8e8d-2aea355113bf,1,80053,Comprehensive metabolic panel,I10,Essential hypertension,1176.1,887.51,795.24,4,2025-01-15
+6454979e-d1df-4b20-9522-1c4c807eb6ad,5f21ceab-0b07-4380-a69a-2c71de654c19,1,99215,"Office visit, established patient, high complexity",K58.9,Irritable bowel syndrome without diarrhea,897.39,607.88,593.65,2,2024-05-23
+495a033a-aed2-42fb-9237-27ce141688c4,5f21ceab-0b07-4380-a69a-2c71de654c19,2,99213,"Office visit, established patient, low complexity",K58.9,Irritable bowel syndrome without diarrhea,2480.45,1633.07,1491.53,3,2024-05-23
+4cf12635-c8f9-4cb9-88c2-3c78b65b632f,95c662ee-51a4-4320-9069-d834bdb4b987,1,36415,"Venipuncture, routine",M79.3,"Panniculitis, unspecified",2001.32,1569.27,1391.21,3,2025-04-15
+c765624f-f218-4f2c-a4c4-9d949fb1d871,d9bae76d-0204-4685-ae66-5955d8d72eb2,1,99395,"Preventive visit, 18-39 years",J45.909,"Unspecified asthma, uncomplicated",1828.44,1511.28,0.0,1,2024-06-11
+aa1284e2-5db9-4bfe-8d77-93d7396c89a5,de96ac6f-9ac6-4315-9797-0aa9368063f5,1,99204,"Office visit, new patient, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1911.22,1296.83,0.0,4,2026-01-11
+0c1b1564-fe56-4f37-80ca-f8acedbea0d9,de96ac6f-9ac6-4315-9797-0aa9368063f5,2,99232,"Subsequent hospital care, moderate complexity",F32.9,"Major depressive disorder, single episode, unspecified",1001.14,617.46,0.0,3,2026-01-11

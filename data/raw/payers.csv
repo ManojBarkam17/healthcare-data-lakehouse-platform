@@ -1,0 +1,11 @@
+payer_id,payer_name,payer_type,plan_types_offered,state,is_active,created_at
+PAY0001,Blue Cross Blue Shield,Commercial,EPO|PPO,GA,True,2026-05-17T23:16:36.317193
+PAY0002,Aetna,Medicare,HMO|HDHP|EPO|PPO,CA,True,2026-05-17T23:16:36.317218
+PAY0003,UnitedHealthcare,Commercial,PPO|HDHP,IN,True,2026-05-17T23:16:36.317239
+PAY0004,Cigna,Commercial,PPO|POS|HMO|HDHP,MD,True,2026-05-17T23:16:36.317249
+PAY0005,Humana,Medicaid,PPO|POS,NJ,True,2026-05-17T23:16:36.317259
+PAY0006,Kaiser Permanente,Medicaid,PPO|EPO,NY,True,2026-05-17T23:16:36.317267
+PAY0007,Anthem,Commercial,HMO|EPO|PPO,WI,True,2026-05-17T23:16:36.317276
+PAY0008,Centene,Medicaid,POS|HMO,WA,True,2026-05-17T23:16:36.317284
+PAY0009,Molina Healthcare,Commercial,EPO|HDHP|POS|HMO,FL,True,2026-05-17T23:16:36.317292
+PAY0010,WellCare,Commercial,PPO|EPO|HMO|POS,NY,True,2026-05-17T23:16:36.317301
