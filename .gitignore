@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Delta Lake
+data/bronze/
+data/silver/
+data/gold/
+data/raw/*.parquet
+data/raw/*.json
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Airflow
+dags/__pycache__/
+airflow.db
+airflow.cfg
+airflow-webserver.pid
+logs/
+
+# Great Expectations
+great_expectations/uncommitted/
+
+# Docker
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep sample data, ignore generated)
+data/raw/members*.csv
+data/raw/providers*.csv
+data/raw/claims*.csv
+data/raw/adt_events*.json
+
+# Terraform
+infrastructure/terraform/.terraform/
+infrastructure/terraform/*.tfstate
+infrastructure/terraform/*.tfstate.backup
+infrastructure/terraform/*.tfplan
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
