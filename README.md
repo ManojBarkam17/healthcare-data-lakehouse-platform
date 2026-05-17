@@ -2,7 +2,6 @@
 
 A production-inspired data lakehouse for healthcare claims analytics, built with PySpark, Delta Lake, dbt, and modern data engineering practices.
 
-**Runnable locally for $0** — no cloud accounts required.
 
 ---
 
