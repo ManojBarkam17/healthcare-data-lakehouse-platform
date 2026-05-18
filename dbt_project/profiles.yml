@@ -1,0 +1,7 @@
+healthcare_duckdb:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/gold/healthcare_warehouse.duckdb"
+      threads: 4

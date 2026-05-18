@@ -1,0 +1,124 @@
+version: 2
+
+sources:
+  - name: gold
+    description: "Gold layer Delta tables exported to DuckDB"
+    schema: main
+    tables:
+      - name: dim_member
+        description: "SCD Type 2 member dimension with plan/address history"
+        columns:
+          - name: member_id
+            description: "Business key for the member"
+            tests:
+              - not_null
+          - name: is_current
+            description: "Flag indicating the current version of the member record"
+
+      - name: dim_provider
+        description: "Healthcare provider dimension (physicians, facilities)"
+        columns:
+          - name: provider_id
+            description: "Business key for the provider"
+            tests:
+              - not_null
+              - unique
+
+      - name: dim_payer
+        description: "Insurance payer dimension"
+        columns:
+          - name: payer_id
+            description: "Business key for the payer"
+            tests:
+              - not_null
+              - unique
+
+      - name: dim_diagnosis
+        description: "ICD-10 diagnosis code dimension"
+        columns:
+          - name: diagnosis_code
+            description: "ICD-10-CM diagnosis code"
+            tests:
+              - not_null
+
+      - name: dim_procedure
+        description: "CPT procedure code dimension"
+        columns:
+          - name: procedure_code
+            description: "CPT-4 procedure code"
+            tests:
+              - not_null
+
+      - name: fact_claims
+        description: "Claims fact table — one row per claim line"
+        columns:
+          - name: claim_id
+            description: "Claim header identifier"
+            tests:
+              - not_null
+          - name: member_id
+            tests:
+              - not_null
+
+      - name: fact_adt_events
+        description: "ADT (Admit/Discharge/Transfer) events fact table"
+        columns:
+          - name: event_id
+            description: "Unique event identifier"
+            tests:
+              - not_null
+              - unique
+
+models:
+  - name: stg_members
+    description: "Staged member records — current version only"
+    columns:
+      - name: member_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_providers
+    description: "Staged provider records"
+    columns:
+      - name: provider_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_payers
+    description: "Staged payer/insurer records"
+    columns:
+      - name: payer_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_claims
+    description: "Staged claim lines with header context"
+    columns:
+      - name: claim_line_id
+        tests:
+          - not_null
+
+  - name: stg_diagnoses
+    description: "Staged ICD-10 diagnosis codes"
+    columns:
+      - name: diagnosis_code
+        tests:
+          - not_null
+
+  - name: stg_procedures
+    description: "Staged CPT procedure codes"
+    columns:
+      - name: procedure_code
+        tests:
+          - not_null
+
+  - name: stg_adt_events
+    description: "Staged ADT events"
+    columns:
+      - name: event_id
+        tests:
+          - not_null
+          - unique

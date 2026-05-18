@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: int_claims_enriched
+    description: "Claims enriched with provider specialty, payer name, and diagnosis/procedure descriptions"
+
+  - name: int_member_claims_summary
+    description: "Per-member claims aggregation — total spend, claim counts, avg payment ratio"
+
+  - name: int_provider_performance
+    description: "Per-provider metrics — volume, denial rates, avg charge amounts"
+
+  - name: int_admission_discharge
+    description: "Paired admission and discharge events to calculate length of stay"

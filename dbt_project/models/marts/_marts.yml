@@ -1,0 +1,47 @@
+version: 2
+
+models:
+  - name: mart_claims_summary
+    description: >
+      Monthly claims analytics by payer and claim type.
+      Primary dashboard table for executive reporting.
+    columns:
+      - name: service_year_month
+        description: "Year-month of service (YYYY-MM)"
+        tests:
+          - not_null
+
+  - name: mart_member_risk
+    description: >
+      Member risk stratification based on claims volume,
+      spend, and diagnosis diversity. Used for care management targeting.
+    columns:
+      - name: member_id
+        tests:
+          - not_null
+          - unique
+      - name: risk_tier
+        description: "Risk category: Low, Medium, High, Very High"
+        tests:
+          - accepted_values:
+              values: ["Low", "Medium", "High", "Very High"]
+
+  - name: mart_provider_scorecard
+    description: >
+      Provider performance scorecard with efficiency rankings.
+      Supports network adequacy and value-based contracting analysis.
+    columns:
+      - name: provider_id
+        tests:
+          - not_null
+          - unique
+
+  - name: mart_denial_analysis
+    description: >
+      Denial patterns by reason, payer, and provider.
+      Identifies revenue recovery opportunities.
+
+  - name: mart_utilization_metrics
+    description: >
+      Facility utilization: admission volumes, LOS, readmission indicators.
+      Supports capacity planning and quality reporting.
