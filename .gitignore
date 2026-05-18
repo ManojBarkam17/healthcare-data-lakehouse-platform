@@ -80,3 +80,5 @@ infrastructure/terraform/*.tfplan
 .coverage
 htmlcov/
 .pytest_cache/
+hadoop/ 
+output.txt 
