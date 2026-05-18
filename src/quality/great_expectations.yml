@@ -1,0 +1,46 @@
+# great_expectations.yml
+# Configuration for Healthcare Data Lakehouse quality gates.
+#
+# We use a lightweight, code-driven approach instead of the full GX
+# Data Context so the project stays self-contained with zero external
+# dependencies (no database backends, no cloud stores).
+
+config_version: 3.0
+
+datasources:
+  bronze_filesystem:
+    class_name: Datasource
+    module_name: great_expectations.datasource
+    execution_engine:
+      class_name: SparkDFExecutionEngine
+      module_name: great_expectations.execution_engine
+    data_connectors:
+      bronze_connector:
+        class_name: RuntimeDataConnector
+        batch_identifiers:
+          - batch_id
+
+  silver_filesystem:
+    class_name: Datasource
+    module_name: great_expectations.datasource
+    execution_engine:
+      class_name: SparkDFExecutionEngine
+      module_name: great_expectations.execution_engine
+    data_connectors:
+      silver_connector:
+        class_name: RuntimeDataConnector
+        batch_identifiers:
+          - batch_id
+
+  gold_duckdb:
+    class_name: Datasource
+    module_name: great_expectations.datasource
+    execution_engine:
+      class_name: SqlAlchemyExecutionEngine
+      module_name: great_expectations.execution_engine
+      connection_string: "duckdb:///data/gold/healthcare_warehouse.duckdb"
+    data_connectors:
+      gold_connector:
+        class_name: RuntimeDataConnector
+        batch_identifiers:
+          - batch_id
