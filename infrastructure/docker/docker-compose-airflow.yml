@@ -1,0 +1,111 @@
+# =============================================================================
+# Airflow Local Development — Docker Compose
+# =============================================================================
+# Spin up Airflow 2.8 with LocalExecutor + PostgreSQL metadata DB.
+# Usage:
+#   cd infrastructure/docker
+#   docker compose -f docker-compose-airflow.yml up -d
+#   Open http://localhost:8080 (admin / admin)
+#
+# Project code is mounted at /opt/airflow/project so DAGs can import
+# pipeline modules directly.
+# =============================================================================
+
+x-airflow-common: &airflow-common
+  build:
+    context: ../..
+    dockerfile: infrastructure/docker/Dockerfile.airflow
+  environment: &airflow-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+    AIRFLOW__CORE__FERNET_KEY: ''
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/project/dags
+    AIRFLOW__WEBSERVER__EXPOSE_CONFIG: 'true'
+    AIRFLOW__WEBSERVER__RBAC: 'true'
+    AIRFLOW_VAR_PROJECT_ROOT: /opt/airflow/project
+    PYTHONPATH: /opt/airflow/project
+    _PIP_ADDITIONAL_REQUIREMENTS: ''
+  volumes:
+    - ../../dags:/opt/airflow/project/dags
+    - ../../src:/opt/airflow/project/src
+    - ../../dbt_project:/opt/airflow/project/dbt_project
+    - ../../data:/opt/airflow/project/data
+    - ../../export_to_duckdb.py:/opt/airflow/project/export_to_duckdb.py
+    - ../../requirements.txt:/opt/airflow/project/requirements.txt
+    - airflow-logs:/opt/airflow/logs
+  depends_on:
+    postgres:
+      condition: service_healthy
+
+services:
+  # ---------------------------------------------------------------------------
+  # PostgreSQL — Airflow metadata database
+  # ---------------------------------------------------------------------------
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    ports:
+      - "5433:5432"          # 5433 to avoid conflict with local Postgres
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+    restart: unless-stopped
+
+  # ---------------------------------------------------------------------------
+  # Airflow Init — one-shot container to create DB + admin user
+  # ---------------------------------------------------------------------------
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        airflow db migrate
+        airflow users create \
+          --username admin \
+          --password admin \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com || true
+        echo "Airflow initialized successfully."
+    restart: "no"
+
+  # ---------------------------------------------------------------------------
+  # Airflow Webserver — UI at http://localhost:8080
+  # ---------------------------------------------------------------------------
+  airflow-webserver:
+    <<: *airflow-common
+    command: airflow webserver --port 8080
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+
+  # ---------------------------------------------------------------------------
+  # Airflow Scheduler — triggers DAG runs
+  # ---------------------------------------------------------------------------
+  airflow-scheduler:
+    <<: *airflow-common
+    command: airflow scheduler
+    healthcheck:
+      test: ["CMD-SHELL", "airflow jobs check --job-type SchedulerJob --hostname $(hostname)"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  postgres-data:
+  airflow-logs:
