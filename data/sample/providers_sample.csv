@@ -1,51 +1,51 @@
 provider_id,npi,first_name,last_name,specialty,facility_name,address,city,state,zip_code,tax_id,is_active,created_at
-811a8870-d441-4d59-a87a-9247d15fd679,1965482632,Kimberly,James,Neurology,Smith Health System,7836 Heidi Ford,East Rachelview,TX,10092,36-5329856,True,2026-05-17T23:16:37.001355
-3399186e-e7c3-4dac-b876-41f7b852c7b1,1840900181,Jessica,Herrera,Dermatology,Jensen Clinic,707 Ronald Burg Suite 461,Kristinbury,FL,58846,00-4917443,True,2026-05-17T23:16:37.002859
-df1e2907-7454-459b-be3d-ff2bcc5e19c2,1644053844,Paul,Kim,General Surgery,Keller Clinic,87621 Mcclain Station Suite 405,Teresahaven,TX,57796,61-8248741,True,2026-05-17T23:16:37.004341
-49e4a1c3-e2e1-4221-b5c3-205c6247d0e5,1457859780,Joshua,Burns,Psychiatry,Ward Hospital,141 Thompson Fords,Ginaburgh,MD,11269,22-3399821,True,2026-05-17T23:16:37.007321
-8645380e-d937-4b97-ae27-095da7a75ceb,1131264549,Lee,Floyd,Endocrinology,Smith Health System,20448 Leblanc Keys,Chavezfort,OH,09816,54-1766045,True,2026-05-17T23:16:37.007852
-b3b8dc98-9331-46cb-8f2f-df876145c3c3,1462856928,Robert,Chapman,Oncology,Hall Hospital,64576 Knapp Viaduct,Waltonfurt,TN,49317,76-6647608,True,2026-05-17T23:16:37.008310
-564d5ba2-bde4-4613-a4fd-b31d4ff0efc9,1793263796,Michael,Smith,Cardiology,Lambert Hospital,296 Rivera Islands Apt. 175,West Ashleyside,PA,68580,78-2988727,True,2026-05-17T23:16:37.008727
-976794d8-3f9c-429c-afe8-ba5ccabddee9,1676564508,Michael,Yang,Oncology,Thomas Clinic,1850 Zamora Extension,Bowersbury,MA,85088,86-4006724,True,2026-05-17T23:16:37.009089
-a619619a-7c65-463a-aca0-506102f60be9,1544478713,Robert,Choi,Oncology,Harris Medical Center,21430 Christopher Square,New Lori,IN,31835,30-1118406,True,2026-05-17T23:16:37.009419
-6206f97c-5641-44a9-8075-556d6e8d42ac,1878424329,Michael,Shaw,Neurology,Morris Clinic,5245 Ashley Cove Suite 143,Franklinview,MO,45909,78-3517983,True,2026-05-17T23:16:37.009774
-bc1155f5-3bd4-4eb5-8f17-b7fe6afec4aa,1323620127,Debra,Bryant,Obstetrics & Gynecology,Schaefer Clinic,5669 Mcpherson Gateway,Port Mary,VA,93830,95-8641782,True,2026-05-17T23:16:37.010105
-3da16769-765f-4500-9ea4-9ecf06f6b878,1260314927,Mark,Fleming,Dermatology,Mckee Medical Center,991 Anderson Wall,Villaport,NJ,83577,76-2936842,True,2026-05-17T23:16:37.010458
-208cddb2-4b70-4f7b-9ea8-67e31cca77ca,1772710898,Ryan,Heath,General Surgery,Copeland Health System,736 Cunningham Villages Apt. 102,Liton,MD,89587,95-2038721,True,2026-05-17T23:16:37.010825
-a0244deb-c603-4eaf-9964-fe1c48ee3e05,1301196574,Robyn,Martinez,Obstetrics & Gynecology,Dalton Medical Center,190 Nolan Street Suite 244,Barkerberg,MI,05173,16-5663393,True,2026-05-17T23:16:37.011184
-6fcdd9f7-163e-4722-a35f-b9b34c6fab89,1437691152,Tricia,Gomez,Pulmonology,Boyd Medical Center,26253 Stephanie Bridge Apt. 075,Sherylhaven,NC,37701,14-2024843,True,2026-05-17T23:16:37.011512
-9a844fc2-b18b-43e2-8a16-b375a3961cc7,1633708134,Karen,Reed,Oncology,Freeman Health System,93328 Melissa Route Suite 024,Adamborough,VA,11778,09-0771823,True,2026-05-17T23:16:37.011835
-b0e23b2a-d252-483f-8050-459c6bd337fa,1424945099,Erica,Park,Orthopedics,Allen Health Group,7376 Cooper Mill,Brownberg,MI,58672,57-3554814,True,2026-05-17T23:16:37.012182
-3bfec492-d429-4bd3-ab78-a87b473284c4,1501811039,Taylor,Davis,Gastroenterology,Stout Medical Center,1539 Lauren Ports Apt. 942,Zimmermanberg,OH,09541,50-1343390,True,2026-05-17T23:16:37.012891
-92d5d714-668e-4968-be6c-c13de2bd00a4,1576498805,Samuel,Kennedy,General Surgery,Bond Medical Center,247 Lopez Squares Apt. 299,East Shannonville,TN,90764,91-2759395,True,2026-05-17T23:16:37.013315
-3b61345a-55f4-477a-9e7e-6d67d7f2fade,1265439752,Leslie,Contreras,Orthopedics,Miller Clinic,11622 Martha Squares Suite 591,North Jenniferview,TN,25350,64-3644432,True,2026-05-17T23:16:37.013732
-79b10120-ba50-41b2-b236-55b701ab333e,1662241242,Kaitlyn,Elliott,Dermatology,Bauer Clinic,2200 Soto Expressway,Sandershaven,PA,31824,52-7808785,True,2026-05-17T23:16:37.014157
-97dca00a-22e4-4008-b4b5-ef929f0014b1,1205496809,Elizabeth,Rodriguez,Endocrinology,Guzman Health Group,85300 Brianna Circle,Lewisberg,PA,45341,86-7754658,True,2026-05-17T23:16:37.014502
-cdc52518-a91f-4e04-a47e-f7f46898ddc4,1139247989,Robert,Mendoza,Emergency Medicine,Tran Hospital,0344 Little Forges Apt. 465,Foleyhaven,IN,37862,15-4635175,True,2026-05-17T23:16:37.014875
-d88d889c-64e7-4021-86a7-a5fb23143fce,1433913647,Troy,Edwards,Oncology,Travis Medical Center,517 Carroll Lights,Janeshire,WI,47808,96-5600337,True,2026-05-17T23:16:37.015234
-cfb40ab6-11d5-494a-a627-c46387bfd76a,1457867151,Julie,Hernandez,Emergency Medicine,Hudson Medical Center,484 Christopher Port Apt. 225,Lake Josephstad,NY,63409,95-3723766,True,2026-05-17T23:16:37.015563
-7ba5c75b-90f0-4ec4-a057-e1477687a6aa,1807578984,Brandon,Jones,Pulmonology,Thomas Clinic,3029 Williams Club Apt. 722,North Allen,TX,26756,52-4392295,True,2026-05-17T23:16:37.015905
-bc2cc444-c990-47e4-960c-2cbecb35a775,1435160886,Antonio,Moran,Neurology,Nunez Health System,628 Johnson Valley Suite 953,New Taylorborough,NJ,86907,47-6790078,True,2026-05-17T23:16:37.016268
-1e2c3c4e-17db-4373-ba9c-62ed4c5b9391,1407699378,Eric,Turner,Dermatology,Jordan Health Group,9483 Noble Viaduct Apt. 943,Wagnerstad,NJ,96023,08-5592562,True,2026-05-17T23:16:37.016627
-5b46869e-32ef-4747-a328-6ce72f0d6f6c,1820613955,Ashley,Sparks,Family Medicine,Bennett Clinic,25727 Crystal Hollow,Weeksburgh,PA,62573,04-7233446,True,2026-05-17T23:16:37.016964
-2926a9e4-8840-4b72-8d48-22a0214a37e1,1222900917,Robert,Garcia,Internal Medicine,Gomez Health Group,618 Tina Ways Suite 288,Toddhaven,MO,91648,87-9244940,True,2026-05-17T23:16:37.017309
-eedde11e-b469-4753-aa5a-c26b959fe38a,1321810768,Karen,Frazier,General Surgery,Hogan Clinic,86956 Jerome Hills Suite 088,Lake Diana,MO,13804,83-8016934,True,2026-05-17T23:16:37.017636
-4f71ccd5-f44b-4fe1-8f8b-568d1b43e2a5,1251995483,Taylor,Richards,Pulmonology,Ballard Clinic,7939 Christopher Spring,East Sarah,MD,04145,16-3185200,True,2026-05-17T23:16:37.017956
-0bb7a5ff-000c-425f-930f-6b3977ededf3,1176496452,Courtney,Allen,Dermatology,Garcia Health Group,13363 Kelly Avenue,North Gary,NJ,06464,23-1896720,True,2026-05-17T23:16:37.018287
-dac34743-8091-407e-aabb-b3b4cf699b72,1154466824,Martha,White,Cardiology,Bailey Medical Center,17756 Alan Avenue,Lake Bonnieland,TN,61176,65-3244834,True,2026-05-17T23:16:37.018613
-ee263855-8509-4c76-8f12-dea291e371c8,1154176732,Vickie,Mueller,Family Medicine,Dixon Hospital,51547 Graham Crescent Apt. 708,Smithfort,CA,18933,82-0400938,True,2026-05-17T23:16:37.018973
-f7a0c3cf-243d-4eb2-bdb4-fcfe564b975a,1520817418,Alec,Kane,Cardiology,Fitzpatrick Health Group,9123 Daniel Shores,North Nicholasborough,MD,23825,41-8325276,True,2026-05-17T23:16:37.019296
-92c67eb9-5af8-410a-b50f-dbec57e08c4d,1841015965,Ethan,Hernandez,Pulmonology,Melton Hospital,31167 Swanson Expressway,East Pamela,WI,65264,01-1678116,True,2026-05-17T23:16:37.019633
-7e0bfde2-bcb0-4ae7-9b2d-06b66e64b13b,1456838867,Vanessa,Mcdonald,Endocrinology,Calderon Health System,290 Luis Isle Apt. 864,South Scott,MO,02564,22-0994175,True,2026-05-17T23:16:37.019952
-14f240b8-9ade-4b66-8d5b-21a3e3bf984d,1911472797,Jason,Vincent,Gastroenterology,Campbell Hospital,3198 Maxwell Circle,Anthonymouth,MD,42408,08-4852846,True,2026-05-17T23:16:37.020300
-c4399b8f-d72c-43f8-98ba-4c1b1efbbee2,1972792130,Sarah,Griffin,Gastroenterology,Hall Hospital,467 Williams Avenue Apt. 076,Donnaton,NY,45031,83-5501727,True,2026-05-17T23:16:37.020666
-9e94c4ab-a764-4501-8bc8-936ec75352cf,1834952627,Gary,Davidson,Neurology,Holden Hospital,282 David Spurs,East Alex,TN,14648,12-1340636,True,2026-05-17T23:16:37.021025
-8631a572-3681-4e94-8af2-7af3b532e0e7,1340297471,Amanda,Jones,Cardiology,Williamson Health Group,0240 Edwards Circles,Littleview,NC,62710,11-7064857,True,2026-05-17T23:16:37.021946
-bd3cc2fd-e098-4d45-b7b8-28ae1ebb9ff6,1520989391,Ashley,Gaines,Cardiology,Hawkins Clinic,124 Seth Shore,West Cynthiaside,NJ,90251,13-8819011,True,2026-05-17T23:16:37.022387
-c4af3c48-f483-46c9-bed4-b26af1db44e1,1132495867,Wendy,Rush,Family Medicine,Hill Hospital,676 Gonzales Cliffs Suite 249,Rojasville,NY,63931,09-2176451,True,2026-05-17T23:16:37.022811
-f28c7858-8de4-4df2-967d-34a16ed6a482,1595254481,Sarah,Webb,Endocrinology,Meza Health System,23804 Bernard Inlet,Wagnerburgh,MI,58228,72-5320959,True,2026-05-17T23:16:37.023195
-4f0effcf-ee65-4b31-8062-3c232a33079e,1749012758,Dawn,White,Obstetrics & Gynecology,Adams Health System,58727 Christine Wells Apt. 357,East Hollyview,IN,04434,93-9866398,True,2026-05-17T23:16:37.023561
-3d4d833a-57c9-48bf-a1f9-4088f5b497cd,1977840731,Kyle,Cruz,Pulmonology,Ferguson Medical Center,73983 Sharp Lock Suite 239,New Jessicachester,NJ,87206,76-2273533,True,2026-05-17T23:16:37.023914
-eafc3d3c-fe0b-45cf-af58-95557c024a0c,1176154050,Melody,Jacobson,Gastroenterology,Crosby Clinic,16633 Chan Crescent,Hayleyberg,MO,12542,56-3452636,True,2026-05-17T23:16:37.024264
-c3670f12-59c2-4251-800d-260ff8e85747,1734083157,George,Melton,Pediatrics,Hawkins Health System,35704 Adams Lake,Lake Rebeccaport,WI,27159,44-2111754,True,2026-05-17T23:16:37.024598
-8dcc08da-6562-40c2-ba62-b3a487a33c5c,1270746733,Pamela,Baker,Emergency Medicine,Frey Hospital,4218 White Road Suite 638,West Charlesville,FL,16625,64-7924642,True,2026-05-17T23:16:37.024943
+83601152-9cf1-45ba-a04c-a71482a3aca8,1965482632,Kimberly,James,Neurology,Smith Health System,7836 Heidi Ford,East Rachelview,TX,10092,36-5329856,True,2026-05-17T23:45:43.935921
+228347eb-714c-462e-8bf6-e56f6bd23e6c,1840900181,Jessica,Herrera,Dermatology,Jensen Clinic,707 Ronald Burg Suite 461,Kristinbury,FL,58846,00-4917443,True,2026-05-17T23:45:43.936331
+71538ba8-2692-4449-999f-fc3512f64480,1644053844,Paul,Kim,General Surgery,Keller Clinic,87621 Mcclain Station Suite 405,Teresahaven,TX,57796,61-8248741,True,2026-05-17T23:45:43.936700
+e731f324-8fca-40ac-8d2a-1150b252d932,1457859780,Joshua,Burns,Psychiatry,Ward Hospital,141 Thompson Fords,Ginaburgh,MD,11269,22-3399821,True,2026-05-17T23:45:43.937037
+16658284-db09-4620-905f-ef32d540d498,1131264549,Lee,Floyd,Endocrinology,Smith Health System,20448 Leblanc Keys,Chavezfort,OH,09816,54-1766045,True,2026-05-17T23:45:43.937799
+9aa5e725-bb6c-40ee-b573-1f9dbe7e7828,1462856928,Robert,Chapman,Oncology,Hall Hospital,64576 Knapp Viaduct,Waltonfurt,TN,49317,76-6647608,True,2026-05-17T23:45:43.938325
+9ffe13f6-cb4c-4d34-b085-ea0ac3c24faa,1793263796,Michael,Smith,Cardiology,Lambert Hospital,296 Rivera Islands Apt. 175,West Ashleyside,PA,68580,78-2988727,True,2026-05-17T23:45:43.938784
+1a82435f-9d22-4f7b-bbb9-8c2910553020,1676564508,Michael,Yang,Oncology,Thomas Clinic,1850 Zamora Extension,Bowersbury,MA,85088,86-4006724,True,2026-05-17T23:45:43.939163
+6905fa16-1b0a-414a-9b10-961c94f18b7f,1544478713,Robert,Choi,Oncology,Harris Medical Center,21430 Christopher Square,New Lori,IN,31835,30-1118406,True,2026-05-17T23:45:43.939508
+50133c9d-8310-422e-b0c2-3f57a199e44d,1878424329,Michael,Shaw,Neurology,Morris Clinic,5245 Ashley Cove Suite 143,Franklinview,MO,45909,78-3517983,True,2026-05-17T23:45:43.939856
+6acd1139-ed9d-42c3-a4f6-b7457400a2a1,1323620127,Debra,Bryant,Obstetrics & Gynecology,Schaefer Clinic,5669 Mcpherson Gateway,Port Mary,VA,93830,95-8641782,True,2026-05-17T23:45:43.940215
+ecfa03d1-f5e4-43fe-8813-58dc562c122b,1260314927,Mark,Fleming,Dermatology,Mckee Medical Center,991 Anderson Wall,Villaport,NJ,83577,76-2936842,True,2026-05-17T23:45:43.940612
+841d8cb5-b998-4824-b09d-fb1d3499f1e8,1772710898,Ryan,Heath,General Surgery,Copeland Health System,736 Cunningham Villages Apt. 102,Liton,MD,89587,95-2038721,True,2026-05-17T23:45:43.940990
+ab58e074-c20e-44c4-97f0-b253fed5de53,1301196574,Robyn,Martinez,Obstetrics & Gynecology,Dalton Medical Center,190 Nolan Street Suite 244,Barkerberg,MI,05173,16-5663393,True,2026-05-17T23:45:43.941459
+a9d8f8d3-f020-47ad-8d6c-df819cde1883,1437691152,Tricia,Gomez,Pulmonology,Boyd Medical Center,26253 Stephanie Bridge Apt. 075,Sherylhaven,NC,37701,14-2024843,True,2026-05-17T23:45:43.941836
+306ba383-386a-4e2e-9602-06e535ece2ac,1633708134,Karen,Reed,Oncology,Freeman Health System,93328 Melissa Route Suite 024,Adamborough,VA,11778,09-0771823,True,2026-05-17T23:45:43.942230
+7c31d824-f707-4702-b630-38d454448536,1424945099,Erica,Park,Orthopedics,Allen Health Group,7376 Cooper Mill,Brownberg,MI,58672,57-3554814,True,2026-05-17T23:45:43.942654
+2e2c60e6-687d-4536-aac6-f8805fb14b0d,1501811039,Taylor,Davis,Gastroenterology,Stout Medical Center,1539 Lauren Ports Apt. 942,Zimmermanberg,OH,09541,50-1343390,True,2026-05-17T23:45:43.943048
+cc45a954-ec04-4a34-ad2b-ca8a037096dd,1576498805,Samuel,Kennedy,General Surgery,Bond Medical Center,247 Lopez Squares Apt. 299,East Shannonville,TN,90764,91-2759395,True,2026-05-17T23:45:43.943411
+130a34b2-0579-43e2-9e0c-f78ab5847f98,1265439752,Leslie,Contreras,Orthopedics,Miller Clinic,11622 Martha Squares Suite 591,North Jenniferview,TN,25350,64-3644432,True,2026-05-17T23:45:43.943748
+29505ba2-6172-4428-b524-8ce03bc6592f,1662241242,Kaitlyn,Elliott,Dermatology,Bauer Clinic,2200 Soto Expressway,Sandershaven,PA,31824,52-7808785,True,2026-05-17T23:45:43.944146
+ffc96e7a-1817-4d0a-9961-95e345a15f26,1205496809,Elizabeth,Rodriguez,Endocrinology,Guzman Health Group,85300 Brianna Circle,Lewisberg,PA,45341,86-7754658,True,2026-05-17T23:45:43.944522
+19b62de4-0899-4016-86d9-42b8c76a768a,1139247989,Robert,Mendoza,Emergency Medicine,Tran Hospital,0344 Little Forges Apt. 465,Foleyhaven,IN,37862,15-4635175,True,2026-05-17T23:45:43.944883
+0f47fcc3-c582-4e96-a363-c43bf218aa46,1433913647,Troy,Edwards,Oncology,Travis Medical Center,517 Carroll Lights,Janeshire,WI,47808,96-5600337,True,2026-05-17T23:45:43.945248
+9f20120a-dd12-4125-983f-641456cc0eb7,1457867151,Julie,Hernandez,Emergency Medicine,Hudson Medical Center,484 Christopher Port Apt. 225,Lake Josephstad,NY,63409,95-3723766,True,2026-05-17T23:45:43.945633
+92937b90-1b0e-46d3-9ddf-356ec3d4946c,1807578984,Brandon,Jones,Pulmonology,Thomas Clinic,3029 Williams Club Apt. 722,North Allen,TX,26756,52-4392295,True,2026-05-17T23:45:43.945988
+aab64b12-d21c-40fb-ac14-997749a1a7af,1435160886,Antonio,Moran,Neurology,Nunez Health System,628 Johnson Valley Suite 953,New Taylorborough,NJ,86907,47-6790078,True,2026-05-17T23:45:43.946472
+d6e41814-e669-44a6-a353-5862aee656d0,1407699378,Eric,Turner,Dermatology,Jordan Health Group,9483 Noble Viaduct Apt. 943,Wagnerstad,NJ,96023,08-5592562,True,2026-05-17T23:45:43.946855
+f6838aae-ccb1-4a6e-82c1-28f9de848499,1820613955,Ashley,Sparks,Family Medicine,Bennett Clinic,25727 Crystal Hollow,Weeksburgh,PA,62573,04-7233446,True,2026-05-17T23:45:43.947385
+d8dcea62-35e4-4f15-93ea-83eb251aca69,1222900917,Robert,Garcia,Internal Medicine,Gomez Health Group,618 Tina Ways Suite 288,Toddhaven,MO,91648,87-9244940,True,2026-05-17T23:45:43.948043
+c13ef13d-f55b-4f65-81ef-a0687e972298,1321810768,Karen,Frazier,General Surgery,Hogan Clinic,86956 Jerome Hills Suite 088,Lake Diana,MO,13804,83-8016934,True,2026-05-17T23:45:43.948609
+808447eb-1fbf-48a8-991e-1fb64139348d,1251995483,Taylor,Richards,Pulmonology,Ballard Clinic,7939 Christopher Spring,East Sarah,MD,04145,16-3185200,True,2026-05-17T23:45:43.948973
+45e620ff-5b36-4274-92df-1df8ce7eff4a,1176496452,Courtney,Allen,Dermatology,Garcia Health Group,13363 Kelly Avenue,North Gary,NJ,06464,23-1896720,True,2026-05-17T23:45:43.949296
+a2e3e096-49bb-4f06-b3da-6ea8b2e8bc78,1154466824,Martha,White,Cardiology,Bailey Medical Center,17756 Alan Avenue,Lake Bonnieland,TN,61176,65-3244834,True,2026-05-17T23:45:43.949620
+f34ef6ee-4e4c-4c49-8034-ce64bd4ed1b9,1154176732,Vickie,Mueller,Family Medicine,Dixon Hospital,51547 Graham Crescent Apt. 708,Smithfort,CA,18933,82-0400938,True,2026-05-17T23:45:43.949998
+d3a89f87-5acd-4523-a919-a14413750b23,1520817418,Alec,Kane,Cardiology,Fitzpatrick Health Group,9123 Daniel Shores,North Nicholasborough,MD,23825,41-8325276,True,2026-05-17T23:45:43.950328
+73e078cd-9b47-4526-8e17-22495ad94c3c,1841015965,Ethan,Hernandez,Pulmonology,Melton Hospital,31167 Swanson Expressway,East Pamela,WI,65264,01-1678116,True,2026-05-17T23:45:43.950700
+bc961efe-53ca-49a7-85ef-2cba5c7085b2,1456838867,Vanessa,Mcdonald,Endocrinology,Calderon Health System,290 Luis Isle Apt. 864,South Scott,MO,02564,22-0994175,True,2026-05-17T23:45:43.951067
+ef652896-e4fd-4433-8003-8f993c51d378,1911472797,Jason,Vincent,Gastroenterology,Campbell Hospital,3198 Maxwell Circle,Anthonymouth,MD,42408,08-4852846,True,2026-05-17T23:45:43.951433
+34d62791-aa90-487c-8038-98a4b4c00b0a,1972792130,Sarah,Griffin,Gastroenterology,Hall Hospital,467 Williams Avenue Apt. 076,Donnaton,NY,45031,83-5501727,True,2026-05-17T23:45:43.951769
+164452af-8371-47eb-bcaa-be7af65f4630,1834952627,Gary,Davidson,Neurology,Holden Hospital,282 David Spurs,East Alex,TN,14648,12-1340636,True,2026-05-17T23:45:43.952076
+58202c1f-cbb1-426d-bda1-86eaf8d28e88,1340297471,Amanda,Jones,Cardiology,Williamson Health Group,0240 Edwards Circles,Littleview,NC,62710,11-7064857,True,2026-05-17T23:45:43.952423
+ba33e8bc-f565-46a2-b688-b58c15b49853,1520989391,Ashley,Gaines,Cardiology,Hawkins Clinic,124 Seth Shore,West Cynthiaside,NJ,90251,13-8819011,True,2026-05-17T23:45:43.952730
+e4e2832e-13d6-4044-a36e-60f3eecf550c,1132495867,Wendy,Rush,Family Medicine,Hill Hospital,676 Gonzales Cliffs Suite 249,Rojasville,NY,63931,09-2176451,True,2026-05-17T23:45:43.953132
+19499bf8-2092-4964-9824-7cb139e40c08,1595254481,Sarah,Webb,Endocrinology,Meza Health System,23804 Bernard Inlet,Wagnerburgh,MI,58228,72-5320959,True,2026-05-17T23:45:43.953755
+9ec0b173-2954-40c3-a4bf-7db5a292cdf9,1749012758,Dawn,White,Obstetrics & Gynecology,Adams Health System,58727 Christine Wells Apt. 357,East Hollyview,IN,04434,93-9866398,True,2026-05-17T23:45:43.954105
+8a1cd0c6-2b20-4148-b87f-509cd214d810,1977840731,Kyle,Cruz,Pulmonology,Ferguson Medical Center,73983 Sharp Lock Suite 239,New Jessicachester,NJ,87206,76-2273533,True,2026-05-17T23:45:43.954468
+b3fdca96-8bb6-4455-9bdc-a3e2378876e6,1176154050,Melody,Jacobson,Gastroenterology,Crosby Clinic,16633 Chan Crescent,Hayleyberg,MO,12542,56-3452636,True,2026-05-17T23:45:43.954810
+66461031-44c6-4fc3-b135-4bf4fd8e564c,1734083157,George,Melton,Pediatrics,Hawkins Health System,35704 Adams Lake,Lake Rebeccaport,WI,27159,44-2111754,True,2026-05-17T23:45:43.955152
+c81ef2be-2c37-4146-8a31-d64aeb0d4b0b,1270746733,Pamela,Baker,Emergency Medicine,Frey Hospital,4218 White Road Suite 638,West Charlesville,FL,16625,64-7924642,True,2026-05-17T23:45:43.955491
