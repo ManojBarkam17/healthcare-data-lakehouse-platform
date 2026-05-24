@@ -170,7 +170,7 @@ fact_claims = (
     )
     .select(
         "claim_id", "member_key", "provider_key", "payer_key",
-        F.col("total_charge").alias("claim_amount"),
+        F.col("total_charge_amount").alias("claim_amount"),
         F.col("allowed_amount"),
         F.col("paid_amount"),
         "status", "service_date", "submission_date",
