@@ -1,12 +1,18 @@
 # Healthcare Data Lakehouse Platform
 
+<p align="center">
+  <a href="https://bklxsx46xfq8sabsbuzjg9.streamlit.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"></a>
+  <a href="https://bklxsx46xfq8sabsbuzjg9.streamlit.app/"><img src="https://img.shields.io/badge/VISIT_DASHBOARD-Streamlit_Cloud-FF6F00?style=for-the-badge" alt="Visit Dashboard"></a>
+  <a href="https://www.linkedin.com/in/manojbarkam17"><img src="https://img.shields.io/badge/LINKEDIN-MANOJ_BARKAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ManojBarkam17"><img src="https://img.shields.io/badge/GITHUB-MANOJBARKAM17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 [![CI Pipeline](https://github.com/ManojBarkam17/healthcare-data-lakehouse-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ManojBarkam17/healthcare-data-lakehouse-platform/actions/workflows/ci.yml)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![PySpark 3.5](https://img.shields.io/badge/PySpark-3.5.1-orange.svg)](https://spark.apache.org/)
 [![Delta Lake 3.1](https://img.shields.io/badge/Delta%20Lake-3.1.0-00ADD8.svg)](https://delta.io/)
 [![dbt 1.8](https://img.shields.io/badge/dbt-1.8.3-FF694B.svg)](https://www.getdbt.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B.svg)](https://bklxsx46xfq8sabsbuzjg9.streamlit.app/)
 
 A production-grade data lakehouse for healthcare claims analytics, implementing the **medallion architecture** (Bronze/Silver/Gold) with PySpark, Delta Lake, dbt, and modern data engineering best practices. Designed to run entirely locally at $0 cost while demonstrating enterprise-level patterns.
 
