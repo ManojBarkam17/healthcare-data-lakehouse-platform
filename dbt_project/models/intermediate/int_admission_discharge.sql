@@ -40,7 +40,7 @@ paired as (
         d.discharge_timestamp,
         -- Length of stay in days (0 = same-day discharge)
         cast(
-            extract(epoch from (d.discharge_timestamp - a.admit_timestamp)) / 86400.0
+            date_diff('day', a.admit_timestamp, d.discharge_timestamp)
             as decimal(10, 2)
         ) as length_of_stay_days
     from admissions a
