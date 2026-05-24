@@ -6,10 +6,6 @@ with admissions as (
     select * from {{ ref('int_admission_discharge') }}
 ),
 
-adt_events as (
-    select * from {{ ref('stg_adt_events') }}
-),
-
 facility_metrics as (
     select
         a.facility_name,
@@ -32,21 +28,9 @@ facility_metrics as (
 
     from admissions a
     group by 1, 2
-),
-
--- Monthly event volumes for trend analysis
-monthly_events as (
-    select
-        facility_name,
-        event_year_month,
-        event_type_description,
-        count(*) as event_count
-    from adt_events
-    group by 1, 2, 3
 )
 
 select
     f.*,
-    -- Add monthly trend as a nested summary
     round(f.avg_los_days, 2) as avg_los_days_rounded
 from facility_metrics f
