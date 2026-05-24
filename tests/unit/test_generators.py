@@ -1,8 +1,6 @@
 """Tests for src.ingestion.generators — synthetic data generation."""
 
 import json
-from datetime import date, datetime
-
 import pytest
 
 from src.ingestion.generators import (
