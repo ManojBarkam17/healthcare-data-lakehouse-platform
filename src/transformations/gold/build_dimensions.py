@@ -19,10 +19,9 @@ from datetime import datetime
 from pathlib import Path
 
 import click
-from pyspark.sql import DataFrame, SparkSession
+from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
 from pyspark.sql import types as T
-from pyspark.sql.window import Window
 
 from src.utils.config import get_config
 from src.utils.logger import get_logger
