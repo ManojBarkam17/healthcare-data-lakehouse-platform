@@ -408,7 +408,7 @@ Pre-commit hooks enforce: trailing whitespace, YAML/JSON validity, Ruff lint+for
 **Manoj Chandra** — Data Engineer
 
 - GitHub: [@ManojBarkam17](https://github.com/ManojBarkam17)
-- Email: manojchandrabittu@gmail.com
+- Email: manoj.barkam17@gmail.com
 
 ---
 
