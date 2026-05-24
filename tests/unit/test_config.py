@@ -1,11 +1,8 @@
 """Tests for src.utils.config — configuration management."""
 
-import os
-from pathlib import Path
-
 import pytest
 
-from src.utils.config import Config, DataScale, SCALES, get_config, PROJECT_ROOT
+from src.utils.config import PROJECT_ROOT, SCALES, Config, get_config
 
 
 class TestDataScale:
