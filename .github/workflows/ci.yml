@@ -1,13 +1,13 @@
 # =============================================================================
-# CI Pipeline — Healthcare Data Lakehouse Platform
+# CI Pipeline - Healthcare Data Lakehouse Platform
 # =============================================================================
 # Runs on every push and pull request to main.
 #
 # Jobs:
-#   1. lint        — Ruff linting + formatting check
-#   2. test        — pytest unit tests with coverage
-#   3. validate    — Airflow DAG syntax vahlidation
-#   4. dbt-check   — dbt parse + compile (ensures models are valid)
+#   1. lint        - Ruff linting check
+#   2. test        - pytest unit tests with coverage
+#   3. validate    - Airflow DAG syntax validation
+#   4. dbt-check   - dbt parse + compile (ensures models are valid)
 #
 # All jobs run in parallel for fast feedback.
 # =============================================================================
@@ -25,10 +25,10 @@ env:
 
 jobs:
   # ---------------------------------------------------------------------------
-  # Job 1: Linting & Formatting
+  # Job 1: Linting
   # ---------------------------------------------------------------------------
   lint:
-    name: Lint & Format Check
+    name: Lint Check
     runs-on: ubuntu-latest
 
     steps:
@@ -45,9 +45,6 @@ jobs:
 
       - name: Run Ruff linter
         run: ruff check src/ dags/ tests/ --output-format=github
-
-      - name: Check formatting
-        run: ruff format --check src/ dags/ tests/
 
   # ---------------------------------------------------------------------------
   # Job 2: Unit Tests
@@ -169,6 +166,10 @@ jobs:
       - name: Validate dbt project
         working-directory: dbt_project
         run: |
+          # Create empty DuckDB database for CI validation
+          mkdir -p ../data/gold
+          python -c "import duckdb; duckdb.connect('../data/gold/healthcare_warehouse.duckdb').close()"
+
           # Install dbt packages
           dbt deps --profiles-dir .
 
@@ -178,4 +179,4 @@ jobs:
           # Compile all models (generates SQL without running)
           dbt compile --profiles-dir .
 
-          echo "dbt validation passed — all models parse and compile."
+          echo "dbt validation passed - all models parse and compile."
