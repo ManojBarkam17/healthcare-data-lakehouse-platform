@@ -1,6 +1,7 @@
 """Tests for src.ingestion.generators — synthetic data generation."""
 
 import json
+
 import pytest
 
 from src.ingestion.generators import (
@@ -24,14 +25,25 @@ class TestGenerateMembers:
 
     def test_member_has_required_fields(self, members):
         required = {
-            "member_id", "first_name", "last_name", "date_of_birth",
-            "gender", "ssn", "address", "city", "state", "zip_code",
-            "phone", "email", "plan_type", "effective_date",
+            "member_id",
+            "first_name",
+            "last_name",
+            "date_of_birth",
+            "gender",
+            "ssn",
+            "address",
+            "city",
+            "state",
+            "zip_code",
+            "phone",
+            "email",
+            "plan_type",
+            "effective_date",
         }
         for member in members:
-            assert required.issubset(set(member.keys())), (
-                f"Missing fields: {required - set(member.keys())}"
-            )
+            assert required.issubset(
+                set(member.keys())
+            ), f"Missing fields: {required - set(member.keys())}"
 
     def test_member_id_format(self, members):
         for member in members:
@@ -117,7 +129,12 @@ class TestGenerateClaims:
 
     @pytest.fixture
     def claims_result(self, members, providers, payers):
-        return generate_claims(20, members, providers, payers)
+        return generate_claims(
+            20,
+            [m["member_id"] for m in members],
+            [p["provider_id"] for p in providers],
+            [p["payer_id"] for p in payers],
+        )
 
     def test_returns_headers_and_lines(self, claims_result):
         headers, lines = claims_result
@@ -161,7 +178,11 @@ class TestGenerateADTEvents:
 
     @pytest.fixture
     def events(self, members, providers):
-        return generate_adt_events(15, members, providers)
+        return generate_adt_events(
+            15,
+            [m["member_id"] for m in members],
+            [p["provider_id"] for p in providers],
+        )
 
     def test_generates_correct_count(self, events):
         assert len(events) == 15
