@@ -6,7 +6,7 @@
 # Jobs:
 #   1. lint        — Ruff linting + formatting check
 #   2. test        — pytest unit tests with coverage
-#   3. validate    — Airflow DAG syntax validation
+#   3. validate    — Airflow DAG syntax vahlidation
 #   4. dbt-check   — dbt parse + compile (ensures models are valid)
 #
 # All jobs run in parallel for fast feedback.
@@ -75,14 +75,14 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements-dev.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
 
       - name: Run tests with coverage
         run: |
