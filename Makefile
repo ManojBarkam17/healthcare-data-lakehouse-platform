@@ -8,10 +8,10 @@ help: ## Show this help
 # ─── Setup ────────────────────────────────────────────────────────────────────
 
 install: ## Install Python dependencies
-	pip install -r requirements.txt
+	pip install -r requirements-dev.txt
 
 install-dev: ## Install dev + test dependencies
-	pip install -r requirements.txt
+	pip install -r requirements-dev.txt
 	pip install ruff mypy pytest pytest-cov
 
 # ─── Code Quality ─────────────────────────────────────────────────────────────
@@ -51,13 +51,13 @@ pipeline: generate-data bronze silver gold ## Run full pipeline end-to-end
 # ─── dbt ──────────────────────────────────────────────────────────────────────
 
 dbt-run: ## Run dbt models
-	cd dbt && dbt run
+	cd dbt_project && dbt run
 
 dbt-test: ## Run dbt tests
-	cd dbt && dbt test
+	cd dbt_project && dbt test
 
 dbt-docs: ## Generate and serve dbt docs
-	cd dbt && dbt docs generate && dbt docs serve --port 8081
+	cd dbt_project && dbt docs generate && dbt docs serve --port 8081
 
 # ─── Data Quality ─────────────────────────────────────────────────────────────
 
@@ -72,7 +72,7 @@ streamlit: ## Launch Streamlit dashboard
 # ─── Demo Modes ───────────────────────────────────────────────────────────────
 
 demo-full: ## Full Docker Compose stack (16GB RAM required)
-	docker compose -f infrastructure/docker/docker-compose.yml up --build
+	docker compose -f infrastructure/docker/docker-compose-airflow.yml up --build
 
 demo-light: ## Lightweight local demo (8GB RAM, no Docker)
 	@echo "=== Healthcare Data Lakehouse - Light Demo ==="
@@ -85,24 +85,24 @@ demo-light: ## Lightweight local demo (8GB RAM, no Docker)
 	@echo "Building Gold dimensions..."
 	python -m src.transformations.gold.build_dimensions
 	@echo "Running dbt models..."
-	cd dbt && dbt run && dbt test
+	cd dbt_project && dbt run && dbt test
 	@echo "Launching dashboard..."
 	streamlit run streamlit_app/app.py --server.port 8501
 
 # ─── Docker ───────────────────────────────────────────────────────────────────
 
 docker-up: ## Start Docker services
-	docker compose -f infrastructure/docker/docker-compose.yml up -d
+	docker compose -f infrastructure/docker/docker-compose-airflow.yml up -d
 
 docker-down: ## Stop Docker services
-	docker compose -f infrastructure/docker/docker-compose.yml down -v
+	docker compose -f infrastructure/docker/docker-compose-airflow.yml down -v
 
 # ─── Cleanup ──────────────────────────────────────────────────────────────────
 
 clean: ## Remove generated data and build artifacts
 	rm -rf data/raw/*.csv data/raw/*.json
 	rm -rf data/bronze/ data/silver/ data/gold/
-	rm -rf dbt/target/ dbt/dbt_packages/ dbt/logs/
+	rm -rf dbt_project/target/ dbt_project/dbt_packages/ dbt_project/logs/
 	rm -rf spark-warehouse/ metastore_db/ derby.log
 	rm -rf .pytest_cache/ htmlcov/ .coverage
 	find . -type d -name __pycache__ -exec rm -rf {} + 2>/dev/null || true
