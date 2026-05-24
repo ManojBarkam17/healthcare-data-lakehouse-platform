@@ -40,4 +40,4 @@ ruff==0.4.8
 
 # Utilities
 python-dotenv==1.0.1
-sqlalchemy==2.0.30
+sqlalchemy==1.4.52
