@@ -1,0 +1,181 @@
+# =============================================================================
+# CI Pipeline — Healthcare Data Lakehouse Platform
+# =============================================================================
+# Runs on every push and pull request to main.
+#
+# Jobs:
+#   1. lint        — Ruff linting + formatting check
+#   2. test        — pytest unit tests with coverage
+#   3. validate    — Airflow DAG syntax validation
+#   4. dbt-check   — dbt parse + compile (ensures models are valid)
+#
+# All jobs run in parallel for fast feedback.
+# =============================================================================
+
+name: CI Pipeline
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+env:
+  PYTHON_VERSION: "3.10"
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # Job 1: Linting & Formatting
+  # ---------------------------------------------------------------------------
+  lint:
+    name: Lint & Format Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install Ruff
+        run: pip install ruff==0.4.8
+
+      - name: Run Ruff linter
+        run: ruff check src/ dags/ tests/ --output-format=github
+
+      - name: Check formatting
+        run: ruff format --check src/ dags/ tests/
+
+  # ---------------------------------------------------------------------------
+  # Job 2: Unit Tests
+  # ---------------------------------------------------------------------------
+  test:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Set up Java 17 (for PySpark)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tests with coverage
+        run: |
+          pytest tests/ \
+            --cov=src \
+            --cov-report=term-missing \
+            --cov-report=xml:coverage.xml \
+            --tb=short \
+            -v
+
+      - name: Upload coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: coverage.xml
+
+  # ---------------------------------------------------------------------------
+  # Job 3: Airflow DAG Validation
+  # ---------------------------------------------------------------------------
+  validate-dags:
+    name: Validate Airflow DAGs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install Airflow (standalone)
+        run: |
+          pip install "apache-airflow==2.9.1" \
+            --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.9.1/constraints-3.10.txt"
+
+      - name: Validate DAG syntax
+        run: |
+          export AIRFLOW_HOME=$(mktemp -d)
+          export AIRFLOW__CORE__DAGS_FOLDER=$PWD/dags
+          export AIRFLOW__CORE__LOAD_EXAMPLES=false
+          export PYTHONPATH=$PWD
+
+          # Initialize Airflow DB (SQLite for validation only)
+          airflow db migrate > /dev/null 2>&1
+
+          # Check DAG import errors
+          echo "Checking DAG import errors..."
+          python -c "
+          import subprocess, sys
+          result = subprocess.run(
+              ['airflow', 'dags', 'list', '--output', 'plain'],
+              capture_output=True, text=True
+          )
+          print(result.stdout)
+          if result.returncode != 0:
+              print('STDERR:', result.stderr)
+              sys.exit(1)
+          print('All DAGs validated successfully.')
+          "
+
+  # ---------------------------------------------------------------------------
+  # Job 4: dbt Validation
+  # ---------------------------------------------------------------------------
+  dbt-check:
+    name: dbt Parse & Compile
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dbt
+        run: |
+          pip install dbt-core==1.8.3 dbt-duckdb==1.8.1
+
+      - name: Validate dbt project
+        working-directory: dbt_project
+        run: |
+          # Install dbt packages
+          dbt deps --profiles-dir .
+
+          # Parse all models (catches syntax and ref errors)
+          dbt parse --profiles-dir .
+
+          # Compile all models (generates SQL without running)
+          dbt compile --profiles-dir .
+
+          echo "dbt validation passed — all models parse and compile."

@@ -24,3 +24,15 @@ addopts = "-v --tb=short"
 [tool.mypy]
 python_version = "3.10"
 ignore_missing_imports = true
+
+[tool.bandit]
+exclude_dirs = ["tests"]
+skips = ["B101"]  # Allow assert in tests
+
+[tool.coverage.run]
+source = ["src"]
+omit = ["tests/*", "dags/*"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 60
