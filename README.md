@@ -6,6 +6,7 @@
 [![Delta Lake 3.1](https://img.shields.io/badge/Delta%20Lake-3.1.0-00ADD8.svg)](https://delta.io/)
 [![dbt 1.8](https://img.shields.io/badge/dbt-1.8.3-FF694B.svg)](https://www.getdbt.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B.svg)](https://bklxsx46xfq8sabsbuzjg9.streamlit.app/)
 
 A production-grade data lakehouse for healthcare claims analytics, implementing the **medallion architecture** (Bronze/Silver/Gold) with PySpark, Delta Lake, dbt, and modern data engineering best practices. Designed to run entirely locally at $0 cost while demonstrating enterprise-level patterns.
 
@@ -166,8 +167,7 @@ healthcare-data-lakehouse-platform/
 │   ├── ingestion/                 # Synthetic data generators (Faker)
 │   │   ├── generators.py          # Members, providers, payers, claims, ADT events
 │   │   ├── reference_data.py      # ICD-10, CPT codes, plan types, specialties
-│   │   └── generate_data.py       # CLI entry point
-│   ├── transformations/
+demo│   ├── transformations/
 │   │   ├── bronze/ingest.py       # Raw CSV/JSONL → Delta Lake (append-only)
 │   │   ├── silver/transform.py    # Cleanse, dedup, PHI mask (SHA-256)
 │   │   └── gold/build_dimensions.py  # Star schema + SCD Type 2
