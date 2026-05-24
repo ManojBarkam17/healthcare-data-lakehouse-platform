@@ -11,10 +11,9 @@ All data is synthetic. No real PHI is used or generated.
 """
 
 import hashlib
-import json
 import random
 import uuid
-from datetime import date, datetime, timedelta
+from datetime import datetime, timedelta
 from typing import Any
 
 from faker import Faker
