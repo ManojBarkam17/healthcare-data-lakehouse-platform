@@ -1,0 +1,34 @@
+# =============================================================================
+# Example Variables — copy to terraform.tfvars and customize
+# =============================================================================
+# terraform.tfvars is gitignored — never commit secrets.
+# =============================================================================
+
+project     = "healthcare-lakehouse"
+environment = "dev"
+aws_region  = "us-east-1"
+
+# S3 lifecycle
+enable_s3_versioning = true
+bronze_lifecycle_days = 365
+silver_lifecycle_days = 730
+
+# Redshift Serverless
+redshift_base_capacity  = 8
+redshift_max_capacity   = 32
+redshift_admin_username = "lakehouse_admin"
+redshift_admin_password = "CHANGE_ME_use_secrets_manager"   # pragma: allowlist secret
+
+# Networking
+vpc_cidr             = "10.0.0.0/16"
+private_subnet_cidrs = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
+availability_zones   = ["us-east-1a", "us-east-1b", "us-east-1c"]
+
+# Glue
+glue_crawler_schedule = "cron(0 6 * * ? *)"
+
+# Extra tags
+tags = {
+  Owner      = "data-engineering"
+  CostCenter = "healthcare-analytics"
+}

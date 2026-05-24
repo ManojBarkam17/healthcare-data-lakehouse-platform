@@ -71,10 +71,12 @@ data/raw/claims*.csv
 data/raw/adt_events*.json
 
 # Terraform
-infrastructure/terraform/.terraform/
-infrastructure/terraform/*.tfstate
-infrastructure/terraform/*.tfstate.backup
-infrastructure/terraform/*.tfplan
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+terraform.tfvars
+*.auto.tfvars
 
 # Coverage
 .coverage
