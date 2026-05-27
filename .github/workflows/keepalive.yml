@@ -1,0 +1,43 @@
+# Keep Streamlit Cloud app alive by visiting it every 6 hours
+# Streamlit Community Cloud sleeps apps after 12h of inactivity.
+# A plain HTTP GET won't work - the app needs a real browser visit.
+name: Keep Streamlit App Alive
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: Visit Streamlit app
+        run: |
+          python << 'EOF'
+          from playwright.sync_api import sync_playwright
+
+          url = "https://healthcare-lakehouse.streamlit.app"
+          print(f"Visiting {url}...")
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch()
+              page = browser.new_page()
+              try:
+                  page.goto(url, timeout=60000, wait_until="networkidle")
+                  page.wait_for_timeout(15000)
+                  title = page.title()
+                  print(f"Page loaded: {title}")
+              except Exception as e:
+                  print(f"Warning: {e}")
+              finally:
+                  browser.close()
+
+          print("Keep-alive ping complete")
+          EOF
