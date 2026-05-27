@@ -11,7 +11,7 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![PySpark 3.5](https://img.shields.io/badge/PySpark-3.5.1-orange.svg)](https://spark.apache.org/)
 [![Delta Lake 3.1](https://img.shields.io/badge/Delta%20Lake-3.1.0-00ADD8.svg)](https://delta.io/)
-[![dbt 1.8](https://img.shields.io/badge/dbt-1.8.3-FF694B.svg)](https://www.getdbt.com/)
+[![dbt 1.8](https://img.shields.io/badge/dbt-1.8.3-FF694B.svg)](https://www.getdbt.com/)hh
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A production-grade data lakehouse for healthcare claims analytics, implementing the **medallion architecture** (Bronze/Silver/Gold) with PySpark, Delta Lake, dbt, and modern data engineering best practices. Designed to run entirely locally at $0 cost while demonstrating enterprise-level patterns.
@@ -411,7 +411,7 @@ Pre-commit hooks enforce: trailing whitespace, YAML/JSON validity, Ruff lint+for
 
 ## Author
 
-**Manoj Chandra** — Data Engineer
+**Manoj Barkam** — Data Engineer
 
 - GitHub: [@ManojBarkam17](https://github.com/ManojBarkam17)
 - Email: manoj.barkam17@gmail.com
